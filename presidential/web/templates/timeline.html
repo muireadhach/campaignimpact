@@ -11,7 +11,7 @@
 (dotted), and presidential actions — follow-through mechanisms — placed on the indicators their position's category targets (<code>data/schema/indicator_links.yaml</code>).
 The before/after table shows the indicator in the action's year and 1, 2 and 4 years later. That is a reading of what happened next, not a measurement of what the action caused:
 many actions and events share the same years.</p>
-<form method="get">
+<form method="get" id="tlform" data-default="{{default_inds|join(',')}}">
 <label>from <input name="start" type="number" value="{{start}}" size="6"></label> <label>to <input name="end" type="number" value="{{end}}" size="6"></label>
 <div class="indpick">{% for i in all_ind %}<label><input type="checkbox" name="ind" value="{{i.id}}" {% if i.id in chosen %}checked{% endif %}> {{i.name}}</label>{% endfor %}</div>
 <input type="hidden" name="indicators" id="indicators"><button onclick="document.getElementById('indicators').value=[...document.querySelectorAll('input[name=ind]:checked')].map(c=>c.value).join(',');document.querySelectorAll('input[name=ind]').forEach(c=>c.disabled=true)">Draw</button>
@@ -27,7 +27,7 @@ many actions and events share the same years.</p>
 </svg></div>
 
 {% for p in panels %}
-<div class="panel">
+<div class="panel" data-ind="{{p.ind.id}}">
 <h3>{{p.ind.name}} <span class="muted small">— {{p.ind.unit}} · <a href="/document/{{p.ind.doc}}">{{p.ind.source_name}}</a> · {{p.ind.method}}{% if p.ind.notes %} · {{p.ind.notes}}{% endif %}</span></h3>
 <svg viewBox="0 0 {{W}} {{H}}" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,sans-serif" font-size="10">
 {% for e in events %}<rect class="ev-{{e.kind}}" x="{{'%.1f'|format(e.x0)}}" y="{{H-24 + e.row*2}}" width="{{'%.1f'|format(e.w)}}" height="2" opacity=".8"><title>{{e.name}}</title></rect>{% endfor %}

@@ -2,10 +2,12 @@
 <p class="small"><a href="/documents">Documents</a></p><h1>{{d.title}}</h1>
 <p class="small">{{d.author or ''}} · {{d.date or 'n.d.'}} · <span class="tag">{{d.kind}}</span> · {{d.source}} · {{d.chars}} chars{% if d.url %} · <a href="{{d.url}}" rel="noopener">original</a>{% endif %} · <a href="/document/{{d.id}}/text">plain text</a></p>
 {% if d.citation %}<p class="small muted">{{d.citation}}</p>{% endif %}
+{% if 'wikipedia.org' in (d.url or '') %}<p class="small muted">Wikipedia text, reused under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>.</p>{% endif %}
 {% if cites %}<h2>Cited by</h2><ul class="small">{% for c in cites %}<li><span class="tag">{{c.kind}}</span> {% if c.kind=='reception' %}{{c.title}}{% else %}<a href="/position/{{c.ref}}">{{c.title}}</a>{% endif %}{% if c.quote %} — <i>“{{c.quote[:120]}}{% if c.quote|length>120 %}…{% endif %}”</i>{% endif %}</li>{% endfor %}</ul>{% endif %}
 <h2>Text</h2><div class="doc" id="doc">{% for p in paras %}<p>{{p}}</p>{% endfor %}</div>
-{% if hl %}<script>
-(function(){var needle={{hl|tojson}}.toLowerCase().replace(/[^a-z0-9]+/g,'');if(!needle)return;
+<script>
+(function(){var hl={{(hl or '')|tojson}}||new URLSearchParams(location.search).get('hl')||'';
+var needle=hl.toLowerCase().replace(/[^a-z0-9]+/g,'');if(!needle)return;
 var ps=document.querySelectorAll('#doc p');for(var i=0;i<ps.length;i++){var k=ps[i].textContent.toLowerCase().replace(/[^a-z0-9]+/g,'');if(k.indexOf(needle)>=0){ps[i].style.background='var(--mark)';ps[i].scrollIntoView({block:'center'});break;}}})();
-</script>{% endif %}
+</script>
 {% endblock %}

@@ -133,10 +133,32 @@ def positions(request: Request, cycle: int | None = None, candidate: str | None 
     rows = q(sql, *args)
     filters = dict(cycle=cycle, candidate=candidate, category=category, issue=issue, attribution=attribution,
                    strength=strength, kind=kind, verdict=verdict, event=event, review=review, text=text)
-    return render(request, "positions.html", rows=rows, filters=filters,
+    return render(request, "positions.html", rows=rows, filters=filters, meta=row_filter_meta(rows),
                   cycles=q("SELECT year FROM cycles ORDER BY year"), people=q("SELECT DISTINCT p.id, p.name FROM candidates k JOIN people p ON p.id=k.person ORDER BY p.name"),
                   categories=q("SELECT * FROM categories ORDER BY COALESCE(parent,id), parent IS NOT NULL, name"),
                   issues=q("SELECT * FROM issues ORDER BY name"), events=q("SELECT * FROM events ORDER BY start"))
+
+
+def row_filter_meta(rows) -> dict:
+    """Per-position filter keys (categories with their parents, events, searchable text).
+
+    The live app filters in SQL; the exported static site filters these attributes in the browser."""
+    parent = {r["id"]: r["parent"] for r in q("SELECT id, parent FROM categories")}
+    events, texts = {}, {}
+    for r in q("SELECT position, event FROM position_events"):
+        events.setdefault(r["position"], []).append(r["event"])
+    for r in q("SELECT id, title, solution, rationale FROM positions"):
+        texts[r["id"]] = " ".join(filter(None, (r["title"], r["solution"], r["rationale"]))).lower()
+    out = {}
+    for x in rows:
+        cats = set((x["cats"] or "").split(",")) - {""}
+        for c in list(cats):
+            while parent.get(c):
+                c = parent[c]
+                cats.add(c)
+        out[x["id"]] = {"category": " ".join(sorted(cats)), "event": " ".join(events.get(x["id"], [])),
+                        "text": texts.get(x["id"], "") + " " + (x["candidate_name"] or "").lower() + " " + (x["issue_name"] or "").lower()}
+    return out
 
 
 @app.get("/issues", response_class=HTMLResponse)
@@ -283,5 +305,5 @@ def timeline(request: Request, start: int = 1925, end: int = 1945, indicators: s
         e = dict(e); e.update(x0=sx(s0), w=max(2, sx(e0) - sx(s0)), row=row)
         events[events.index(next(x for x in events if x["id"] == e["id"]))] = e
     cycles = [(c["year"], sx(c["year"] + 0.85)) for c in q("SELECT year FROM cycles WHERE year BETWEEN ? AND ?", start, end)]
-    return render(request, "timeline.html", panels=panels, events=events, n_lanes=len(lanes), all_ind=all_ind, chosen=chosen,
+    return render(request, "timeline.html", panels=panels, events=events, default_inds=default, n_lanes=len(lanes), all_ind=all_ind, chosen=chosen,
                   start=start, end=end, W=W, H=H, L=L, year_ticks=year_ticks, cycles=cycles)

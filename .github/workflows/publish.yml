@@ -1,0 +1,56 @@
+# Build the corpus and publish the frozen web UI to GitHub Pages on every push to main.
+#
+# Repository variables (Settings → Secrets and variables → Actions → Variables):
+#   SITE_URL     public origin, e.g. https://promises.example.com   (writes sitemap.xml / robots.txt)
+#   SITE_BASE    path prefix when served from a subfolder, e.g. /presidential for a project page
+#   SITE_DOMAIN  custom domain, e.g. promises.example.com           (writes CNAME)
+name: publish
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+      - run: uv sync --frozen
+      - name: Compile the database (fails on any unverifiable quote)
+        run: ./pres build
+      - name: Similarity embeddings
+        run: ./pres embed || echo "embeddings unavailable — similarity pages will say so"
+      - name: Freeze the site
+        run: |
+          ./pres export --out site \
+            --base "${{ vars.SITE_BASE }}" \
+            --site-url "${{ vars.SITE_URL }}" \
+            --note "Work in progress — cycles are added one at a time. Every quote is machine-verified against an archived source; follow the links to read it."
+          if [ -n "${{ vars.SITE_DOMAIN }}" ]; then echo "${{ vars.SITE_DOMAIN }}" > site/CNAME; fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

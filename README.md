@@ -23,6 +23,7 @@ build/              presidential.db, embeddings.npz (generated; gitignored)
 ./pres build            # validate data/ + archive/ and compile build/presidential.db (fails on any unverifiable quote)
 ./pres check            # validate only
 ./pres serve            # web UI at http://127.0.0.1:8321  (or: uv run python -m presidential serve)
+./pres export           # freeze the web UI into ./site as a static site (see Publishing)
 ./pres embed            # similarity embeddings (model2vec; TF-IDF fallback offline)
 ./pres indicators       # fetch/refresh statistical series (FRED, Treasury, NCES) into data/indicators/ (+ archived datasets); --force re-downloads
 ./pres fetch <slug>...  # archive documents from presidency.ucsb.edu by URL slug
@@ -46,6 +47,38 @@ years — what happened next, not what the action caused. Datasets are archived 
 line structure preserved) so each series cites its source. Notes: FRED silently stalls requests with a custom
 User-Agent, so `sources/data.py` uses httpx's default; consumer credit only exists from 1943, so "average citizen
 debt" for the 1930s is not available from a primary statistical source.
+
+## Publishing
+
+Every route is a read-only GET, so the whole UI can be frozen and hosted as static files:
+
+```bash
+./pres build && ./pres embed && ./pres export --out site
+```
+
+~2,000 pages, ~43 MB. `--base /subfolder` rewrites the links for a site served below the root,
+`--site-url https://…` writes `sitemap.xml`/`robots.txt`, `--note "…"` puts a banner on every page.
+Preview it with `python3 -m http.server 8322 --directory site`.
+
+What the server does and a static file cannot, `presidential/web/static/site.js` does in the browser:
+the filter forms on `/positions`, `/documents` and `/reception` submit to the unfiltered page and the
+script hides rows that do not match (each row carries its filter keys as `data-*` attributes), quote
+highlighting reads `?hl=`, and the timeline renders every series and toggles panels client-side.
+Two things degrade: FTS5 search *inside* the archived document texts (the published search covers
+titles, authors, dates and position text — the full index stays in the local app), and timeline date
+ranges other than the ones linked from position pages.
+
+`.github/workflows/publish.yml` runs build → embed → export → GitHub Pages on every push to `main`
+(enable Pages with source "GitHub Actions"). Set the repo variables `SITE_URL`, `SITE_BASE` (e.g.
+`/presidential` for a project page, empty for a custom domain) and `SITE_DOMAIN` to taste. To publish
+somewhere else instead, upload the folder: `rsync -av --delete site/ user@host:/var/www/promises/`
+(export with `--base /promises` if it is not at the root).
+
+Before making the archive public, check the reuse terms per source: Chronicling America and federal
+statistics are public domain, Wikipedia extracts are CC BY-SA 4.0 (document pages say so), the American
+Presidency Project transcribes public-domain documents but asserts rights over its compilation, and the
+Internet Archive scans are only as free as the underlying issue. Each document page carries its citation
+and a link to the original.
 
 ## The data model
 

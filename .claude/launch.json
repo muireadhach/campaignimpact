@@ -4,8 +4,29 @@
     {
       "name": "presidential",
       "runtimeExecutable": "uv",
-      "runtimeArgs": ["run", "--no-sync", "python", "-m", "presidential", "serve", "--port", "8321"],
+      "runtimeArgs": [
+        "run",
+        "--no-sync",
+        "python",
+        "-m",
+        "presidential",
+        "serve",
+        "--port",
+        "8321"
+      ],
       "port": 8321
+    },
+    {
+      "name": "site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8322",
+        "--directory",
+        "site"
+      ],
+      "port": 8322
     }
   ]
 }

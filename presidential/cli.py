@@ -60,6 +60,15 @@ def cmd_serve(a):
     uvicorn.run("presidential.web.app:app", host="127.0.0.1", port=a.port, reload=a.reload)
 
 
+def cmd_export(a):
+    from pathlib import Path
+    from .web import export as ex
+    r = ex.export(Path(a.out), base=a.base, note=a.note, site_url=a.site_url)
+    print(f"{r['pages']} pages, {r['bytes']/1e6:.1f} MB -> {a.out}")
+    for u in r["misses"][:20]:
+        print("  skipped:", u)
+
+
 def cmd_embed(a):
     from . import embed
     embed.build_embeddings(force=a.force)
@@ -83,6 +92,12 @@ def main(argv=None):
     s = sub.add_parser("serve", help="run the web UI")
     s.add_argument("--port", type=int, default=8321); s.add_argument("--reload", action="store_true")
     s.set_defaults(fn=cmd_serve)
+    s = sub.add_parser("export", help="freeze the web UI into a static site")
+    s.add_argument("--out", default="site", help="output directory (default: site)")
+    s.add_argument("--base", default="", help="path prefix when the site is served from a subfolder, e.g. /promises")
+    s.add_argument("--note", default=None, help="banner shown at the top of every page")
+    s.add_argument("--site-url", default=None, help="public origin, e.g. https://example.com — writes sitemap.xml and robots.txt")
+    s.set_defaults(fn=cmd_export)
     s = sub.add_parser("indicators", help="fetch/refresh statistical indicator series into data/indicators")
     s.add_argument("--force", action="store_true"); s.set_defaults(fn=cmd_indicators)
     s = sub.add_parser("embed", help="compute similarity embeddings")
