@@ -1,0 +1,39 @@
+id: mfg-hourly-earnings
+name: Average hourly earnings, 25 manufacturing industries
+unit: dollars per hour (nominal)
+category: labor
+source_name: FRED (St. Louis Fed)
+doc: data-fred-m08142usm055nnbr
+series: M08142USM055NNBR
+method: annual mean of published observations
+notes: NBER Macrohistory M08142; monthly, averaged to annual. 1920–1948.
+values:
+  1920: 0.5877
+  1921: 0.5242
+  1922: 0.4872
+  1923: 0.5409
+  1924: 0.5618
+  1925: 0.5611
+  1926: 0.5683
+  1927: 0.5762
+  1928: 0.5791
+  1929: 0.5897
+  1930: 0.589
+  1931: 0.5638
+  1932: 0.4976
+  1933: 0.4906
+  1934: 0.5797
+  1935: 0.5994
+  1936: 0.6185
+  1937: 0.6947
+  1938: 0.7157
+  1939: 0.7204
+  1940: 0.7388
+  1941: 0.8141
+  1942: 0.9237
+  1943: 1.0141
+  1944: 1.0668
+  1945: 1.0972
+  1946: 1.1898
+  1947: 1.3415
+  1948: 1.4309

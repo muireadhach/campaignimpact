@@ -11,12 +11,17 @@ mechanisms:
   doc: mc-fdr-domestic-affairs
   effect: Separation of securities affiliates; FDIC; Fed restrictions.
   consistent: 'yes'
+  indicators:
+  - bank-suspensions
+  - stock-prices
 - type: executive_order
   name: Deposit Liquidation Board
   date: '1933-10-15'
   doc: app-statement-the-establishment-the-deposit-liquidation-board
   effect: RFC-financed loans to speed payments to depositors of closed banks.
   consistent: 'yes'
+  indicators:
+  - bank-suspensions
 assessments:
 - doc: mc-fdr-domestic-affairs
   verdict: kept

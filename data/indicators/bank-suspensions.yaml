@@ -1,0 +1,31 @@
+id: bank-suspensions
+name: Bank suspensions (all incorporated commercial banks)
+unit: banks per year
+category: banking
+source_name: FRED (St. Louis Fed)
+doc: data-fred-x14aicbs
+series: X14AICBS
+method: annual mean of published observations
+notes: Fed Banking and Monetary Statistics 1914-1941; annual count. Ends 1941.
+values:
+  1921: 461.0
+  1922: 343.0
+  1923: 623.0
+  1924: 738.0
+  1925: 579.0
+  1926: 924.0
+  1927: 636.0
+  1928: 479.0
+  1929: 628.0
+  1930: 1292.0
+  1931: 2213.0
+  1932: 1416.0
+  1933: 3891.0
+  1934: 44.0
+  1935: 34.0
+  1936: 43.0
+  1937: 58.0
+  1938: 52.0
+  1939: 41.0
+  1940: 22.0
+  1941: 8.0

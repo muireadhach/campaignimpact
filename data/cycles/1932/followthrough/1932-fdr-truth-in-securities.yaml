@@ -17,6 +17,8 @@ mechanisms:
   doc: app-statement-signing-the-securities-bill
   effect: Registration and disclosure for interstate securities offerings.
   consistent: 'yes'
+  indicators:
+  - stock-prices
 assessments:
 - doc: mc-fdr-domestic-affairs
   verdict: kept

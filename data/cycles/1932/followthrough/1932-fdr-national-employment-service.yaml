@@ -11,6 +11,8 @@ mechanisms:
   quote: As part of the New Deal , President Franklin D. Roosevelt signed the act into law on June 6, 1933, at the
     White House.
   consistent: 'yes'
+  indicators:
+  - unemployment-rate-1929-42
 assessments:
 - doc: wiki-wagner-peyser-act
   verdict: kept

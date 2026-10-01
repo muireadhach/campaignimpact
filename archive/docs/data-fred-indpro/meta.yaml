@@ -1,0 +1,13 @@
+id: data-fred-indpro
+source: fred
+kind: dataset
+title: FRED series INDPRO
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=INDPRO
+citation: Federal Reserve Bank of St. Louis, FRED series INDPRO, https://fred.stlouisfed.org/graph/fredgraph.csv?id=INDPRO
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:53:42+00:00'
+sha256: e9668b9b92c9ea1904162e580d0e3e32e05f84efb213563ded6c322042b5ad22
+notes: null
+extra: {}

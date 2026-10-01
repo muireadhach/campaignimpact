@@ -20,6 +20,8 @@ mechanisms:
   quote: I estimate that 250,000 men can be given temporary employment by early summer if you give me authority
     to proceed within the next two weeks.
   consistent: partly
+  indicators:
+  - unemployment-rate-1929-42
 assessments:
 - doc: mc-fdr-domestic-affairs
   verdict: partial

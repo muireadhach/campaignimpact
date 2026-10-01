@@ -1,0 +1,44 @@
+id: gold-stock
+name: Monetary gold stock
+unit: billions of dollars
+category: monetary
+source_name: FRED (St. Louis Fed)
+doc: data-fred-m1476busm027nnbr
+series: M1476BUSM027NNBR
+method: annual last of published observations
+notes: NBER Macrohistory M1476B; December value. 1914–1946. Jumps in 1934 reflect
+  the dollar's revaluation to $35/oz.
+values:
+  1914: 1.53
+  1915: 2.02
+  1916: 2.56
+  1917: 2.87
+  1918: 2.87
+  1919: 2.73
+  1920: 2.61
+  1921: 3.36
+  1922: 3.63
+  1923: 3.94
+  1924: 4.22
+  1925: 4.11
+  1926: 4.19
+  1927: 4.13
+  1928: 3.86
+  1929: 4.04
+  1930: 4.3
+  1931: 4.16
+  1932: 4.14
+  1933: 4.04
+  1934: 8.19
+  1935: 10.07
+  1936: 11.22
+  1937: 12.76
+  1938: 14.42
+  1939: 17.52
+  1940: 21.89
+  1941: 22.76
+  1942: 22.74
+  1943: 22.02
+  1944: 20.66
+  1945: 20.05
+  1946: 20.49

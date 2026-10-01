@@ -21,6 +21,9 @@ mechanisms:
   doc: app-statement-signing-the-farm-relief-bill
   effect: Domestic allotment; processing tax; voluntary contracts.
   consistent: 'yes'
+  indicators:
+  - farm-prices-received
+  - farm-cash-receipts
 - type: statute
   name: Soil Conservation and Domestic Allotment Act
   date: '1936-03-01'

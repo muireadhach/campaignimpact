@@ -13,6 +13,9 @@ mechanisms:
     throughout all industry in order to obtain wide reemployment, to shorten the working week, to pay a decent wage
     for the shorter week and to prevent unfair competition and disastrous overproduction.
   consistent: 'yes'
+  indicators:
+  - mfg-weekly-hours
+  - unemployment-rate-1929-42
 assessments:
 - doc: mc-fdr-domestic-affairs
   verdict: kept

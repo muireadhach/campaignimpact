@@ -1,0 +1,13 @@
+id: data-fred-m1476busm027nnbr
+source: fred
+kind: dataset
+title: FRED series M1476BUSM027NNBR
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=M1476BUSM027NNBR
+citation: Federal Reserve Bank of St. Louis, FRED series M1476BUSM027NNBR, https://fred.stlouisfed.org/graph/fredgraph.csv?id=M1476BUSM027NNBR
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:53:45+00:00'
+sha256: b3565beb0e3c45a2e8c99f035fa504e3f9b397bc29711ab6c8375beb8c7e2d91
+notes: null
+extra: {}

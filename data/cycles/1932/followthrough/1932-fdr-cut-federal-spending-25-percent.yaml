@@ -20,12 +20,19 @@ mechanisms:
   doc: app-message-congress-economies-government
   effect: Cuts of about $500 million in veterans' payments and federal salaries (up to 15 percent).
   consistent: 'yes'
+  indicators:
+  - federal-outlays-pct-gdp
+  - federal-surplus-deficit
 - type: statute
   name: NIRA Title II public works ($3.3 billion)
   date: '1933-06-16'
   doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
   effect: Largest single peacetime appropriation to date; charged to the 'emergency' budget.
   consistent: 'no'
+  indicators:
+  - federal-outlays-pct-gdp
+  - federal-surplus-deficit
+  - construction-contracts
 - type: budget
   name: 'Budget message FY1935: ''regular'' versus ''emergency'' expenditures'
   date: '1934-01-03'

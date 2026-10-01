@@ -18,12 +18,17 @@ mechanisms:
   doc: app-statement-signing-the-farm-relief-bill
   effect: $2 billion in Federal Land Bank bonds to refinance farm mortgages; interest reduced; extensions.
   consistent: 'yes'
+  indicators:
+  - farm-prices-received
+  - farm-cash-receipts
 - type: statute
   name: Home Owners' Loan Act
   date: '1933-06-13'
   doc: app-statement-signing-the-home-owners-loan-act-signed
   effect: Home Owners' Loan Corporation refinanced roughly a million urban home mortgages.
   consistent: 'yes'
+  indicators:
+  - nonfarm-foreclosures
 assessments:
 - doc: mc-fdr-domestic-affairs
   verdict: kept

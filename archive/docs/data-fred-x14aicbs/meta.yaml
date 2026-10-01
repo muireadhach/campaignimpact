@@ -1,0 +1,13 @@
+id: data-fred-x14aicbs
+source: fred
+kind: dataset
+title: FRED series X14AICBS
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=X14AICBS
+citation: Federal Reserve Bank of St. Louis, FRED series X14AICBS, https://fred.stlouisfed.org/graph/fredgraph.csv?id=X14AICBS
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:53:41+00:00'
+sha256: 2723df7e4abbb6de7e12712a2209707a4b0b85c2750ba3c3df7095ca60c85f34
+notes: null
+extra: {}

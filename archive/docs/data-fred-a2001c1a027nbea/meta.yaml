@@ -1,0 +1,13 @@
+id: data-fred-a2001c1a027nbea
+source: fred
+kind: dataset
+title: FRED series A2001C1A027NBEA
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=A2001C1A027NBEA
+citation: Federal Reserve Bank of St. Louis, FRED series A2001C1A027NBEA, https://fred.stlouisfed.org/graph/fredgraph.csv?id=A2001C1A027NBEA
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:53:42+00:00'
+sha256: 5ac72866f3e590f176d41481306f3b54d50c0cf1e6cc4e25c3349c104020446f
+notes: null
+extra: {}

@@ -19,6 +19,10 @@ mechanisms:
   doc: app-statement-signing-the-farm-relief-bill
   effect: Domestic allotment with benefit payments for reduced acreage; processing tax; Thomas inflation amendment.
   consistent: 'yes'
+  indicators:
+  - farm-prices-received
+  - farm-cash-receipts
+  - ppi-all-commodities
 - type: statute
   name: Soil Conservation and Domestic Allotment Act (after Butler struck the AAA)
   date: '1936-03-01'

@@ -141,6 +141,29 @@ def fetch_default_set(force: bool = False) -> list[str]:
     done.append(fred("FYONGDA188S", "federal-outlays-pct-gdp", name="Federal outlays as percent of GDP", unit="percent of GDP", category="fiscal", reduce="last", force=force))
     done.append(fred("TOTALSL", "consumer-credit", name="Consumer credit outstanding (1943–)", unit="billions of dollars", category="household", reduce="last", scale=1e-3,
                      notes="Proxy for household debt; earlier decades are not in FRED. Monthly, year-end value.", force=force))
+    # Narrower series for per-mechanism links (data/cycles/*/followthrough/*.yaml `indicators:`)
+    done.append(fred("X14AICBS", "bank-suspensions", name="Bank suspensions (all incorporated commercial banks)", unit="banks per year", category="banking", force=force,
+                     notes="Fed Banking and Monetary Statistics 1914-1941; annual count. Ends 1941."))
+    done.append(fred("M0460AUSM319NNBR", "farm-prices-received", name="Index of prices received by farmers (1910–14=100)", unit="index", category="agriculture", force=force,
+                     notes="NBER Macrohistory M0460A; monthly, averaged to annual. 1910–1967."))
+    done.append(fred("A2001C1A027NBEA", "farm-cash-receipts", name="Cash receipts from farm marketings", unit="billions of dollars", category="agriculture", force=force,
+                     notes="BEA farm output, annual, 1929–."))
+    done.append(fred("INDPRO", "industrial-production", name="Industrial production index (2017=100)", unit="index", category="industry", force=force,
+                     notes="Federal Reserve G.17; monthly, averaged to annual. 1919–."))
+    done.append(fred("PPIACO", "ppi-all-commodities", name="Producer (wholesale) price index, all commodities (1982=100)", unit="index", category="prices", force=force,
+                     notes="BLS; monthly, averaged to annual. 1913–. The 1930s 'wholesale price' target of reflation policy."))
+    done.append(fred("M09075USM476NNBR", "nonfarm-foreclosures", name="Nonfarm real estate foreclosures", unit="foreclosures per year", category="household", reduce="sum", force=force,
+                     notes="NBER Macrohistory M09075; monthly counts summed to annual. 1934–1963 only, so it shows the HOLC era but not the pre-1934 peak."))
+    done.append(fred("M1125AUSM343NNBR", "stock-prices", name="Index of all common stock prices (Cowles / S&P)", unit="index", category="finance", force=force,
+                     notes="NBER Macrohistory M1125A; monthly, averaged to annual. 1871–1956."))
+    done.append(fred("M1476BUSM027NNBR", "gold-stock", name="Monetary gold stock", unit="billions of dollars", category="monetary", reduce="last", force=force,
+                     notes="NBER Macrohistory M1476B; December value. 1914–1946. Jumps in 1934 reflect the dollar's revaluation to $35/oz."))
+    done.append(fred("M0829AUSM065NNBR", "mfg-weekly-hours", name="Average hours worked per week, manufacturing", unit="hours", category="labor", force=force,
+                     notes="NBER Macrohistory M0829A; monthly, averaged to annual. 1920–1948."))
+    done.append(fred("M08142USM055NNBR", "mfg-hourly-earnings", name="Average hourly earnings, 25 manufacturing industries", unit="dollars per hour (nominal)", category="labor", force=force,
+                     notes="NBER Macrohistory M08142; monthly, averaged to annual. 1920–1948."))
+    done.append(fred("M02108USM324NNBR", "construction-contracts", name="Index of construction contracts awarded (cost-adjusted)", unit="index", category="infrastructure", force=force,
+                     notes="NBER Macrohistory M02108 (Engineering News-Record); monthly, averaged to annual. 1914–1943. Public works show up here."))
     done.append(treasury_debt(force=force))
     done.append(nces_hs_graduates(force=force))
     return done

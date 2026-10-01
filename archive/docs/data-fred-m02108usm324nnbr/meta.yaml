@@ -1,0 +1,13 @@
+id: data-fred-m02108usm324nnbr
+source: fred
+kind: dataset
+title: FRED series M02108USM324NNBR
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=M02108USM324NNBR
+citation: Federal Reserve Bank of St. Louis, FRED series M02108USM324NNBR, https://fred.stlouisfed.org/graph/fredgraph.csv?id=M02108USM324NNBR
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:53:46+00:00'
+sha256: 7d483c39335b5b495f3b2ebcb238e5bc49c1af4231d0cf50437c0fd695230eca
+notes: null
+extra: {}

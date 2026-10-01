@@ -12,6 +12,10 @@ mechanisms:
   doc: app-excerpts-from-the-press-conference-146
   effect: Announced at the April 19 press conference; formalized by Executive Order 6111.
   consistent: 'yes'
+  indicators:
+  - ppi-all-commodities
+  - gold-stock
+  - cpi
 - type: message
   name: 'Second fireside chat: price-raising objective'
   date: '1933-05-07'
@@ -26,6 +30,10 @@ mechanisms:
   doc: app-statement-signing-the-farm-relief-bill
   effect: Discretionary powers to devalue the dollar and expand credit.
   consistent: 'yes'
+  indicators:
+  - ppi-all-commodities
+  - farm-prices-received
+  - cpi
 assessments:
 - doc: mc-fdr-foreign-affairs
   verdict: kept

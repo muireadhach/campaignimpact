@@ -10,6 +10,9 @@ mechanisms:
   doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
   quote: One of the great restrictions upon such cooperative efforts up to this time has been our anti-trust laws.
   consistent: 'no'
+  indicators:
+  - industrial-production
+  - ppi-all-commodities
 assessments:
 - doc: mc-fdr-domestic-affairs
   verdict: reversed

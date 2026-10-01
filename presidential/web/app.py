@@ -92,13 +92,17 @@ def position(request: Request, pid: str):
     events = q("SELECT e.* FROM position_events pe JOIN events e ON e.id=pe.event WHERE pe.position=?", pid)
     ft = q1("SELECT * FROM followthrough WHERE position=?", pid)
     mechs = q("SELECT m.*, d.title AS doc_title FROM mechanisms m LEFT JOIN documents d ON d.id=m.doc WHERE position=? ORDER BY date, seq", pid)
+    mech_inds = {}
+    for r in q("""SELECT mi.mechanism, i.id, i.name FROM mechanism_indicators mi JOIN mechanisms m ON m.id=mi.mechanism
+                  JOIN indicators i ON i.id=mi.indicator WHERE m.position=? ORDER BY i.name""", pid):
+        mech_inds.setdefault(r["mechanism"], []).append(r)
     assess = q("SELECT a.*, d.title AS doc_title, d.author AS doc_author FROM assessments a JOIN documents d ON d.id=a.doc WHERE position=? ORDER BY seq", pid)
     others = q("SELECT e.*, p.name AS by_name FROM enacted_by_other e JOIN people p ON p.id=e.by_person WHERE position=? ORDER BY date", pid)
     reception = q("SELECT r.*, d.title AS doc_title FROM reception r JOIN documents d ON d.id=r.doc WHERE position=? ORDER BY date", pid)
     same_issue = q("""SELECT x.id, x.title, x.candidate, p.name AS candidate_name, x.cycle, x.commitment_strength
                       FROM positions x JOIN people p ON p.id=x.candidate WHERE x.issue=? AND x.id<>? ORDER BY x.cycle, p.name""", x["issue"], pid)
     chain = q("SELECT id, title, candidate, cycle FROM positions WHERE supersedes=? OR id=?", pid, x["supersedes"] or "")
-    return render(request, "position.html", x=x, stmts=stmts, cats=cats, events=events, ft=ft, mechs=mechs,
+    return render(request, "position.html", x=x, stmts=stmts, cats=cats, events=events, ft=ft, mechs=mechs, mech_inds=mech_inds,
                   assess=assess, others=others, reception=reception, same_issue=same_issue, chain=chain)
 
 
@@ -235,7 +239,8 @@ def similar(request: Request, pid: str, field: str = "solution"):
 def timeline(request: Request, start: int = 1925, end: int = 1945, indicators: str | None = None):
     """Small-multiple SVG charts of indicator series with an event lane and presidential-action markers."""
     all_ind = q("SELECT * FROM indicators ORDER BY category, name")
-    default = ["unemployment-rate-1929-42", "unemployment-rate", "gdp-nominal", "federal-debt", "federal-surplus-deficit", "cpi", "hs-graduation-rate"]
+    default = ["unemployment-rate-1929-42", "unemployment-rate", "industrial-production", "gdp-nominal", "bank-suspensions", "farm-prices-received",
+               "ppi-all-commodities", "federal-debt", "federal-surplus-deficit", "hs-graduation-rate"]
     chosen = [i for i in (indicators or "").split(",") if i] or [r["id"] for r in all_ind if r["id"] in default]
     W, H, L, R_, T, B = 900, 150, 70, 20, 16, 26
     span = max(1, end - start)

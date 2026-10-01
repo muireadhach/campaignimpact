@@ -10,6 +10,8 @@ mechanisms:
   date: '1933-11-09'
   doc: mc-fdr-domestic-affairs
   consistent: partly
+  indicators:
+  - unemployment-rate-1929-42
 - type: statute
   name: Emergency Relief Appropriation Act (WPA)
   date: '1935-04-08'

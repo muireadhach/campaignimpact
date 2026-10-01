@@ -1,0 +1,13 @@
+id: data-fred-m1125ausm343nnbr
+source: fred
+kind: dataset
+title: FRED series M1125AUSM343NNBR
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=M1125AUSM343NNBR
+citation: Federal Reserve Bank of St. Louis, FRED series M1125AUSM343NNBR, https://fred.stlouisfed.org/graph/fredgraph.csv?id=M1125AUSM343NNBR
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:53:44+00:00'
+sha256: e8517806c2e13e809535d5bccb92651e51388e12448ab724d792edf5df7518f1
+notes: null
+extra: {}

@@ -12,6 +12,10 @@ mechanisms:
   doc: app-statement-signing-the-national-industrial-recovery-act
   effect: Industry codes under government licensing; PWA.
   consistent: 'yes'
+  indicators:
+  - industrial-production
+  - mfg-weekly-hours
+  - mfg-hourly-earnings
 - type: message
   name: 'TVA message: ''national planning for a complete river watershed'''
   date: '1933-04-10'

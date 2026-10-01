@@ -1,0 +1,39 @@
+id: mfg-weekly-hours
+name: Average hours worked per week, manufacturing
+unit: hours
+category: labor
+source_name: FRED (St. Louis Fed)
+doc: data-fred-m0829ausm065nnbr
+series: M0829AUSM065NNBR
+method: annual mean of published observations
+notes: NBER Macrohistory M0829A; monthly, averaged to annual. 1920–1948.
+values:
+  1920: 48.2
+  1921: 45.55
+  1922: 49.15
+  1923: 49.1917
+  1924: 46.9417
+  1925: 48.2083
+  1926: 48.1333
+  1927: 47.725
+  1928: 47.925
+  1929: 48.3417
+  1930: 43.8917
+  1931: 40.3583
+  1932: 34.8083
+  1933: 36.4167
+  1934: 34.7
+  1935: 37.1583
+  1936: 39.4583
+  1937: 38.7417
+  1938: 34.3083
+  1939: 37.625
+  1940: 38.5583
+  1941: 41.225
+  1942: 43.0333
+  1943: 45.0333
+  1944: 45.5833
+  1945: 44.15
+  1946: 40.1083
+  1947: 40.5083
+  1948: 40.2571

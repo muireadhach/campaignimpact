@@ -1,0 +1,41 @@
+id: construction-contracts
+name: Index of construction contracts awarded (cost-adjusted)
+unit: index
+category: infrastructure
+source_name: FRED (St. Louis Fed)
+doc: data-fred-m02108usm324nnbr
+series: M02108USM324NNBR
+method: annual mean of published observations
+notes: NBER Macrohistory M02108 (Engineering News-Record); monthly, averaged to annual.
+  1914–1943. Public works show up here.
+values:
+  1914: 108.1667
+  1915: 99.4167
+  1916: 116.25
+  1917: 72.5833
+  1918: 87.6667
+  1919: 96.4167
+  1920: 98.4167
+  1921: 102.1667
+  1922: 145.6667
+  1923: 147.0833
+  1924: 154.0
+  1925: 201.6667
+  1926: 227.3333
+  1927: 261.5833
+  1928: 283.3333
+  1929: 316.0833
+  1930: 261.3333
+  1931: 222.4167
+  1932: 127.1667
+  1933: 101.75
+  1934: 117.0833
+  1935: 133.5
+  1936: 185.3333
+  1937: 171.8333
+  1938: 196.5
+  1939: 210.5833
+  1940: 268.8333
+  1941: 375.0833
+  1942: 553.4167
+  1943: 210.3333

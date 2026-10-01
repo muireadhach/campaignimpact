@@ -39,7 +39,9 @@ Other fetchers (Python API): `presidential.sources.loc` (Chronicling America new
 `/timeline` charts yearly indicators (unemployment, GDP, CPI, federal debt/deficit/outlays, consumer credit, high-school
 graduation) with an event lane (wars, economic, political) and election years. Every follow-through **mechanism** is
 placed on the indicators mapped from its position's categories in `data/schema/indicator_links.yaml` (a mechanism may
-also list `indicators: [...]` explicitly). The before/after table shows the indicator at the action year and +1/+2/+4
+also list `indicators: [...]` explicitly — the 1933 Hundred Days statutes do, pointing at narrower series: bank
+suspensions for Glass-Steagall, prices received by farmers for the AAA, manufacturing hours/earnings for NIRA codes,
+nonfarm foreclosures for the HOLC, construction contracts for PWA, gold stock and wholesale prices for the gold embargo). The before/after table shows the indicator at the action year and +1/+2/+4
 years — what happened next, not what the action caused. Datasets are archived like any other document (`kind: dataset`,
 line structure preserved) so each series cites its source. Notes: FRED silently stalls requests with a custom
 User-Agent, so `sources/data.py` uses httpx's default; consumer credit only exists from 1943, so "average citizen

@@ -14,6 +14,9 @@ mechanisms:
     throughout all industry in order to obtain wide reemployment, to shorten the working week, to pay a decent wage
     for the shorter week and to prevent unfair competition and disastrous overproduction.
   consistent: 'yes'
+  indicators:
+  - mfg-hourly-earnings
+  - mfg-weekly-hours
 - type: statute
   name: National Labor Relations Act
   date: '1935-07-05'

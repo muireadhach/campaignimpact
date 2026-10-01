@@ -1,0 +1,13 @@
+id: data-fred-m09075usm476nnbr
+source: fred
+kind: dataset
+title: FRED series M09075USM476NNBR
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=M09075USM476NNBR
+citation: Federal Reserve Bank of St. Louis, FRED series M09075USM476NNBR, https://fred.stlouisfed.org/graph/fredgraph.csv?id=M09075USM476NNBR
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:53:43+00:00'
+sha256: 9d33d497ca9de0090c269d1cb23c4b8eef58e6edb69fc5d68115b9312ee5c606
+notes: null
+extra: {}

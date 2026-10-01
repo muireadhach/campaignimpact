@@ -1,0 +1,41 @@
+id: nonfarm-foreclosures
+name: Nonfarm real estate foreclosures
+unit: foreclosures per year
+category: household
+source_name: FRED (St. Louis Fed)
+doc: data-fred-m09075usm476nnbr
+series: M09075USM476NNBR
+method: annual sum of published observations
+notes: NBER Macrohistory M09075; monthly counts summed to annual. 1934–1963 only,
+  so it shows the HOLC era but not the pre-1934 peak.
+values:
+  1934: 230350.0
+  1935: 228713.0
+  1936: 185439.0
+  1937: 151366.0
+  1938: 118357.0
+  1939: 100410.0
+  1940: 75556.0
+  1941: 58559.0
+  1942: 41997.0
+  1943: 25281.0
+  1944: 17153.0
+  1945: 12706.0
+  1946: 10453.0
+  1947: 10559.0
+  1948: 13052.0
+  1949: 17635.0
+  1950: 21537.0
+  1951: 18141.0
+  1952: 18135.0
+  1953: 21473.0
+  1954: 26211.0
+  1955: 28529.0
+  1956: 30963.0
+  1957: 34204.0
+  1958: 42367.0
+  1959: 44075.0
+  1960: 51353.0
+  1961: 73074.0
+  1962: 86444.0
+  1963: 23505.0

@@ -18,6 +18,9 @@ mechanisms:
   doc: app-statement-signing-the-unemployment-relief-bill
   effect: $500 million in grants (half matching) to states.
   consistent: 'yes'
+  indicators:
+  - unemployment-rate-1929-42
+  - federal-outlays-pct-gdp
 - type: message
   name: Second fireside chat on the $500 million grant
   date: '1933-05-07'

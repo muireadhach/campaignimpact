@@ -12,6 +12,10 @@ mechanisms:
   doc: app-excerpts-from-the-press-conference-146
   effect: Ended the gold standard in practice.
   consistent: 'no'
+  indicators:
+  - gold-stock
+  - ppi-all-commodities
+  - cpi
 - type: message
   name: 'Second fireside chat: ''gold ... perfectly good bases for currency'''
   date: '1933-05-07'

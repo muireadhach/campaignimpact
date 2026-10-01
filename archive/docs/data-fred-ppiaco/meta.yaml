@@ -1,0 +1,13 @@
+id: data-fred-ppiaco
+source: fred
+kind: dataset
+title: FRED series PPIACO
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=PPIACO
+citation: Federal Reserve Bank of St. Louis, FRED series PPIACO, https://fred.stlouisfed.org/graph/fredgraph.csv?id=PPIACO
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:53:43+00:00'
+sha256: cd2fc9530ed3a4f7e4d4e8425ea3ec33203d7b04891a0606c793a5a4d66ef65d
+notes: null
+extra: {}

@@ -14,6 +14,9 @@ mechanisms:
     we thus limit the operation of antitrust laws to their original purpose, to provide a rigorous licensing power
     in order to meet rare cases of non-cooperation and abuse.
   consistent: partly
+  indicators:
+  - industrial-production
+  - ppi-all-commodities
 assessments:
 - doc: mc-fdr-domestic-affairs
   verdict: partial

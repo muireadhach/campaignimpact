@@ -16,6 +16,9 @@ mechanisms:
   date: '1933-05-12'
   doc: app-statement-signing-the-farm-relief-bill
   consistent: 'yes'
+  indicators:
+  - farm-prices-received
+  - farm-cash-receipts
 assessments:
 - doc: mc-fdr-domestic-affairs
   verdict: partial
