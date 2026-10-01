@@ -1,0 +1,61 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: government-role-general
+categories:
+- executive_power
+- economy
+- relief
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: An "economic declaration of rights" — the right to make a living and the right to safe savings
+solution: 'Government to assist the development of "an economic constitutional order" under which every man has
+  a right to a comfortable living through his own work and a right to the safety of his savings, restricting "the
+  speculator, the manipulator, even the financier" where necessary. The era of expansion is over; the task is "enlightened
+  administration" of existing plant, adjusting production to consumption and distributing wealth more equitably.
+
+  '
+rationale: 'The frontier is closed, industry is overbuilt and 600 corporations control two-thirds of it; equality
+  of opportunity "no longer exists"; private economic power is "a public trust"; without a redefinition of rights
+  "a rising tide of misery ... engulf us all."
+
+  '
+statements:
+- date: 1932-09-23
+  venue: Commonwealth Club, San Francisco
+  phase: general
+  audience: civic and business leaders
+  doc: app-campaign-address-progressive-government-the-commonwealth-club-san-francisco-california
+  quote: As I see it, the task of Government in its relation to business is to assist the development of an economic
+    declaration of rights, an economic constitutional order.
+- date: 1932-09-23
+  venue: Commonwealth Club, San Francisco
+  phase: general
+  doc: app-campaign-address-progressive-government-the-commonwealth-club-san-francisco-california
+  quote: Every man has a right to life; and this means that he has also a right to make a comfortable living. He
+    may by sloth or crime decline to exercise that right; but it may not be denied him.
+- date: 1932-09-23
+  venue: Commonwealth Club, San Francisco
+  phase: general
+  doc: app-campaign-address-progressive-government-the-commonwealth-club-san-francisco-california
+  quote: Every man has a right to his own property; which means a right to be assured, to the fullest extent attainable,
+    in the safety of his savings.
+- date: 1932-09-23
+  venue: Commonwealth Club, San Francisco
+  phase: general
+  doc: app-campaign-address-progressive-government-the-commonwealth-club-san-francisco-california
+  quote: The day of enlightened administration has come.
+- date: '1932-10-21'
+  venue: Campaign address on the eight credit groups, St. Louis
+  phase: general
+  doc: app-campaign-address-the-eight-great-credit-groups-the-nation-st-louis-missouri
+  quote: So far as possible, industry should be organized so that it will give every workman the right to earn a
+    living through his own effort. Such influence as the Federal Government may exert should be directed to this
+    end.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

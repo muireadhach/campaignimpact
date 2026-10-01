@@ -1,0 +1,17 @@
+{% extends "base.html" %}{% block title %}Positions{% endblock %}{% block body %}
+<h1>Positions <span class="muted">({{rows|length}})</span></h1>
+<form class="filters" method="get">
+<select name="cycle"><option value="">cycle</option>{% for c in cycles %}<option value="{{c.year}}" {% if filters.cycle==c.year %}selected{% endif %}>{{c.year}}</option>{% endfor %}</select>
+<select name="candidate"><option value="">candidate</option>{% for p in people %}<option value="{{p.id}}" {% if filters.candidate==p.id %}selected{% endif %}>{{p.name}}</option>{% endfor %}</select>
+<select name="category"><option value="">category</option>{% for c in categories %}<option value="{{c.id}}" {% if filters.category==c.id %}selected{% endif %}>{% if c.parent %}&nbsp;&nbsp;{% endif %}{{c.name}}</option>{% endfor %}</select>
+<select name="issue"><option value="">issue</option>{% for i in issues %}<option value="{{i.id}}" {% if filters.issue==i.id %}selected{% endif %}>{{i.name}}</option>{% endfor %}</select>
+<select name="kind"><option value="">kind</option>{% for k in enums.position_kind %}<option {% if filters.kind==k %}selected{% endif %}>{{k}}</option>{% endfor %}</select>
+<select name="strength"><option value="">strength</option>{% for k in enums.commitment_strength %}<option {% if filters.strength==k %}selected{% endif %}>{{k}}</option>{% endfor %}</select>
+<select name="attribution"><option value="">attribution</option>{% for k in enums.attribution %}<option {% if filters.attribution==k %}selected{% endif %}>{{k}}</option>{% endfor %}</select>
+<select name="verdict"><option value="">verdict</option>{% for k in enums.verdict %}<option {% if filters.verdict==k %}selected{% endif %}>{{k}}</option>{% endfor %}</select>
+<select name="event"><option value="">triggered by</option>{% for e in events %}<option value="{{e.id}}" {% if filters.event==e.id %}selected{% endif %}>{{e.name}}</option>{% endfor %}</select>
+<select name="review"><option value="">review</option>{% for k in enums.review_status %}<option {% if filters.review==k %}selected{% endif %}>{{k}}</option>{% endfor %}</select>
+<input name="text" placeholder="full text" value="{{filters.text or ''}}"><button>Filter</button> <a href="/positions">clear</a></form>
+<table><tr><th>Cycle</th><th>Candidate</th><th>Issue</th><th>Position</th><th>Kind</th><th>Strength</th><th>Attribution</th><th>Ev.</th><th>Verdict</th></tr>
+{% for x in rows %}<tr><td>{{x.cycle}}</td><td class="small">{{x.candidate_name}}</td><td class="small"><a href="/issue/{{x.issue}}">{{x.issue_name}}</a></td><td><a href="/position/{{x.id}}">{{x.title}}</a></td><td><span class="tag">{{x.kind}}</span></td><td><span class="tag {{x.commitment_strength}}">{{x.commitment_strength}}</span></td><td><span class="tag {{x.attribution}}">{{x.attribution}}</span></td><td><span class="tag {{x.evidence_quality}}">{{x.evidence_quality}}</span></td><td>{% if x.verdict %}<span class="tag {{x.verdict}}">{{x.verdict}}</span>{% if x.contested %}<span class="tag contested">?</span>{% endif %}{% endif %}</td></tr>{% endfor %}</table>
+{% endblock %}

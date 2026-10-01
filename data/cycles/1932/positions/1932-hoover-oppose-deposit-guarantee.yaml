@@ -1,0 +1,33 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: deposit-insurance
+categories:
+- banking
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: A
+title: Oppose a federal guarantee of bank deposits
+solution: List 'the guarantee of bank deposits' among the Democratic House measures the party contrasts with its
+  own program; rely instead on stronger supervision and RFC support.
+rationale: Deposit guarantees are grouped with fiat currency and price manipulation as unsound expedients.
+notes: Neither Roosevelt nor the Democratic platform endorsed deposit insurance; the House Steagall bill of 1932
+  did. The FDIC (June 1933) was a congressional initiative Roosevelt initially resisted.
+statements:
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: 'In contrast with the Republican policies and record, we contrast those of the democratic as evidenced
+    by the action of the House of Representatives under Democratic leadership and control, which includes:'
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: 3. The guarantee of bank deposits.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

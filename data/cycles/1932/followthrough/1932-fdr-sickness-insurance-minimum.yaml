@@ -1,0 +1,26 @@
+position: 1932-fdr-sickness-insurance-minimum
+verdict: abandoned
+contested: false
+summary: Health insurance was studied by the Committee on Economic Security but omitted from the Social Security
+  bill to protect its passage against medical opposition; no proposal was sent to Congress.
+mechanisms:
+- type: statute
+  name: Social Security Act — no health insurance title
+  date: '1935-08-14'
+  doc: app-statement-signing-the-social-security-act-0
+  effect: Titles I–V cover old age, unemployment, dependent children, the blind; none covers sickness.
+  consistent: 'no'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: abandoned
+  reasoning: The 1935 act's titles omit health insurance.
+  quote: With its passage came programs like Old Age Assistance (Title I), Old Age Insurance (Title II), Unemployment
+    Insurance (Title III), Aid to Dependent Children (Title IV) and Aid to the Blind (Title V).
+obstruction:
+  reasons:
+  - deliberate_abandonment
+  explanation: Dropped to avoid jeopardizing the Social Security Act; medical-profession opposition.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

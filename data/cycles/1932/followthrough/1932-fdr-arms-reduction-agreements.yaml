@@ -1,0 +1,26 @@
+position: 1932-fdr-arms-reduction-agreements
+verdict: broken
+contested: false
+summary: The Geneva Disarmament Conference collapsed after Germany withdrew in October 1933; Japan denounced the
+  naval treaties in December 1934; the 1936 London treaty imposed only qualitative limits. No arms-reduction agreement
+  was achieved; the United States expanded its navy instead.
+mechanisms:
+- type: treaty
+  name: Geneva conference and its collapse
+  date: '1933-10-14'
+  doc: wiki-world-disarmament-conference
+  effect: Germany's withdrawal ended prospects for a general agreement.
+  consistent: 'no'
+assessments:
+- doc: wiki-world-disarmament-conference
+  verdict: broken
+  reasoning: The conference failed; rearmament followed.
+obstruction:
+  reasons:
+  - war
+  explanation: German and Japanese rearmament.
+  doc: wiki-world-disarmament-conference
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

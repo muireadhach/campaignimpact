@@ -1,0 +1,27 @@
+position: 1932-fdr-economic-constitutional-order
+verdict: kept
+contested: true
+summary: Social Security (1935), the Wagner Act, federal relief and securities regulation gave institutional form
+  to the 'right to make a comfortable living' and the 'right to safe savings'; the second inaugural's 'one-third
+  of a nation' restated the unfinished part.
+mechanisms:
+- type: statute
+  name: Social Security Act
+  date: '1935-08-14'
+  doc: app-statement-signing-the-social-security-act-0
+  consistent: 'yes'
+- type: statute
+  name: National Labor Relations Act
+  date: '1935-07-05'
+  doc: app-statement-signing-the-national-labor-relations-act
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: A welfare state was committed to in 1935.
+  quote: Taken together, these programs represented a significant commitment to developing a welfare state in the
+    United States.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

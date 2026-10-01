@@ -1,0 +1,18 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-economic-planning
+source_type: historiography
+source_name: Wikipedia summary of party-leader reaction (citing Caro, Golway)
+date: '1932-04-07'
+perceived: Party leaders such as Raskob judged Roosevelt an extremist after the Forgotten Man speech and sought
+  to block him.
+fidelity: distorted
+salience: high
+doc: wiki-al-smith-1932-presidential-campaign
+quote: Roosevelt's speech caused party leaders, such as Democratic National Committee Chairman John J. Raskob ,
+  to judge Roosevelt as an extremist, causing them to oppose his candidacy.
+evidence_quality: C
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

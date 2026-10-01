@@ -1,0 +1,36 @@
+cycle: 1932
+candidate: newton-d-baker
+issue: war-debts
+categories:
+- diplomacy
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: reported
+evidence_quality: B
+triggered_by:
+- ww1-war-debts
+title: Entry into the World Court and cancellation of the war debts (the record that made him 'politically unpopular')
+solution: American adherence to the League Court and cancellation of the European war debts, positions Baker had
+  advocated publicly before 1932.
+rationale: 'Wilsonian internationalism: the debts and the Court are part of a stable peace.'
+notes: Baker never formally campaigned; these are the positions the press and party attributed to him as the dark-horse
+  alternative.
+statements:
+- date: '1932-01-26'
+  venue: Washington Times summary of Baker's prior advocacy
+  phase: primary
+  doc: loc-sn84026749-1932-01-27-ed1-p15
+  quote: Virtually all thought of Baker as a candidate has been dropped in recent weeks because of his advocacy
+    of America's entering the League of Nations, the League Court, cancellation of w'ar debts and similar issues
+    politically un popular.
+  attribution: reported
+- date: '1932-01-01'
+  venue: Career summary (Wikipedia)
+  phase: pre_announcement
+  doc: wiki-newton-d-baker
+  quote: For several years he was the leading proponent of American participation in the League of Nations .
+  attribution: reported
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

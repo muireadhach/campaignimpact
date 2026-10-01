@@ -1,0 +1,83 @@
+Table 219.10. High school graduates, by sex and control of school; public high school averaged freshman graduation rate
+              (AFGR); and total graduates as a ratio of 17-year-old population: Selected years, 1869-70 through 2030-31
+School year	High school graduates											Public school AFGR\3\	Population 17 years old\4\	Total graduates as a ratio of
+17-year-old population\5\
+	Total\1\	Sex		Control
+		Males	Females	Public\2\						Private, total
+				Total		Males		Females
+1.0	2.0	3.0	4.0	5.0		6.0		7.0		8.0		9.0	10.0	11.0
+1869-70 	16000.0	7064.0	8936.0	      ---		      ---		      ---		---		      ---	815000.0	1.96319018404908
+1879-80 	23634.0	10605.0	13029.0	      ---		      ---		      ---		---		      ---	946026.0	2.498240006088628
+1889-90 	43731.0	18549.0	25182.000000000004	21882.0	\6\	      ---		      ---		21849.0	\7\	      ---	1259177.0	3.472982749843747
+1899-1900 	94883.0	38075.0	56808.0	61737.0	\6\	      ---		      ---		33146.0	\7\	      ---	1489146.0	6.371638509588717
+1909-10 	156429.0	63675.99999999999	92753.0	111363.0	\6\	      ---		      ---		45066.0	\7\	      ---	1786240.0	8.757445807954138
+1919-20 	311266.0	123684.0	187582.0	230902.0	\6\	      ---		      ---		80364.0	\7\	      ---	1855173.0	16.778273508723984
+1929-30 	666904.0	300376.0	366528.0	591719.0	\6\	      ---		      ---		75185.0	\7\	      ---	2295822.0	29.04859348851958
+1939-40 	1221475.0	578718.0000000001	642757.0	1143246.0		538273.0		604973.0		78229.0	\7\	      ---	2403074.0	50.8296873088386
+1949-50 	1199700.0	570700.0	629000.0	1063444.0		505394.0		558050.0		136256.0	\7\	      ---	2034450.0	58.96925458969255
+1959-60 	1858023.0	895000.0	963000.0	1627050.0		791426.0		835624.0		230973.0		      ---	2672000.0	69.5367889221557
+1969-70 	2888639.0	1430000.0	1459000.0	2588639.0		1285895.0		1302744.0		300000.0	\7\	78.68638394714084	3757000.0	76.88685121107267
+1975-76 	3142120.0	1552000.0	1590000.0	2837129.0		1401064.0		1436065.0		304991.0		74.85686343125788	4272000.0	73.55149812734082
+1979-80 	3042214.0	1503000.0	1539000.0	2747678.0		---		---		294536.0		71.54971843404738	4262000.0	71.37996245893946
+1985-86 	2642616.0	---	---	2382616.0		---		---		260000.0	\7\	74.2889822495275	3670000.0	72.0058855585831
+1986-87 	2693803.0	---	---	2428803.0		---		---		265000.0	\7\	74.2781979360801	3754000.0	71.75820458177944
+1987-88 	2773020.0	---	---	2500020.0		---		---		273000.0	\7\	74.22416009829578	3849000.0	72.0452065471551
+1988-89 	2743742.61	---	---	2458800.0		---		---		284942.61		73.40078713493085	3842000.0	71.4144354502863
+1989-90\8\ 	2574161.82	---	---	2320337.0		---		---		253824.82	\9\	73.63618012567757	3505000.0	73.44256262482169
+1990-91 	2492987.63	---	---	2234893.0		---		---		258094.63		73.72723206338847	3417913.0	72.93888492773222
+1991-92 	2480398.54	---	---	2226016.0		---		---		254382.54	\9\	74.24316356001782	3398884.0	72.97685181371297
+1992-93 	2480519.0	---	---	2233241.0		---		---		247278.0		73.84254585242446	3449143.0	71.91696604054978
+1993-94 	2463849.0	---	---	2220849.0		---		---		243000.0	\7\	73.06200273247981	3442521.0	71.57106666887435
+1994-95 	2519084.0	---	---	2273541.0		---		---		245543.0		71.7612774011332	3635803.0	69.28549209074309
+1995-96 	2518109.0	---	---	2273109.0		---		---		245000.0	\7\	71.02460819430003	3640132.0	69.17631008985389
+1996-97 	2611988.0	---	---	2358403.0		---		---		253585.0		71.30224683547553	3792207.0	68.877780142276
+1997-98 	2704050.0	---	---	2439050.0		1187647.0		1251403.0		265000.0	\7\	71.28335887992141	4008416.0	67.45931559997764
+1998-99 	2758655.0	---	---	2485630.0		1212924.0		1272706.0		273025.0		71.06188007651178	3917885.0	70.41184210358395
+1999-2000 	2832844.0	---	---	2553844.0		1241631.0		1312213.0		279000.0	\7\	71.66499525281044	4056639.0	69.83229220051378
+2000-01 	2847973.0	---	---	2569200.0		1251931.0		1317269.0		278773.0		71.67663622064204	4023686.0	70.78020004543099
+2001-02 	2906534.0	---	---	2621534.0		1275813.0		1345721.0		285000.0	\7\	72.56724813747425	4023968.0	72.23054457689524
+2002-03 	3015734.73	---	---	2719947.0		1330973.0		1388974.0		295787.73		73.8612491591045	4125087.0	73.10717883041012
+2003-04\8,10\ 	3054438.0	---	---	2753438.0		1347800.0		1405638.0		301000.0	\7\	74.32995756855519	4113074.0	74.26168359723165
+2004-05 	3106499.0	---	---	2799250.0		1369749.0		1429501.0		307249.0		74.67032077729682	4120073.0	75.39912520967468
+2005-06\8\ 	3122544.0	---	---	2815544.0		1376458.0		1439086.0		307000.0	\7\	73.44430375819506	4200554.0	74.33648037854054
+2006-07 	3199650.0	---	---	2893045.0		1414069.0		1478976.0		306605.0		73.88993275417853	4297239.0	74.45827425470168
+2007-08	3312337.0	---	---	3001337.0		1467180.0		1534157.0		311000.0	\7\	74.72604736208326	4436955.0	74.65338278165994
+2008-09\8\ 	3347828.0	---	---	3039015.0		1490317.0		1548698.0		308813.0		75.49611321978817	4336950.0	77.19314264632979
+2009-10 	3435022.0	---	---	3128022.0		1542684.0	\11\	1585338.0	\11\	307000.0	\7\	78.24876513968519	4311831.0	79.66504253065577
+2010-11 	3449940.0	---	---	3144100.0		1552981.0		1591113.0		305840.0		79.63223648056298	4367894.0	78.98405959485281
+2011-12 	3454095.0	---	---	3149185.0		1558489.0		1590694.0		304910.0	\7\	80.80747224414793	4294343.0	80.43360765546674
+2012-13 	3478027.0	---	---	3169257.0		1569675.0		1599579.0		308770.0		81.86813624644162	4256151.0	81.71765992324991
+2013-14\12\ 	3488310.0	---	---	3168450.0		---		---		319860.0		83.05488949129003	4185184.0	83.34902360326332
+2014-15\12\ 	3530250.0	---	---	3187000.0		---		---		343250.0	\13\	---	4171162.0	84.63468932637956
+2015-16\12\ 	3574730.0	---	---	3224140.0		---		---		350590.0		---	4204274.0	85.02609487393067
+2016-17\12\ 	3603550.0	---	---	3255320.0		---		---		348230.0	\13\	---	4218770.0	85.41707654126677
+2017-18\12\ 	3659820.0	---	---	3310020.0		---		---		349800.0		---	4290560.0	85.2993548627685
+2018-19\12\ 	3666310.0	---	---	3325700.0		---		---		340610.0	\13\	---	4217720.0	86.92634883301878
+2019-20\12\ 	3635620.0	---	---	3300630.0		---		---		334980.0		---	4169359.0	87.19853579411128
+2020-21\12\ 	3669350.0	---	---	3337640.0		---		---		331710.0		---	4166793.0	88.06172996834735
+2021-22\12\ 	3669720.0	---	---	3343180.0		---		---		326540.0		---	4173685.0	87.9251788287808
+2022-23\12\ 	3684340.0	---	---	3358200.0		---		---		326140.0		---	---	---
+2023-24\12\ 	3733330.0	---	---	3342590.0		---		---		390740.0		---	---	---
+2024-25\12\ 	3798180.0	---	---	3456870.0		---		---		341310.0		---	---	---
+2025-26\12\ 	3793380.0	---	---	3444390.0		---		---		348990.0		---	---	---
+2026-27\12\ 	3699790.0	---	---	3364860.0		---		---		334940.0		---	---	---
+2027-28\12\ 	3624500.0	---	---	3288980.0		---		---		335520.0		---	---	---
+2028-29\12\ 	3590570.0	---	---	3266770.0		---		---		323800.0		---	---	---
+2029-30\12\ 	3552640.0	---	---	3210730.0		---		---		341910.0		---	---	---
+2030-31\12\ 	3548650.0	---	---	3215840.0		---		---		332810.0		---	---	---
+---Not available.
+\1\Includes graduates of public and private schools.
+\2\Includes estimates for states not reporting counts of graduates by sex.
+\3\The averaged freshman graduation rate provides an estimate of the percentage of students who receive a regular diploma within 4 years of entering ninth grade. The rate uses aggregate student enrollment data to estimate the size of an incoming freshman class and aggregate counts of the number of diplomas awarded 4 years later. Averaged freshman graduation rates in this table are based on reported totals of enrollment by grade and high school graduates, rather than on details reported by race/ethnicity.
+\4\Derived from Current Population Reports, Series P-25. For years 1869-70 through 1989-90, 17-year-old population is an estimate of the October 17-year-old population based on July data. Data for 1990-91 and later years are October resident population estimates prepared by the Census Bureau.
+\5\Based on persons of all ages graduating from high school in a given year divided by the 17-year-old population in the same year. This ratio allows for comparisons over time but does not provide a measure of graduation rates for incoming freshmen who form a cohort (or class) that is scheduled to graduate 4 years later. The ratio of high school graduates to the 17-year-old population differs from measures such as the AFGR, which are designed to estimate high school cohort graduation rates.
+\6\Data for 1929-30 and preceding years are from Statistics of Public High Schools and exclude graduates from high schools that failed to report to the Office of Education.
+\7\Estimated based on data appearing in Projections of Education Statistics and Biennial Survey in the United States, Statistical Summary of Education, 1949-50.
+\8\Includes imputations for nonreporting states.
+\9\Projected by private schools responding to the Private School Universe Survey.
+\10\Includes estimates for public schools in New York and Wisconsin. Without estimates for these two states, the averaged freshman graduation rate for the remaining 48 states and the District of Columbia is 75.0 percent.
+\11\Includes estimate for Connecticut, which did not report graduates by sex.
+\12\Number of high school graduates is projected by the National Center for Education Statistics (NCES) unless otherwise noted.
+\13\Private school data are actual.
+NOTE: Data in this table represent the 50 states and the District of Columbia. Includes graduates of regular day school programs. Excludes graduates of other programs, when separately reported, and recipients of high school equivalency certificates. Projections in this table were calculated after the onset of the coronavirus pandemic and take into account the expected impacts of the pandemic. Some data have been revised from previously published figures. Detail may not sum to totals because of rounding and adjustments to protect student privacy.
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Annual Report of the Commissioner of Education, 1870 through 1910; Statistics of Public High Schools, 1889-90 through 1929-30; Biennial Survey of Education in the United States, 1919-20 through 1949-50; Statistics of Public Elementary and Secondary School Systems, 1958-59 through 1979-80; Statistics of Nonpublic Elementary and Secondary Schools, 1959 through 1980; Common Core of Data (CCD), "State Nonfiscal Survey of Public Elementary/Secondary Education," 1985-86 through 2009-10; "State Dropout and Completion Data File," 2005-06 through 2012-13; Public School Graduates and Dropouts from the Common Core of Data, 2007-08 and 2008-09; Private School Universe Survey (PSS), 1989 through 2019; and National High School Graduates Projection Model, through 2030-31. U.S. Department of Commerce, Census Bureau, Current Population Reports, Series P-25, Nos. 1000, 1022, 1045, 1057, 1059, 1092, and 1095; 2000 through 2009 Population Estimates, retrieved August 14, 2012, from http://www.census.gov/popest/data/national/asrh/2011/index.html; and 2010 through 2021 Population Estimates, retrieved October 11, 2021, from https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-national-detail.html. (This table was prepared November 2021.)

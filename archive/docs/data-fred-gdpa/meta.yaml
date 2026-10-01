@@ -1,0 +1,13 @@
+id: data-fred-gdpa
+source: fred
+kind: dataset
+title: FRED series GDPA
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDPA
+citation: Federal Reserve Bank of St. Louis, FRED series GDPA, https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDPA
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:37:40+00:00'
+sha256: ca5518d1df8ce23215e91023fdff0fea32c9a576e4461f4548c30818127ae0b6
+notes: null
+extra: {}

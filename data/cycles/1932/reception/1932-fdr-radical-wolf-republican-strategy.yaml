@@ -1,0 +1,20 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-new-deal-pledge
+source_type: news_coverage
+source_name: Washington Evening Star political column
+date: '1932-10-07'
+perceived: Republican managers plan to portray Roosevelt as 'a radical wolf in a conservative sheep's clothing'
+  by publicizing his embrace of Senator Norris; the columnist compares it to Hanna's 1896 scare tactics.
+fidelity: distorted
+salience: high
+doc: loc-sn83045462-1932-10-07-ed1-p8
+quote: Watch out for a concerted Republi can movement during the next two or three weeks to scare the country into
+  believing that Franklin D. Roosevelt is a radical wolf in a conservative sheep's clothing.
+note: Reports the opposition framing rather than endorsing it; Hoover's Madison Square Garden speech three weeks
+  later executed it.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

@@ -1,0 +1,19 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-oppose-bonus-until-budget-balanced
+source_type: editorial
+source_name: New York World-Telegram (Scripps-Howard), via Literary Digest
+date: '1932-10-29'
+perceived: Roosevelt opposes the bonus only because the Treasury cannot afford it, leaving the inference that the
+  demand is just and would be met once the budget balances.
+fidelity: accurate
+salience: high
+doc: ia-literary-digest-1932-10-29-114-18
+quote: for it leaves the inference that the bonus demand is just, and that only the present Treasury deficit prevents
+  meeting the demand.
+note: A pro-Roosevelt paper reading the Pittsburgh statement as conditional — which is what it was.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

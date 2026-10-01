@@ -1,0 +1,29 @@
+position: 1932-fdr-truth-in-securities
+verdict: kept
+contested: false
+summary: The Securities Act of May 27, 1933 required registration and full disclosure for new issues — 'let the
+  seller also beware' — substantially the Columbus proposal and platform plank.
+mechanisms:
+- type: message
+  name: Message on federal supervision of investment securities
+  date: '1933-03-29'
+  doc: app-message-congress-federal-supervision-investment-securities
+  quote: This proposal adds to the ancient rule of caveat emptor, the further doctrine "let the seller also beware."
+    It puts the burden of telling the whole truth on the seller.
+  consistent: 'yes'
+- type: statute
+  name: Securities Act of 1933
+  date: '1933-05-27'
+  doc: app-statement-signing-the-securities-bill
+  effect: Registration and disclosure for interstate securities offerings.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: The Securities Act required accurate information for investors.
+  quote: In May 1933, he signed the Securities Act, which required corporations and stockbrokers to release accurate
+    information about stocks to investors.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

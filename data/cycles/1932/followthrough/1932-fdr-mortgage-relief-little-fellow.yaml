@@ -1,0 +1,36 @@
+position: 1932-fdr-mortgage-relief-little-fellow
+verdict: kept
+contested: false
+summary: The Emergency Farm Mortgage Act (Title II of the farm relief bill, May 12, 1933), the Farm Credit Administration
+  (Executive Order 6084, March 27, 1933) and the Home Owners' Loan Act (June 13, 1933) refinanced farm and home
+  mortgages at lower interest with extended terms — the Topeka and Springfield specifications almost exactly, on
+  a far larger scale than the RFC loans to lenders Roosevelt had criticized.
+mechanisms:
+- type: message
+  name: Message on consolidation of federal farm credit agencies
+  date: '1933-03-27'
+  doc: app-message-congress-consolidation-federal-farm-credit-agencies
+  effect: Executive Order 6084 created the Farm Credit Administration.
+  consistent: 'yes'
+- type: statute
+  name: Emergency Farm Mortgage Act (Title II, Agricultural Adjustment Act)
+  date: '1933-05-12'
+  doc: app-statement-signing-the-farm-relief-bill
+  effect: $2 billion in Federal Land Bank bonds to refinance farm mortgages; interest reduced; extensions.
+  consistent: 'yes'
+- type: statute
+  name: Home Owners' Loan Act
+  date: '1933-06-13'
+  doc: app-statement-signing-the-home-owners-loan-act-signed
+  effect: Home Owners' Loan Corporation refinanced roughly a million urban home mortgages.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: Federal farm-credit agencies lent over a billion dollars to save farms from foreclosure.
+  quote: The Farm Credit Association, another offshoot of the RFC, lent more than a billion dollars to families
+    to save their farms from foreclosure.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

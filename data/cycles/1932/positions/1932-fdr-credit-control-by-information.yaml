@@ -1,0 +1,22 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: credit-control
+categories: [banking, economy]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Prevent another runaway credit expansion through government information, not government control of credit
+solution: >
+  Government to bring "enlightened information" to producers and consumers so they can avoid "headlong
+  plunges into excessive debt"; explicitly not "complete Government control over the use of credit."
+  Interference to stabilize business "kept at a minimum, limiting itself perhaps to wise dissemination of information."
+rationale: >
+  The 1920s boom rested on ungoverned consumer and business credit "encouraged ... by reckless statements from Washington."
+statements:
+  - date: 1932-10-06
+    venue: Radio address to the Business and Professional Men's League
+    phase: general
+    doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+    quote: "That is not to say that I favor complete Government control over the use of credit, but that I do propose the use of governmental assistance in bringing to the attention of producer and consumer alike such enlightened information as will enable the people to protect themselves against unwarranted and headlong plunges into excessive debt."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

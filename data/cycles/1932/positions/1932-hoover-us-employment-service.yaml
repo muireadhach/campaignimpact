@@ -1,0 +1,30 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: employment-service
+categories:
+- labor
+- relief
+kind: defense_of_record
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: A
+title: Commend and continue the enlarged United States Employment Service
+solution: Continue the existing federal Employment Service in the Department of Labor, enlarged by appropriation
+  during the depression, rather than the vetoed Wagner federal-state system.
+rationale: The service 'has done high service for the unemployed in the ranks of civil life and in the ranks of
+  the former soldiers.'
+notes: Hoover vetoed the Wagner-Doak employment service bill in March 1931; the platform defends the existing service
+  instead.
+statements:
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We commend the constructive work of the United States Employment Service in the Department of Labor. This
+    service was enlarged and its activities extended through an appropriation made possible by the President with
+    the cooperation of the Congress.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

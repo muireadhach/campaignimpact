@@ -1,0 +1,13 @@
+id: data-fred-unrate
+source: fred
+kind: dataset
+title: FRED series UNRATE
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE
+citation: Federal Reserve Bank of St. Louis, FRED series UNRATE, https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:37:40+00:00'
+sha256: ffe86c903f6944ebc8281e5474a15fc4ceaac61059bc51ec86a7241391d8713d
+notes: null
+extra: {}

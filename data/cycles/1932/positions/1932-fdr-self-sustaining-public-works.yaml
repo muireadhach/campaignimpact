@@ -1,0 +1,95 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: public-works
+categories:
+- infrastructure
+- relief
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+supersedes: 1932-fdr-public-works-only-a-stopgap
+title: Expand self-sustaining public works and temporary federal work (forests, flood control, waterways), with
+  advance planning
+solution: 'Expand the federal program of "necessary and useful construction affected with a public interest" (flood
+  control, waterways, the St. Lawrence deep waterway) as an emergency employment measure; works should be self-sustaining
+  so bond financing is sound; adopt advance planning of public works.
+
+  '
+rationale: 'Public works are a legitimate emergency stimulus to employment, but "no economic end is served if we
+  merely build without building for a necessary purpose."
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: expansion of the federal program of necessary and useful construction
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: we advocate advance planning of public works.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: I have favored the use of certain types of public works as a further emergency means of stimulating employment
+    and the issuance of bonds to pay for such public works, but I have pointed out that no economic end is served
+    if we merely build without building for a necessary purpose. Such works, of course, should insofar as possible
+    be self-sustaining if they are to be financed by the issuing of bonds.
+- date: '1932-10-13'
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: From the long-range point of view it would be advisable for Governments of all kinds to set up in times
+    of prosperity what might be called a nest egg to be used for public works in times of depression.
+- date: '1932-10-13'
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: One is by the sale of bonds. In principle such bonds should be issued only to pay for self-sustaining projects
+    or for structures which will without question have a useful life over a long period of years.
+- date: '1932-10-13'
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: I am confident that the Federal Government working in cooperation with States and cities can do much to
+    carry on increased public works and along lines which are sound from the economic and financial point of view.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: In addition to providing emergency relief, the Federal Government should and must provide temporary work
+    wherever that is possible. You and I know that in the national forests, on flood prevention, and on the development
+    of waterway projects that have already been authorized and planned but not yet executed, tens of thousands,
+    and even hundreds of thousands of our unemployed citizens can be given at least temporary employment.
+  note: The furthest the campaign went toward federal work relief; compare the April 'stopgap' position.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: Third, the Federal Government should expedite the actual construction of public works already authorized.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: The second, the advance planning of public works, again calls for a strong lead on the part of the Government
+    at Washington. I pledge my administration to the adoption of that principle, both as to enterprises of the Federal
+    Government itself and as to construction within the several States which is made possible by Federal aid
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

@@ -1,0 +1,17 @@
+position: 1932-thomas-old-age-pensions-at-sixty
+verdict: not_applicable
+contested: false
+summary: Thomas received 2.2 percent of the vote; the Socialist program could not be tested in office. Federal old-age
+  insurance and assistance came in 1935, at sixty-five rather than sixty.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Social Security Act Titles I and II
+  date: '1935-08-14'
+  doc: app-statement-signing-the-social-security-act-0
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

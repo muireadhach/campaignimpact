@@ -1,0 +1,16 @@
+position: 1932-smith-twenty-year-debt-moratorium
+verdict: not_applicable
+contested: false
+summary: Smith lost the nomination. No moratorium was granted; the debts went into default in 1933–34.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Johnson Act (default acknowledged)
+  date: '1934-04-13'
+  doc: wiki-johnson-act
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

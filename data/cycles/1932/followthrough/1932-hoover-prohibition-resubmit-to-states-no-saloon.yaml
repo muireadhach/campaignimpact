@@ -1,0 +1,29 @@
+position: 1932-hoover-prohibition-resubmit-to-states-no-saloon
+verdict: superseded
+contested: false
+summary: The lame-duck Congress proposed the Twenty-first Amendment on February 20, 1933 (Hoover neither signed
+  nor could veto a constitutional amendment); it contained the Section 2 protection of dry states Hoover demanded
+  but no anti-saloon guarantee. Ratified December 1933.
+mechanisms:
+- type: other
+  name: Congress proposes the Twenty-first Amendment
+  date: '1933-02-20'
+  doc: app-message-congress-repeal-the-volstead-act
+  effect: Submitted to state conventions during Hoover's last two weeks.
+  consistent: partly
+assessments:
+- doc: app-message-congress-repeal-the-volstead-act
+  verdict: superseded
+  reasoning: Repeal proceeded on the Democratic plan (outright repeal with dry-state protection) rather than Hoover's
+    constructive-change formula.
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: other
+  name: Twenty-first Amendment ratification
+  date: '1933-12-05'
+  doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+  note: Repeal with dry-state protection; the anti-saloon clause was left to states.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

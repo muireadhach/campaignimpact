@@ -1,0 +1,140 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: agricultural-prices
+categories:
+- agriculture
+- economy
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Raise staple farm prices by a tariff-equivalent benefit plus voluntary production control, at no cost to
+  the Treasury
+solution: 'Add to the world price of staple commodities "the amount of a reasonable tariff protection," giving agriculture
+  the protection industry enjoys; in exchange farmers agree to plan production to reduce surpluses and end dumping
+  abroad; repeal the Farm Board''s stabilization purchases; the plan "does not cost the Government any money"; the
+  bill''s wording to follow whatever the responsible farm groups agree on.
+
+  '
+rationale: 'Fifty million people depend on agriculture; if they have no cash the cities suffer equally; surpluses
+  hang on the market and the Farm Board''s speculation only made government a speculator in farm products.
+
+  '
+notes: 'This is the domestic-allotment idea in outline; the acceptance speech is deliberately vague on machinery
+  and explicitly delegates drafting to farm organizations. Elaborated at Topeka, Sept 14.
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: The enactment of every constitutional measure that will aid the farmers to receive for their basic farm
+    commodities prices in excess of cost.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: Extension and development of the Farm co-operative movement and effective control of crop surpluses so
+    that our farmers may have the full benefit of the domestic market.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: It should be our aim to add to the world prices of staple products the amount of a reasonable tariff protection,
+    to give agriculture the same protection that industry has today.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: And in exchange for this immediately increased return I am sure that the farmers of this Nation would agree
+    ultimately to such planning of their production as would reduce the surpluses and make it unnecessary in later
+    years to depend on dumping those surpluses abroad in order to support domestic prices.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: Such a plan as that, my friends, does not cost the Government any money, nor does it keep the Government
+    in business or in speculation.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: we should repeal immediately those provisions of law that compel the Federal Government to go into the
+    market to purchase, to sell, to speculate in farm products in a futile attempt to reduce farm surpluses.
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: I seek to give to that portion of the crop consumed in the United States a benefit equivalent to a tariff
+    sufficient to give you farmers an adequate price.
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: 'First: The plan must provide for the producer of staple surplus commodities, such as wheat, cotton, corn
+    in the form of hogs, and tobacco, a tariff benefit over world prices which is equivalent to the benefit given
+    by the tariff to industrial products. This differential benefit must be so applied that the increase in farm
+    income, purchasing and debt-paying power will not stimulate further production.'
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: 'Second: The plan must finance itself. Agriculture has at no time sought and does not now seek any such
+    access to the public treasury as was provided by the futile and costly attempts at price stabilization by the
+    Federal farm board.'
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: 'Third: It must not make use of any mechanism which would cause our European customers to retaliate on
+    the ground of dumping.'
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: 'Fourth: It must make use of existing agencies and so far as possible be decentralized in its Administration
+    so that the chief responsibility for its operation will rest with the locality rather than with newly created
+    bureaucratic machinery in Washington.'
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: 'Fifth: It must operate as nearly as possible on a cooperative basis and its effect must be to enhance
+    and strengthen the cooperative movement. It should, moreover, be constituted so that it can be withdrawn whenever
+    the emergency has passed and normal foreign markets have been reestablished.'
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: 'Sixth: The plan must be, in so far as possible, voluntary. I like the idea that the plan should not be
+    put into operation unless it has the support of a reasonable majority of the producers of the exportable commodity
+    to which it is to apply.'
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: Farm Board speculative operations must and shall come to an end.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: I favor -- and do not let the false statements of my opponents deceive you -- continued protection for
+    American agriculture as well as American industry. I favor more than that. I advocate, and will continue to
+    advocate, measures to give the farmer an added benefit, called a tariff benefit, to make the tariff effective
+    on his products.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

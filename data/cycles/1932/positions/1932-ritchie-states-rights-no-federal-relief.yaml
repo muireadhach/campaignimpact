@@ -1,0 +1,35 @@
+cycle: 1932
+candidate: albert-ritchie
+issue: federal-relief-role
+categories:
+- federalism
+- relief
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: reported
+evidence_quality: C
+triggered_by:
+- great-depression
+title: States' rights and business-led recovery — no federal intervention in relief
+solution: Keep relief a state, local and private responsibility; urge programs sponsored by the business community;
+  refuse RFC loans (Maryland took none until mid-1933).
+rationale: Federal intervention in local affairs undermines self-government; Maryland's businesslike state government
+  could manage its own distress.
+notes: No 1932 campaign speech by Ritchie is archived; positions are reconstructed from his gubernatorial record.
+statements:
+- date: '1932-01-01'
+  venue: Governorship record as summarized by Wikipedia
+  phase: pre_announcement
+  doc: wiki-albert-ritchie
+  quote: Governor Ritchie was a stalwart opponent of federal intervention in local affairs, and continued to urge
+    programs sponsored by the business community itself.
+- date: '1932-01-01'
+  venue: Governorship record as summarized by Wikipedia
+  phase: pre_announcement
+  doc: wiki-albert-ritchie
+  quote: Ritchie agreed to issue state bonds to aid Baltimore, but would not borrow from President Herbert Hoover
+    's new Reconstruction Finance Corporation until mid-1933
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

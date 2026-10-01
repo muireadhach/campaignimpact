@@ -1,0 +1,25 @@
+cycle: 1932
+candidate: norman-thomas
+issue: taxation-progressivity
+categories:
+- taxation
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: B
+title: Steeply increased income and inheritance taxes
+solution: Raise income and inheritance taxes steeply, both for revenue and to fund unemployment insurance.
+rationale: Redistribution of a national income that flowed to fewer than 3 million of 120 million people (Maurer).
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-24'
+  venue: Edward Levinson, convention report in The New Leader (May 28)
+  phase: convention
+  attribution: party_platform
+  doc: mx-levinson-spa-convention-1932
+  quote: Un- der taxation the platform proposes steeply increased inheritance and income taxes.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

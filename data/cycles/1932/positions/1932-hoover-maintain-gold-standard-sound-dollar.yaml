@@ -1,0 +1,86 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: currency-standard
+categories:
+- monetary
+- economy
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+- bank-panic-1930-33
+title: Hold the gold standard and the 'honest dollar'; no fiat money, no 'rubber dollar' price-fixing
+solution: Keep the United States on gold and the dollar 'ringing true'; reject greenback issues (the Patman bonus-currency
+  bill), price-level mandates to the Federal Reserve, and inflation; use Federal Reserve changes (Glass-Steagall
+  of Feb. 1932) to free gold for commercial use instead.
+rationale: Long-term American debts are written in gold, so leaving gold would crush debtors and savers; 'He who
+  tampers with the currency robs labor of its bread'; the Treasury was told in 1931 it could not hold gold 'for
+  2 weeks longer' without action.
+statements:
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: However, we determined that we would not enter the morass of using the printing press for currency or bonds.
+    All human experience has demonstrated that that path once taken cannot be stopped, and that the moral integrity
+    of the Government would be sacrificed because ultimately both currency and bonds must become valueless.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: We decided, if necessary, upon changes in the Federal Reserve System which would make our gold active in
+    commercial use, and that we would keep the American dollar ringing true in every city in America and every country
+    in the world.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: Our views upon sound currency require no elucidation. They are indelibly a part of Republican history and
+    policies. We have affirmed them by preventing the Democratic majority in the House from effecting wild schemes
+    of uncontrolled inflation in the last 4 months.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: We have fought a great battle to maintain the stability of the American dollar, the stability of our exchange.
+    We have fought in order that we might protect the working people of the United States.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: They passed a price-fixing bill creating what might be colloquially called the "rubber dollar." I opposed
+    that also.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The Republican Party established and will continue to uphold the gold standard and will oppose any measure
+    which will undermine the government's credit or impair the integrity of our national currency. Relief by currency
+    inflation is unsound in principle and dishonest in results.
+  attribution: party_platform
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: Tampering with the currency has become a perennial policy of the Democratic Party. The Republican Party
+    has had to repel that many times before now. In the absence of any declaration by the Democratic candidate on
+    this subject during 7 weeks of this campaign, no delayed promise now can efface that policy.
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: In our special situation today the issuance of greenbacks means the immediate departure of this country
+    from the gold standard, as there could be no provision for the redemption of such currency into gold.
+- date: '1932-11-07'
+  venue: Campaign address, Salt Lake City, Utah
+  phase: general
+  doc: app-address-salt-lake-city-utah
+  quote: We have long since determined that there can be but one standard of monetary value and that is gold, but
+    yet we should restore silver to greater use for subsidiary coinage and other purposes in those countries which
+    traditionally have used it and to do it without undermining the gold standard.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

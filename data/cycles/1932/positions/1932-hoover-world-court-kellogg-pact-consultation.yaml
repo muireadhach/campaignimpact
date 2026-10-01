@@ -1,0 +1,60 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: world-court
+categories:
+- diplomacy
+- foreign
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Join the World Court with reservations; make the Kellogg-Briand Pact an instrument for consultation — but
+  no commitments to use force
+solution: Adhere to the World Court 'under proper reservations preserving our freedom of action'; consult with other
+  nations in emergencies under the Pact of Paris; enter 'no agreements committing us to any future course of action
+  or which call for use of force.'
+rationale: World opinion mobilized against aggression can keep the peace without entangling commitments.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I have recommended joining the World Court under proper reservations preserving our freedom of action.
+    Above all, we have given leadership in the transforming of the Kellogg-Briand Pact from an inspiring outlawry
+    of war to an organized instrument for peaceful settlements backed by definite mobilized world public opinion
+    against aggression. We shall, under the spirit of that pact, consult with other nations in time of emergency
+    to promote world peace. We shall enter into no agreements committing us to any future course of action or which
+    call for use of force in order to preserve peace.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We favor enactment by Congress of a measure that will authorize our government to call or participate in
+    an international conference in case of any threat of non-fulfillment of Article 2 of the Treaty of Paris (Kellogg-Briand
+    pact).
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: America should join its influence and gain a voice in this institution, which would offer us a safer, more
+    judicial and expeditious instrument for the constantly recurring questions between us and other nations than
+    is now available by arbitration.
+  attribution: party_platform
+- date: '1932-11-05'
+  venue: Campaign address, St. Paul, Minnesota
+  phase: general
+  doc: app-address-st-paul-minnesota-0
+  quote: We properly refuse to entangle ourselves in age-old controversies in other parts of the world. Our face
+    is turned forward, not backward. We have taken the position that we will not participate in trying to compel
+    people to engage in the settlement of controversies by the use of force.
+- date: '1932-11-07'
+  venue: Campaign address, Salt Lake City, Utah
+  phase: general
+  doc: app-address-salt-lake-city-utah
+  quote: I have made but one reservation, and that is, we will join no movement that proposes to use military or
+    economic force in its attempts to prevent war. For that is a contradiction in method.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

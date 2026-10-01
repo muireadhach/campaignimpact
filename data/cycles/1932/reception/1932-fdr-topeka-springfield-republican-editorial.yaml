@@ -1,0 +1,18 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-mortgage-relief-little-fellow
+source_type: editorial
+source_name: Springfield (Mass.) Weekly Republican
+date: '1932-09-29'
+perceived: The farm program is more liberal and definite than Hoover's, but the tax-relief promise rests on local
+  reorganization and the mortgage position is indefinite.
+fidelity: accurate
+salience: medium
+doc: loc-sn83020847-1932-09-29-ed1-p6
+quote: Equally Mr Roosevelt's position on the refinancing of farm mortgages is indefinite.
+note: Written before the Springfield, Illinois mortgage speech of October 21 supplied specifics.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

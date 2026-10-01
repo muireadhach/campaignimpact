@@ -1,0 +1,73 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: international-economic-cooperation
+categories:
+- diplomacy
+- monetary
+- trade
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+- ww1-war-debts
+title: Convene international monetary and economic conferences to stabilize currencies and restore trade
+solution: 'The United States to invite an international monetary conference (silver, exchange stability) and an
+  international economic conference to restore trade; take the lead in "asking for a general conference to establish
+  less changeable fiscal relationships."
+
+  '
+rationale: 'Currency uncertainty "has a way of spreading from country to country"; half the world''s people are
+  on a silver basis whose purchasing power must be restored; nothing would do more to create stable conditions for
+  trade.
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate a competitive tariff for revenue with a fact-finding tariff commission free from executive
+    interference, reciprocal tariff agreements with other nations, and an international economic conference designed
+    to restore international trade and facilitate exchange.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-07-30
+  venue: Radio address from Albany on the Democratic platform
+  phase: general
+  doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+  quote: The United States could well afford to take the lead in asking for a general conference to establish less
+    changeable fiscal relationships and to determine what can be done to restore the purchasing power of that half
+    of the world's inhabitants who are on a silver basis
+- date: '1932-09-17'
+  venue: Campaign address on railroads, Salt Lake City, Utah
+  phase: general
+  doc: app-campaign-address-railroads-salt-lake-city-utah
+  quote: And one of the greatest of these questions of international relationship, let us say it frankly, is that
+    of money, of gold and of silver!
+  note: Endorses the platform's silver conference plank; promises a detailed monetary statement 'very shortly' (never
+    delivered as such).
+- date: '1932-09-20'
+  venue: Campaign address, Seattle, Washington (excerpts)
+  phase: general
+  doc: app-campaign-address-seattle-washington-reciprocal-tariff-negotiations-excerpts
+  quote: It is widely recognized by enlightened financial leaders, conservative and liberal alike, that to remedy
+    this we shall have to look to international action. And in line with the plan suggested by the Democratic platform
+    I shall advocate immediate action by our Government in cooperation with other Governments of the world.
+  note: On Far Eastern currency depreciation (silver).
+- date: '1932-09-20'
+  venue: Campaign address, Seattle, Washington (excerpts)
+  phase: general
+  doc: app-campaign-address-seattle-washington-reciprocal-tariff-negotiations-excerpts
+  quote: There are many ways of producing the results desired without disturbing the currency of the United States.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

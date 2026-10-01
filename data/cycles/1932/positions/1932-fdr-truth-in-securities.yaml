@@ -1,0 +1,54 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: securities-regulation
+categories:
+- banking
+- industry
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Require full public disclosure on all offerings of stocks and bonds
+solution: 'Require that all offerings of foreign and domestic stocks and bonds file with the government, and carry
+  in advertisements, true information about bonuses, commissions, principal invested and the sellers'' interests.
+
+  '
+rationale: '"Publicity is the enemy of crookedness"; disclosure protects savings "from the dishonesty of crooks
+  and from the lack of honor of some men in high financial places."
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate protection of the investing public by requiring to be filed with the government and carried
+    in advertisements of all offerings of foreign and domestic stocks and bonds true information as to bonuses,
+    commissions, principal invested, and interests of the sellers.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: I list an important place for that prize statement of principle in the platform here adopted calling for
+    the letting in of the light of day on issues of securities, foreign and domestic, which are offered for sale
+    to the investing public.
+- date: '1932-08-20'
+  venue: Campaign address, Columbus, Ohio
+  phase: general
+  doc: app-campaign-address-columbus-ohio
+  quote: First -- Toward that end and to inspire truth telling, I propose that every effort be made to prevent the
+    issue of manufactured and unnecessary securities of all kinds which are brought out merely for the purpose of
+    enriching those who handle their sale to the public; and I further propose that with respect to legitimate securities
+    the sellers shall tell the uses to which the money is to be put.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

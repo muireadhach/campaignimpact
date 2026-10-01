@@ -1,0 +1,18 @@
+position: 1932-hoover-arms-reduction-one-third
+verdict: not_applicable
+contested: false
+summary: Hoover lost the election; the pledge could not be tested in office. The Geneva conference collapsed after
+  Germany's withdrawal in October 1933; the second London Naval Treaty (1936) was a shadow of the earlier limits.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: treaty
+  name: Second London Naval Treaty
+  date: '1936-03-25'
+  doc: wiki-world-disarmament-conference
+  note: Limited qualitative restrictions only.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

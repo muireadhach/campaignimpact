@@ -1,0 +1,19 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-disabled-veterans-justice
+source_type: editorial
+source_name: Republican newspaper quoted by the Literary Digest
+date: '1932-09-10'
+perceived: Roosevelt is running on a platform more emphatic on veterans' relief, and veterans may vote for him expecting
+  the bonus, which he could not sign.
+fidelity: distorted
+salience: medium
+doc: ia-literary-digest-1932-09-10-114-11
+quote: Governor Roosevelt is running upon a platform with a more emphatic plank upon veterans' relief.
+note: The Democratic plank was confined to service-connected disability; the perception that it was more generous
+  shows how the bonus silence was read.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

@@ -1,0 +1,26 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: child-labor
+categories: [labor, society]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: No return to sweatshops or children working in factories
+solution: Treat the abolition of child labor and sweatshops as settled social policy; keep children in school to sixteen.
+rationale: >
+  Depression pushes children out of school into underpaid, dangerous work; "the use of these untrained
+  children in industry keeps many adults out of employment" and cuts wages below a living standard.
+statements:
+  - date: 1932-10-02
+    venue: Campaign address, Detroit, Michigan
+    phase: general
+    audience: Detroit crowd; Sunday non-partisan framing
+    doc: app-campaign-address-detroit-michigan
+    quote: "We cannot go back to the sweatshops of America. We cannot go back to children working in factories. Those days are gone."
+  - date: 1932-10-13
+    venue: Radio address on unemployment and social welfare, Albany
+    phase: general
+    doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+    quote: "It is well to remember, too, that the use of these untrained children in industry keeps many adults out of employment and has the effect of cutting down wages below a decent living standard."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

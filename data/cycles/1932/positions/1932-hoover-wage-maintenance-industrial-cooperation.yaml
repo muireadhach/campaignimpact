@@ -1,0 +1,66 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: wage-maintenance
+categories:
+- labor
+- industry
+kind: defense_of_record
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Uphold wages and spread work by voluntary agreement of employers and labor; shorter hours in government service
+solution: 'Continue the November 1929 conference policy: employers maintain real wages, stagger employment rather
+  than discharge, expand construction and equipment replacement; apply shorter hours to government employees; mobilize
+  business, labor and farm leaders in cooperative committees (the Banking and Industrial Committees, August 1932).'
+rationale: High wages are 'the road to economical production and high consumption'; for the first time 'dividends
+  and profits and the cost of living have been reduced before wages'; industrial peace was preserved without strikes.
+statements:
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: I believe this can be truly said to have been the first time in history that the Government has taken the
+    leadership to secure an understanding between industry and labor of the complete mutuality of their interest
+    in the face of a national danger.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: In order to bring the Government into line with these facts, and upon my recommendation to Congress, the
+    shorter hours were applied effectually to Government service so that we should spread Government employment
+    over the largest possible numbers and yet decrease governmental expenses.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: I have for many years advocated high wages as the economic basis for the country. That has long been a
+    Republican doctrine. That is the road to economical production and high consumption of products of the farm
+    and factory.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: It was in accordance with these principles and these policies that I am today organizing the private industrial
+    and financial resources of the country to cooperate effectively with the vast governmental instrumentalities
+    which we have in motion, so that through their united and coordinated efforts we may move from defense to a
+    powerful attack upon the depression along the whole national front.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We believe in the principle of high wages. We favor the principle of the shorter working week and shorter
+    work day with its application to government as well as to private employment, as rapidly and as constructively
+    as conditions will warrant.
+  attribution: party_platform
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: The hours of labor have decreased, the 12-hour day has disappeared, even the 9-hour day has almost gone.
+    We are now advocating the 5-day week.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

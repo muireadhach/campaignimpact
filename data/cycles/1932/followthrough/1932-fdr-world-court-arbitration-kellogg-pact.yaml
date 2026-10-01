@@ -1,0 +1,29 @@
+position: 1932-fdr-world-court-arbitration-kellogg-pact
+verdict: blocked
+contested: false
+summary: Roosevelt asked the Senate to ratify World Court adherence on January 16, 1935; on January 29 the resolution
+  fell seven votes short of two-thirds after a Hearst–Coughlin campaign. The consultation machinery for the Kellogg
+  Pact was never enacted; the Neutrality Acts (1935–37) moved the other way.
+mechanisms:
+- type: message
+  name: Message to the Senate recommending adherence to the World Court
+  date: '1935-01-16'
+  doc: app-message-the-senate-recommending-adherence-the-world-court
+  quote: I hope that at an early date the Senate will advise and consent to the adherence by the United States to
+    the Protocol of Signature of the Statute of the Permanent Court of International Justice
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-foreign-affairs
+  verdict: blocked
+  reasoning: The Senate defeated adherence in 1935.
+  quote: Another indication of FDR's commitment to international cooperation came with his unsuccessful fight in
+    1935 for U.S. membership in the World Court.
+obstruction:
+  reasons:
+  - congress
+  explanation: Senate vote of 52–36, short of two-thirds, January 29, 1935.
+  doc: mc-fdr-foreign-affairs
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

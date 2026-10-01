@@ -1,0 +1,18 @@
+position: 1932-hoover-relief-local-responsibility-rfc-loans
+verdict: not_applicable
+contested: false
+summary: Hoover lost the election; the pledge could not be tested in office. Roosevelt replaced RFC loans to states
+  with FERA grants — abandoning the loan principle Hoover defended.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Federal Emergency Relief Act (grants replacing loans)
+  date: '1933-05-12'
+  doc: app-statement-signing-the-unemployment-relief-bill
+  note: Reversal of the loans-only principle.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

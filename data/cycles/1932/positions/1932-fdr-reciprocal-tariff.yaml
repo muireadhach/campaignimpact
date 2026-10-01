@@ -1,0 +1,126 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: tariff-level
+categories:
+- trade
+- economy
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- smoot-hawley
+- great-depression
+title: Revise the tariff downward through reciprocal trade agreements
+solution: 'Replace the Hawley-Smoot schedules with tariffs set "on the basis of a reciprocal exchange of goods":
+  bilateral or group agreements letting other nations pay for American exports with goods that do not seriously
+  unbalance any domestic industry. Not a flat across-the-board cut; negotiated, item by item.
+
+  '
+rationale: 'Hawley-Smoot provoked retaliatory tariff walls, halving world trade; American factories at 80% capacity
+  overproduce for the home market and must export; foreigners can only pay in goods. The bill''s increases were
+  "political favors" to campaign contributors; a thousand economists warned Hoover not to sign.
+
+  '
+statements:
+- date: 1932-04-07
+  venue: Radio address from Albany, NY ("Forgotten Man")
+  phase: primary
+  doc: app-radio-address-from-albany-new-york-the-forgotten-man-speech
+  quote: 'What we must do is this: revise our tariff on the basis of a reciprocal exchange of goods, allowing other
+    Nations to buy and to pay for our goods by sending us such of their goods as will not seriously throw any of
+    our industries out of balance'
+- date: 1932-04-18
+  venue: Jefferson Day dinner, St. Paul, Minnesota
+  phase: primary
+  audience: Minnesota Democrats
+  doc: app-address-jefferson-day-dinner-st-paul-minnesota
+  quote: The task of statesmanship is to determine what these products are, to bring about bilateral or group international
+    agreements to effectuate their exchange.
+  note: Also attacks Hawley-Smoot as "a drastic revision of the tariff upward" whose increases "were political favors".
+- date: '1932-06-27'
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate a competitive tariff for revenue with a fact-finding tariff commission free from executive
+    interference, reciprocal tariff agreements with other nations
+- date: '1932-07-02'
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: I accept that admirable tariff statement in the platform of this convention. It would protect American
+    business and American labor. By our acts of the past we have invited and received the retaliation of other Nations.
+    I propose an invitation to them to forget the past, to sit at the table with us, as friends, and to plan with
+    us for the restoration of the trade of the world.
+- date: '1932-07-30'
+  venue: Radio address from Albany on the Democratic platform
+  phase: general
+  doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+  quote: Tariffs should be high enough to maintain living standards which we set for ourselves. But if they are
+    higher, they become a particularly vicious kind of direct tax which is laid doubly on the consumer.
+  note: 'Protective qualifier: the July 30 formulation concedes tariffs high enough to protect American living standards.'
+- date: '1932-07-30'
+  venue: Radio address from Albany on the Democratic platform
+  phase: general
+  doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+  quote: Trade barriers of all kinds ought to be lowered, not by rule of thumb, but with due regard to safety and
+    justice -- lowered, nevertheless, as quickly and definitely as possible.
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: The Democratic tariff policy consists, in large measure, of negotiating agreements with individual countries
+    permitting them to sell goods to us in return for which they will let us sell to them goods and crops which
+    we produce.
+- date: '1932-09-20'
+  venue: Campaign address, Seattle, Washington (excerpts)
+  phase: general
+  doc: app-campaign-address-seattle-washington-reciprocal-tariff-negotiations-excerpts
+  quote: If I am any judge of conditions in this country today and of thought in this country today, that policy
+    will be initiated on March 4, 1933.
+  note: Policy = 'tariff by negotiation ... on a basis of fair barter'.
+- date: '1932-09-20'
+  venue: Campaign address, Seattle, Washington (excerpts)
+  phase: general
+  doc: app-campaign-address-seattle-washington-reciprocal-tariff-negotiations-excerpts
+  quote: This principle of tariff by negotiation means to deal with each country concerned, on a basis of fair barter;
+    if it has something we need, and we have something it needs, a tariff agreement can and should be made that
+    is satisfactory to both countries.
+- date: '1932-09-29'
+  venue: Campaign address on agriculture and tariffs, Sioux City, Iowa
+  phase: general
+  doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+  quote: Of course the outrageously excessive rates in that bill as it became law, must come down. But we should
+    not lower them beyond a reasonable point, a point indicated by common sense and facts.
+- date: '1932-09-29'
+  venue: Campaign address on agriculture and tariffs, Sioux City, Iowa
+  phase: general
+  doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+  quote: We must consent to the reduction to some extent of some of our duties in order to secure a lowering of
+    foreign tariff walls over which a larger measure of our surplus may be sent.
+- date: '1932-10-06'
+  venue: Radio address to the Business and Professional Men's League
+  phase: general
+  doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+  quote: We shall try to discover with each country in turn the things which can be exchanged with mutual benefit
+    and shall seek to further this exchange to the best of our ability. This economic interchange is the most important
+    item in any country's foreign policy.
+- date: '1932-10-25'
+  venue: Campaign address, Baltimore (Fifth Regiment Armory)
+  phase: general
+  doc: app-campaign-address-baltimore-maryland
+  quote: I know of no effective excessively high tariff duties on farm products. I do not intend that such duties
+    shall be lowered. To do so would be inconsistent with my entire farm program, and every farmer in the United
+    States knows it and will not be deceived.
+  note: 'Explicit limit: no reduction of agricultural duties.'
+- date: '1932-10-25'
+  venue: Campaign address, Baltimore (Fifth Regiment Armory)
+  phase: general
+  doc: app-campaign-address-baltimore-maryland
+  quote: The point indicated was that no tariff duty should be lowered to a point where our natural industries would
+    be injured.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

@@ -1,0 +1,42 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: old-age-insurance
+categories:
+- relief
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Old-age insurance under state laws
+solution: Old-age insurance enacted by the states rather than a federal system.
+rationale: Not argued in the platform; see the companion unemployment-insurance plank.
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate unemployment and old-age insurance under state laws.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: '1932-10-02'
+  venue: Campaign address, Detroit, Michigan
+  phase: general
+  doc: app-campaign-address-detroit-michigan
+  quote: That sold me on the idea of trying to keep homes intact for old people.
+  note: 'Follows the Hyde Park neighbors'' poorhouse story: ''I shall tell you what sold me on old age insurance
+    old age pensions.'''
+- date: '1932-10-06'
+  venue: Radio address to the Business and Professional Men's League
+  phase: general
+  doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+  quote: Old-age, sickness and unemployment insurance are minimum requirements in these days. But they are not enough.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

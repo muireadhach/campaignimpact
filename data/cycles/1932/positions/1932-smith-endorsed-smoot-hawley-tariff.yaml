@@ -1,0 +1,27 @@
+cycle: 1932
+candidate: alfred-e-smith
+issue: tariff-level
+categories:
+- trade
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: reported
+evidence_quality: C
+title: Endorsement of the Smoot-Hawley tariff
+solution: Accept the 1930 tariff rather than campaign against it — the position Raskob tried to write into party
+  policy in March 1931.
+rationale: Protection appealed to the Northeastern industrial Democrats Smith relied on; opposing it would alienate
+  them.
+notes: Documented only in secondary summary; the original endorsement (1931) is not archived.
+statements:
+- date: '1932-03-05'
+  venue: Democratic National Committee meeting (Wikipedia summary)
+  phase: pre_announcement
+  doc: wiki-1932-democratic-party-presidential-primaries
+  quote: Endorsing the tariff would also signal a boost to Smith's bid for a second nomination for president, since
+    Smith had already endorsed it.
+  attribution: reported
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

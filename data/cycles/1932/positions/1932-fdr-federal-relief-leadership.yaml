@@ -1,0 +1,99 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: federal-relief-role
+categories:
+- relief
+- federalism
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Federal leadership in distress relief — federal credit to states whose resources are exhausted
+solution: 'Extend federal credit to states for unemployment relief wherever their diminishing resources make it
+  impossible to provide for the needy; the federal government to "assume bold leadership in distress relief" while
+  primary responsibility stays with localities.
+
+  '
+rationale: 'Washington alternated between denying that destitution existed and saying the states should handle it,
+  "until the conscience of America demanded action"; the federal government "has always had and still has a continuing
+  responsibility for the broader public welfare."
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate the extension of federal credit to the states to provide unemployment relief wherever the diminishing
+    resources of the states makes it impossible for them to provide for the needy
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: when we get the chance, the Federal Government will assume bold leadership in distress relief.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: I say that while primary responsibility for relief rests with localities now, as ever, yet the Federal
+    Government has always had and still has a continuing responsibility for the broader public welfare. It will
+    soon fulfill that responsibility.
+- date: '1932-10-02'
+  venue: Campaign address, Detroit, Michigan
+  phase: general
+  doc: app-campaign-address-detroit-michigan
+  quote: All agree that, the first responsibility for the alleviation of poverty and distress and for the care of
+    the victims of the depression rests upon the locality
+- date: '1932-10-02'
+  venue: Campaign address, Detroit, Michigan
+  phase: general
+  doc: app-campaign-address-detroit-michigan
+  quote: Above and beyond that duty of the States the national Government has a responsibility.
+- date: '1932-10-02'
+  venue: Campaign address, Detroit, Michigan
+  phase: general
+  doc: app-campaign-address-detroit-michigan
+  quote: In other words, my friends, our long-range objective is not a dole, but a job.
+- date: '1932-10-13'
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: I not only reaffirm it, I go a step further and say that where the State itself is unable successfully
+    to fulfill this obligation which lies upon it, it then becomes the positive duty of the Federal Government to
+    step in to help.
+- date: '1932-10-13'
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: I believe that there are many ways in which such reduction of expenditures can take place, but I am utterly
+    unwilling that economy should be practiced at the expense of starving people.
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: Let me make it perfectly clear, however, that if men or women or children are starving in the United States
+    -- anywhere -- I regard it as a positive duty of the Government -- of the national Government if local and State
+    Governments have not the cash --to raise by taxes whatever sums may be necessary to keep them from starvation.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: As to "immediate relief," the first principle is that this Nation, this national Government, if you like,
+    owes a positive duty that no citizen shall be permitted to starve. That means that while the immediate responsibility
+    for relief rests, of course, with local, public and private charity, in so far as these are inadequate the States
+    must carry on the burden, and whenever the States themselves are unable adequately to do so the Federal Government
+    owes the positive duty of stepping into the breach.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

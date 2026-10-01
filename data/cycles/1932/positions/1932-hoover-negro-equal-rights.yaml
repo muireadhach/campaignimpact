@@ -1,0 +1,30 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: racial-equality
+categories:
+- civil_rights
+- society
+kind: pledge_forward
+commitment_strength: vague_gesture
+attribution: party_platform
+evidence_quality: A
+title: Maintain equal opportunity and rights for Negro citizens
+solution: Stand 'pledged to maintain equal opportunity and rights for Negro citizens' and not alter the party's
+  traditional pledge; no specific legislation named.
+rationale: '''For seventy years the Republican Party has been the friend of the American Negro.'''
+notes: The Democratic platform is silent on race; Hoover's own speeches do not mention it. Contrast with the Oct
+  1 remarks to the Republican committee to get out the Negro vote (not yet archived).
+statements:
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: For seventy years the Republican Party has been the friend of the American Negro. Vindication of the rights
+    of the Negro citizen to enjoy the full benefits of life, liberty and the pursuit of happiness is traditional
+    in the Republican Party, and our party stands pledged to maintain equal opportunity and rights for Negro citizens.
+    We do not propose to depart from that tradition nor to alter the spirit or letter of that pledge.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

@@ -1,0 +1,23 @@
+position: 1932-fdr-credit-control-by-information
+verdict: superseded
+contested: false
+summary: Instead of information alone, the Securities Exchange Act gave the Federal Reserve margin authority (1934)
+  and the Banking Act of 1935 gave the Board control over reserve requirements and open-market policy — direct instruments
+  Roosevelt had disclaimed in October 1932.
+mechanisms:
+- type: statute
+  name: Banking Act of 1935
+  date: '1935-08-23'
+  doc: mc-fdr-domestic-affairs
+  effect: Central control of credit.
+  consistent: 'no'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: superseded
+  reasoning: A central banking mechanism replaced the 'information' approach.
+  quote: Roosevelt in 1933 took America off the gold standard, and the Banking Act of 1935 gave the country a central
+    banking mechanism for the first time.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

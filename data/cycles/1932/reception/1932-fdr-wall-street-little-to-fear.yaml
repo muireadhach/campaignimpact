@@ -1,0 +1,20 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-new-deal-pledge
+source_type: news_coverage
+source_name: Literary Digest summary of post-election press
+date: '1932-11-19'
+perceived: After the election, Wall Street felt business had little to fear from the political change, and Republican
+  editors found cause for hope in the apparent continuity of policy.
+fidelity: distorted
+salience: high
+doc: ia-literary-digest-1932-11-19-114-21
+quote: Wall Street there is reported to be a rather general feeling of confidence that busi- ness need have little
+  to fear because of the political change.
+note: Financial opinion read the campaign's fiscal orthodoxy as the program; within five months the gold standard
+  was gone and the NRA in prospect.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

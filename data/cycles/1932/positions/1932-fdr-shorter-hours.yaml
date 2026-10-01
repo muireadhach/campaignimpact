@@ -1,0 +1,54 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: labor-hours
+categories:
+- labor
+- relief
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Spread employment by substantially reducing hours of labor, starting in government service
+solution: 'Substantial reduction in the hours of labor and encouragement of the shorter week, applying the principle
+  first in government service; "definite steps to shorten the working day and the working week."
+
+  '
+rationale: Spreads available work across more workers during mass unemployment.
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate the spread of employment by a substantial reduction in the hours of labor, the encouragement
+    of the shorter week by applying that principle in government service
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: we must take definite steps to shorten the working day and the working week.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: In addition to all this, there has been long overdue a reduction of the hours of work and a reduction of
+    the number of working days per week.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: That means that Government itself must set an example in the case of its own employees. It means also that
+    Government must exert its persuasive leadership to induce industry to do likewise.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

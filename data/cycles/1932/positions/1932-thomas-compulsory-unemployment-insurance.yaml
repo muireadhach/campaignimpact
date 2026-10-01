@@ -1,0 +1,41 @@
+cycle: 1932
+candidate: norman-thomas
+issue: unemployment-insurance
+categories:
+- relief
+- labor
+- taxation
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+triggered_by:
+- great-depression
+title: Compulsory unemployment insurance funded by employers and by higher income and inheritance taxes
+solution: An effective system of compulsory unemployment insurance with funds partly contributed by employers and
+  partly raised from increased income and inheritance taxes (the convention debated insurance versus compensation
+  and the funding basis).
+rationale: When work is cut off through no fault of the worker, 'the government is under a moral duty to provide
+  him with the minimum requirements of life.'
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-22'
+  venue: Morris Hillquit NBC radio address for the Socialist ticket, reported in the Milwaukee Leader
+  phase: convention
+  attribution: surrogate
+  doc: loc-sn83045293-1932-05-23-ed1-p2
+  quote: We demand an effective system of compulsory unemployment insur ance with funds, partly contributed by the
+    employers and partly raised from increased income and inheis itance taxes.
+- date: '1932-05-23'
+  venue: Milwaukee Leader report of the Socialist convention platform session (May 23)
+  phase: convention
+  attribution: party_platform
+  doc: loc-sn83045293-1932-05-23-ed1-p1
+  quote: The convention this afternoon continued its discussion on th ques tion of a compulsory system of un employment
+    compensation or insur ance with a division among the dele gates as to whether insurance or compensation should
+    be favored
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

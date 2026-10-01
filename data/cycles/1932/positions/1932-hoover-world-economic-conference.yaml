@@ -1,0 +1,55 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: international-economic-cooperation
+categories:
+- diplomacy
+- monetary
+- trade
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: A world economic conference on monetary stabilization and trade, with an agricultural representative
+solution: Participate in organizing the world economic conference for late 1932 (later London, 1933) to rebuild
+  credit structures, restore stable currencies and reduce obstacles to trade; send a representative of agriculture
+  as a delegate.
+rationale: Until nations forced off gold and into exchange restrictions are stabilized 'there is a definite blockade
+  upon the movement of commodities.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: It was in accordance with these principles that we have joined in the development of a world economic conference
+    to bulwark the whole international fabric of finance, of monetary values, and the expansion of world commerce.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: I am participating in the organization of a world economic conference to be held late this year. Every
+    intelligence the world can command will be concentrated on the rehabilitation of economic stability.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: I shall send a representative of agriculture as a member of that world conference.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We favor the participation by the United States in an international conference to consider matters relating
+    to monetary questions, including the position of silver, exchange problems, and commodity prices, and possible
+    co-operative action concerning them.
+  attribution: party_platform
+- date: '1932-11-07'
+  venue: Campaign address, Salt Lake City, Utah
+  phase: general
+  doc: app-address-salt-lake-city-utah
+  quote: I stipulated as a condition of American entry into that conference that there should be considered also
+    the methods for the restoration of the use and price of silver as a full part in that conference. That was finally
+    accepted. I have given assurances to the people of the Intermountain region that I shall appoint a representative
+    on the American delegation who will carry their point of view to that conference.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

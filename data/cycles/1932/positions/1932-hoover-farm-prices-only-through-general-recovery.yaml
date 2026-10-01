@@ -1,0 +1,72 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: agricultural-prices
+categories:
+- agriculture
+- economy
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Farm prices can be restored only by general recovery and markets — no production control, no subsidies; repeal
+  Farm Board stabilization
+solution: Repeal the Farm Board's stabilization (price-support purchase) provisions while keeping its cooperative-marketing
+  work; oppose any bureaucracy controlling farm production or subsidies; rely on tariff protection, credit, reopened
+  export markets via war-debt payments and world stabilization.
+rationale: '''No power on Earth can restore prices except by restoration of the general recovery and by restoration
+  of markets''; subsidies ''bring only more bureaucracy and their ultimate collapse''; stabilization purchases leave
+  ''a damaging aftermath'' on disposal.'
+notes: 'The clearest policy contrast of the campaign: Roosevelt''s Topeka ''tariff benefit'' plan versus Hoover''s
+  categorical rejection of production control.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: We still have vast problems to solve in agriculture. But no power on Earth can restore prices except by
+    restoration of the general recovery and by restoration of markets. Every measure that we have taken looking
+    to general recovery is of benefit to the farmer. There is no relief to the farmer by extending governmental
+    bureaucracy to control his production and thus to curtail his liberties, nor by subsidies that bring only more
+    bureaucracy and their ultimate collapse. And I shall continue to oppose them.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: Experience has shown that the patent weakness of such actions is the damaging aftermath which accompanies
+    disposal of these products. I am convinced that the act should be revised in the interest of the farmer, in
+    the light of our 3 years of experience, and that this particular provision should be repealed.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: Now, I come to you with no economic patent medicine especially compounded for farmers. I refuse to offer
+    the counterfeit currency or false hopes. I will not make any pledge which I cannot fulfill.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We will support any plan which will help to balance production against demand, and thereby raise agricultural
+    prices, provided it is economically sound and administratively workable without burdensome bureaucracy.
+  attribution: party_platform
+  note: The platform is markedly more open to production-balancing plans than the candidate's own statements.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The fundamental problem of American agriculture is the control of production to such volume as will balance
+    supply with demand. In the solution of this problem the co-operative organization of farmers to plan production,
+    and the tariff, to hold the home market for American farmers, are vital elements.
+  attribution: party_platform
+- date: '1932-11-05'
+  venue: Campaign address, St. Paul, Minnesota
+  phase: general
+  doc: app-address-st-paul-minnesota-0
+  quote: The Democratic candidate promises to relieve agriculture with a 6-point program which amounts to envisaging
+    to distressed farmers a great structure of agricultural relief, but he has refused to submit it to debate. He
+    has disclosed no details of the plan except six methods by which he can escape from the promise.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

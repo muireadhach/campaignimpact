@@ -1,0 +1,70 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: banking-regulation
+categories:
+- banking
+- economy
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- bank-panic-1930-33
+title: Separate investment banking from commercial banks; tighter national-bank supervision; faster payouts to depositors
+  of closed banks
+solution: 'Sever affiliated securities companies from, and divorce the investment-banking business from, commercial
+  banks; restrict use of Federal Reserve facilities for speculation; more rigid supervision of national banks to
+  keep depositors'' money out of speculation; quicker realization of assets of suspended banks for depositors.
+
+  '
+rationale: 'Depositors'' money was used in speculation "to the detriment of local credits"; suspended-bank depositors
+  wait years for their money.
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: The severance of affiliated security companies from, and the divorce of the investment banking business
+    from, commercial banks, and further restriction of federal reserve banks in permitting the use of federal reserve
+    facilities for speculative purposes.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate quicker methods of realizing on assets for the relief of depositors of suspended banks, and
+    a more rigid supervision of national banks for the protection of depositors and the prevention of the use of
+    their moneys in speculation to the detriment of local credits.
+- date: '1932-08-20'
+  venue: Campaign address, Columbus, Ohio
+  phase: general
+  doc: app-campaign-address-columbus-ohio
+  quote: Fourth -- The events of the past three years prove that the supervision of national banks for the protection
+    of the public has been ineffective. I propose vastly more rigid supervision.
+- date: '1932-08-20'
+  venue: Campaign address, Columbus, Ohio
+  phase: general
+  doc: app-campaign-address-columbus-ohio
+  quote: Sixth -- Investment banking is a legitimate business. Commercial banking is another wholly separate and
+    distinct business. Their consolidation and mingling are contrary to public policy. I propose their separation.
+- date: '1932-08-20'
+  venue: Campaign address, Columbus, Ohio
+  phase: general
+  doc: app-campaign-address-columbus-ohio
+  quote: Seventh -- Prior to the panic of 1929 the funds of the Federal Reserve System were used practically without
+    check for many speculative enterprises. I propose the restriction of Federal Reserve Banks in accordance with
+    the original plans and earlier practices of the Federal Reserve System under Woodrow Wilson.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

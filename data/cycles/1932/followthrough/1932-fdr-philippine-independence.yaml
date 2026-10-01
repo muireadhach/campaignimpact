@@ -1,0 +1,27 @@
+position: 1932-fdr-philippine-independence
+verdict: kept
+contested: false
+summary: The Tydings-McDuffie Act (March 24, 1934), requested in Roosevelt's March 2 message, provided a ten-year
+  commonwealth and independence in 1946 (achieved July 4, 1946). Puerto Rican statehood was never pursued.
+mechanisms:
+- type: message
+  name: Message regarding independence for the Philippine Islands
+  date: '1934-03-02'
+  doc: app-message-congress-regarding-independence-for-the-philippine-islands
+  quote: We believe that the time for such independence is at hand.
+  consistent: 'yes'
+- type: statute
+  name: Tydings-McDuffie Act
+  date: '1934-03-24'
+  doc: app-message-congress-regarding-independence-for-the-philippine-islands
+  effect: Commonwealth transition; independence after ten years.
+  consistent: 'yes'
+assessments:
+- doc: app-message-congress-regarding-independence-for-the-philippine-islands
+  verdict: kept
+  reasoning: Independence legislation was enacted on the President's recommendation and accepted by the Philippine
+    legislature.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

@@ -1,0 +1,91 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: federal-spending-level
+categories:
+- budget
+- economy
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Cut the cost of the federal government by at least 25 percent
+solution: 'Immediate and drastic reduction of federal expenditure by abolishing useless commissions and offices,
+  consolidating departments and bureaus and eliminating extravagance, to save "not less than twenty-five per cent"
+  of the cost of the federal government; states urged to do proportionately.
+
+  '
+rationale: 'Government at all levels "costs too much"; the Hoover administration sponsored deficits adding $5 billion
+  to the debt instead of cutting expenses to match falling revenue; Washington should set the example of solvency
+  for states and localities.
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate an immediate and drastic reduction of governmental expenditures by abolishing useless commissions
+    and offices, consolidating departments and bureaus, and eliminating extravagance to accomplish a saving of not
+    less than twenty-five per cent in the cost of the Federal Government.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: For three long years I have been going up and down this country preaching that Government--Federal and
+    State and local--costs too much. I shall not stop that preaching. As an immediate program of action we must
+    abolish useless offices. We must eliminate unnecessary functions of Government
+- date: 1932-07-30
+  venue: Radio address from Albany on the Democratic platform
+  phase: general
+  doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+  quote: Let us have the courage to stop borrowing to meet continuing deficits. Stop the deficits.
+- date: '1932-09-29'
+  venue: Campaign address on agriculture and tariffs, Sioux City, Iowa
+  phase: general
+  doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+  quote: I accuse the present Administration of being the greatest spending Administration in peace times in all
+    our history. It is an Administration that has piled bureau on bureau, commission on commission, and has failed
+    to anticipate the dire needs and the reduced earning power of the people.
+- date: '1932-09-29'
+  venue: Campaign address on agriculture and tariffs, Sioux City, Iowa
+  phase: general
+  doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+  quote: And on my part I ask you very simply to assign to me the task of reducing the annual operating expenses
+    of your national Government.
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: I shall approach the problem of carrying out the plain precept of our Party, which is to reduce the cost
+    of current Federal Government operations by 25 percent.
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: I regard reduction in Federal spending as one of the most important issues of this campaign. In my opinion
+    it is the most direct and effective contribution that Government can make to business.
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: 'Before any man enters my Cabinet he must give me a two-fold pledge:'
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: In accordance with this fundamental policy it is equally necessary to eliminate from Federal budget-making
+    during this emergency all new items except such as relate to direct relief of unemployment.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

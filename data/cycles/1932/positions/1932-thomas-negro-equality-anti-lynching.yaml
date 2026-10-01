@@ -1,0 +1,35 @@
+cycle: 1932
+candidate: norman-thomas
+issue: racial-equality
+categories:
+- civil_rights
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+title: Economic, political and legal equality for the Negro; a federal anti-lynching law; enforce the First Amendment
+solution: Full equality for Black Americans and an anti-lynching law; federal legislation to enforce free speech,
+  press and assembly; full civil and political rights for all creeds.
+rationale: '''Neither race, color, nor creed divides us''; the party opened the convention with a telegram of solidarity
+  to the NAACP.'
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-24'
+  venue: Edward Levinson, convention report in The New Leader (May 28)
+  phase: convention
+  attribution: party_platform
+  doc: mx-levinson-spa-convention-1932
+  quote: Eco- nomic, political, and legal equality for the Negro race, as well as en- actment of an anti-lynching
+    law was favored under the head of civil liberties.
+- date: '1932-05-22'
+  venue: Morris Hillquit NBC radio address for the Socialist ticket, reported in the Milwaukee Leader
+  phase: convention
+  attribution: surrogate
+  doc: loc-sn83045293-1932-05-23-ed1-p2
+  quote: Social and political justice to the colored people and to all races and nationalities inhabiting the United
+    States.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

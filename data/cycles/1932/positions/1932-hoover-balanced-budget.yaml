@@ -1,0 +1,41 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: federal-budget-balance
+categories:
+- budget
+- economy
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: A balanced budget as 'the foundation of all public and private financial stability'
+solution: Balance the budget by drastic expenditure cuts plus the Revenue Act of 1932's new taxes; revise those
+  temporary taxes if they 'sap the vitality of industry'; hold the credit of the federal government 'impregnable.'
+rationale: Federal revenue fell by nearly half; 'no country can squander itself to prosperity on the ruins of its
+  taxpayers'; the Treasury's ability to sell $500 million of notes at 3 percent proves the policy works.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I have insisted upon a balanced budget as the foundation of all public and private financial stability
+    and of all public confidence. I shall insist on the maintenance of that policy. Recent increases in revenues,
+    while temporary, should be again examined, and if they tend to sap the vitality of industry, and thus retard
+    employment, they should be revised.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: We determined we would stand up like men and render the credit of the United States Government impregnable
+    through the drastic reduction of Government expenditures and increased revenues until we balanced that budget.
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: If there is a deficit this year, it will be due to the Democratic Members of Congress.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

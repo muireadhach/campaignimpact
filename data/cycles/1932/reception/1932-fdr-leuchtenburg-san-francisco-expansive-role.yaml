@@ -1,0 +1,19 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-economic-constitutional-order
+source_type: historiography
+source_name: William E. Leuchtenburg, Miller Center
+date: '1932-09-23'
+perceived: The Commonwealth Club speech is read in retrospect as the outline of the New Deal's expansive federal
+  role.
+fidelity: accurate
+salience: medium
+doc: mc-fdr-campaigns-and-elections
+quote: In a speech in San Francisco, FDR outlined the expansive role that the federal government should play in
+  resuscitating the economy, in easing the burden of the suffering, and in insuring that all Americans had an opportunity
+  to lead successful and rewarding lives.
+evidence_quality: C
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

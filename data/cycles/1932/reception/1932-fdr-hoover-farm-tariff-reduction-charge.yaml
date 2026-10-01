@@ -1,0 +1,18 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-reciprocal-tariff
+source_type: opposition
+source_name: Herbert Hoover, Des Moines
+date: '1932-10-04'
+perceived: Roosevelt and his party intend to reduce the farm tariffs and open the home market to peasant-labor products.
+fidelity: distorted
+salience: high
+doc: app-address-the-coliseum-des-moines-iowa
+quote: This is surely a promise of reducing farm tariffs. They will reduce farm tariffs if they come to power.
+note: Roosevelt's Sioux City speech (Sept 29) had already limited reductions; his Baltimore statement (Oct 25) explicitly
+  excluded farm duties. Hoover then called that a 'new shuffle.'
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

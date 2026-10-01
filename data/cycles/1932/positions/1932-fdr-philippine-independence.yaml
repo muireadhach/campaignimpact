@@ -1,0 +1,39 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: philippine-independence
+categories:
+- diplomacy
+- foreign
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Independence for the Philippines; ultimate statehood for Puerto Rico
+solution: Grant independence to the Philippine Islands; ultimate statehood for Puerto Rico; Panama Canal operated
+  by American citizens.
+rationale: Not argued; the Philippine plank also served sugar, dairy and labor interests seeking to exclude Philippine
+  products and workers.
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: Independence for the Philippines; ultimate statehood for Puerto Rico.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: '1932-09-17'
+  venue: Campaign address on railroads, Salt Lake City, Utah
+  phase: general
+  doc: app-campaign-address-railroads-salt-lake-city-utah
+  quote: the independence of the Philippines, five thousand miles away, which, by the way, our Party in its platform
+    heartily advocates, is not without significance to you in your daily lives and in your future happiness.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

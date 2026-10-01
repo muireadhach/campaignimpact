@@ -1,0 +1,19 @@
+position: 1932-hoover-maintain-gold-standard-sound-dollar
+verdict: not_applicable
+contested: false
+summary: 'Hoover lost the election; the pledge could not be tested in office. The opposite policy followed: gold
+  embargo (April 1933), abrogation of gold clauses (June 1933), devaluation (January 1934) and silver purchase (June
+  1934).'
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: executive_order
+  name: Gold export embargo
+  date: '1933-04-19'
+  doc: app-excerpts-from-the-press-conference-146
+  note: Reversal of Hoover's position, not enactment of it.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

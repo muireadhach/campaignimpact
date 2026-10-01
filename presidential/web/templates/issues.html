@@ -1,0 +1,5 @@
+{% extends "base.html" %}{% block title %}Issues{% endblock %}{% block body %}
+<h1>Issues</h1>
+<table><tr><th>Category</th><th>Issue</th><th>Aliases</th><th>Positions</th><th>Cycles</th></tr>
+{% for i in rows %}<tr><td class="small">{{i.category_name}}</td><td><a href="/issue/{{i.id}}">{{i.name}}</a></td><td class="small muted">{% for a in i.aliases|fromjson %}{{a.name}} ({{a.era}}){% if not loop.last %}; {% endif %}{% endfor %}</td><td>{{i.n}}</td><td class="small">{{i.cycles or ''}}</td></tr>{% endfor %}</table>
+{% endblock %}

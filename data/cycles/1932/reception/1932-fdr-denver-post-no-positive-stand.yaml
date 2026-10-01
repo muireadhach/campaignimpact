@@ -1,0 +1,18 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-new-deal-pledge
+source_type: editorial
+source_name: Denver Post (pro-Hoover), via Literary Digest
+date: '1932-10-29'
+perceived: Roosevelt is incapable of taking a positive stand on any important national issue.
+fidelity: distorted
+salience: medium
+doc: ia-literary-digest-1932-10-29-114-18
+quote: Roosevelt seems utterly incapable of taking a positive stand upon any important national issue.
+note: By October 29 Roosevelt had delivered detailed programs on farm relief, railroads, utilities, securities and
+  the budget; the perception of vagueness attached to the whole rather than the parts.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

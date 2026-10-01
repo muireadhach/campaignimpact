@@ -1,0 +1,20 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: health-insurance
+categories: [health, relief]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: B
+title: Sickness insurance as a "minimum requirement" alongside old-age and unemployment insurance
+solution: Sickness insurance for industrial workers, named with old-age and unemployment insurance as minimum requirements; no mechanism given.
+rationale: Workers "need ... a greater assurance of security"; social insurance is a floor, not a full program.
+notes: The only campaign mention of health insurance found; evidence B because it is a single clause with no elaboration.
+statements:
+  - date: 1932-10-06
+    venue: Radio address to the Business and Professional Men's League
+    phase: general
+    audience: business and professional supporters at luncheons nationwide
+    doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+    quote: "Old-age, sickness and unemployment insurance are minimum requirements in these days. But they are not enough."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

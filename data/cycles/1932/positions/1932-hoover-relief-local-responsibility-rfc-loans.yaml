@@ -1,0 +1,58 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: federal-relief-role
+categories:
+- relief
+- federalism
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Relief through voluntary mobilization and local responsibility, with RFC loans to exhausted states — no federal
+  dole
+solution: Continue the President's Organization on Unemployment Relief mobilizing private and local agencies each
+  winter; where states are exhausted, lend through the RFC ($300 million authorized) 'and thus maintain the fundamental
+  responsibility of the States'; distribute Farm Board wheat and cotton; keep relief 'based upon human need' not
+  'the politics of selfish sectional demands.'
+rationale: Government must not 'relieve individuals of their responsibilities to their neighbors' or states of theirs;
+  infant and general mortality are at record lows, proving no one is starving; emergency agencies must be demobilized
+  once the emergency passes.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: It is not the function of the Government to relieve individuals of their responsibilities to their neighbors,
+    or to relieve private institutions of their responsibilities to the public, or the local government to the States,
+    or the responsibilities of State governments to the Federal Government.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: And when it became advisable to strengthen the States who could no longer carry the full burden of relief
+    to distress, it was in accordance with these principles that we held that the Federal Government should do so
+    through loans to the States and thus maintain the fundamental responsibility of the States themselves.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: There should be no fear or apprehension at any deserving American fireside that starvation or cold will
+    creep within their doors or menace their families and loved ones over the forthcoming winter.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: And above all, that they should be set up in such form that once the emergency is past they can and must
+    be demobilized and withdrawn, leaving our governmental, economic, and social structure strong and whole.
+- date: '1932-10-07'
+  venue: Radio address to the women of America
+  phase: general
+  doc: app-radio-address-the-women-america
+  quote: We are aiding them across an emergency. We will withdraw these agencies except the home loan banks when
+    the battle is won. We will leave the initiative and the enterprise and the courage of our people unimpaired.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

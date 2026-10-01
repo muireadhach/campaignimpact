@@ -1,0 +1,22 @@
+position: 1932-fdr-antitrust-enforcement
+verdict: reversed
+contested: false
+summary: The NIRA suspended the antitrust laws for code-governed industries in June 1933 — the opposite of the platform's
+  'strengthening and impartial enforcement.' Vigorous enforcement returned only with Thurman Arnold in 1938.
+mechanisms:
+- type: statute
+  name: National Industrial Recovery Act — antitrust exemption
+  date: '1933-06-16'
+  doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+  quote: One of the great restrictions upon such cooperative efforts up to this time has been our anti-trust laws.
+  consistent: 'no'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: reversed
+  reasoning: The NIRA suspended the antitrust laws as an enticement to business.
+  quote: As an enticement to business, the NIRA suspended antitrust laws that had been reviled by business leaders
+    since the beginning of the twentieth century.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

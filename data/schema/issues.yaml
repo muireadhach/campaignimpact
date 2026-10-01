@@ -1,0 +1,196 @@
+# Issues are era-spanning. An issue has one stable id and a history of names.
+# Positions reference an issue id; cross-era queries join on it.
+- id: federal-budget-balance
+  name: Balancing the federal budget
+  category: budget
+  aliases:
+    - {name: "Economy in government", era: "1789-1932"}
+    - {name: "Deficit reduction", era: "1980-"}
+- id: federal-spending-level
+  name: Level of federal spending
+  category: budget
+- id: unemployment-relief
+  name: Direct relief for the unemployed
+  category: relief
+  aliases:
+    - {name: "The dole", era: "1929-1940"}
+    - {name: "Welfare", era: "1960-"}
+- id: public-works
+  name: Public works as employment policy
+  category: infrastructure
+- id: agricultural-prices
+  name: Farm prices and agricultural surplus
+  category: agriculture
+  aliases:
+    - {name: "Farm relief", era: "1920-1940"}
+    - {name: "Farm subsidies", era: "1950-"}
+- id: tariff-level
+  name: Tariff levels
+  category: trade
+  aliases:
+    - {name: "Protection", era: "1789-1930"}
+    - {name: "Free trade", era: "1980-"}
+- id: currency-standard
+  name: Gold standard and currency basis
+  category: monetary
+- id: banking-regulation
+  name: Regulation of banks and securities
+  category: banking
+- id: prohibition-repeal
+  name: National Prohibition
+  category: prohibition
+- id: veterans-bonus
+  name: Veterans' bonus and benefits
+  category: veterans
+- id: public-power
+  name: Public ownership of electric power
+  category: energy
+- id: labor-hours
+  name: Working hours and labor standards
+  category: labor
+- id: old-age-insurance
+  name: Old-age pensions and social insurance
+  category: relief
+- id: unemployment-insurance
+  name: Unemployment insurance
+  category: relief
+- id: war-debts
+  name: European war debts and reparations
+  category: diplomacy
+- id: league-of-nations
+  name: League of Nations and international organizations
+  category: diplomacy
+- id: naval-armament
+  name: Naval arms and disarmament
+  category: defense
+- id: railroad-regulation
+  name: Railroad regulation and consolidation
+  category: transportation
+- id: antitrust
+  name: Antitrust and concentration of economic power
+  category: industry
+- id: civil-service-reform
+  name: Civil service and patronage
+  category: civil_service
+- id: government-reorganization
+  name: Reorganization of the executive branch
+  category: executive_power
+- id: mortgage-relief
+  name: Farm and home mortgage relief
+  category: banking
+- id: philippine-independence
+  name: Philippine independence
+  category: diplomacy
+- id: child-labor
+  name: Child labor
+  category: labor
+- id: lynching
+  name: Federal anti-lynching legislation
+  category: civil_rights
+- id: socialization-of-industry
+  name: Public ownership of major industries
+  category: industry
+- id: taxation-progressivity
+  name: Income and inheritance tax progressivity
+  category: taxation
+- id: conservation
+  name: Conservation of natural resources
+  category: environment
+- id: economic-planning
+  name: National economic planning
+  category: industry
+  aliases:
+    - {name: "Concert of interests", era: "1932"}
+    - {name: "Industrial policy", era: "1980-"}
+- id: utility-regulation
+  name: Regulation of utility rates and holding companies
+  category: energy
+- id: price-level-reflation
+  name: Restoring the commodity price level (reflation)
+  category: monetary
+  aliases:
+    - {name: "Sound money vs. inflation", era: "1896-1940"}
+- id: income-distribution
+  name: Distribution of national income and purchasing power
+  category: labor
+- id: securities-regulation
+  name: Regulation of securities issuance and exchanges
+  category: banking
+- id: federal-relief-role
+  name: Federal responsibility for relief
+  category: relief
+- id: government-role-general
+  name: Overall role and scale of the federal government
+  category: executive_power
+- id: military-spending
+  name: Level of military spending
+  category: defense
+- id: veterans-benefits
+  name: Benefits for disabled and service-connected veterans
+  category: veterans
+- id: world-court
+  name: Adherence to the World Court
+  category: diplomacy
+- id: latin-america-policy
+  name: Policy toward Latin America and the Western Hemisphere
+  category: diplomacy
+- id: international-economic-cooperation
+  name: International economic and monetary conferences
+  category: diplomacy
+- id: campaign-finance
+  name: Campaign finance and lobbying
+  category: corruption
+- id: reforestation
+  name: Reforestation and land policy
+  category: environment
+- id: land-use-planning
+  name: Planned use of land and retirement of marginal farmland
+  category: agriculture
+- id: local-tax-burden
+  name: Local government consolidation and the tax burden on land
+  category: taxation
+- id: motor-carrier-regulation
+  name: Federal regulation of motor carriers
+  category: transportation
+- id: health-insurance
+  name: Sickness and health insurance
+  category: health
+- id: housing
+  name: Housing and slum clearance
+  category: infrastructure
+- id: employment-service
+  name: Public employment offices
+  category: labor
+- id: child-welfare
+  name: Child welfare and schooling
+  category: education
+- id: credit-control
+  name: Control of credit expansion
+  category: banking
+- id: immigration-restriction
+  name: Restriction of immigration
+  category: immigration
+- id: aggression-non-recognition
+  name: Non-recognition of territorial gains by aggression (Stimson Doctrine)
+  category: diplomacy
+- id: wage-maintenance
+  name: Maintenance of wage levels in depression
+  category: labor
+- id: farm-credit
+  name: Short-term and marketing credit for agriculture
+  category: agriculture
+- id: collective-bargaining
+  name: Right to organize and bargain collectively
+  category: labor
+- id: federal-crime-laws
+  name: Federal action against organized crime and narcotics
+  category: crime
+- id: racial-equality
+  name: Equal rights and opportunity for Black Americans
+  category: civil_rights
+- id: judicial-independence
+  name: Independence of the Supreme Court
+  category: governance
+- id: deposit-insurance
+  name: Federal guarantee of bank deposits
+  category: banking

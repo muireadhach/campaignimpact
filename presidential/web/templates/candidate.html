@@ -1,0 +1,8 @@
+{% extends "base.html" %}{% block title %}{{k.name}} {{year}}{% endblock %}{% block body %}
+<h1>{{k.name}} <span class="muted">· {{year}} · {{k.party}}</span> <span class="tag">{{k.tier}}</span></h1>
+<p class="muted">{{k.person_summary}}</p><p>{{k.summary}}</p>
+<p class="small"><a href="/positions?cycle={{year}}&candidate={{k.person}}">Filter view</a> · <a href="/reception?cycle={{year}}&candidate={{k.person}}">Reception ({{reception|length}})</a></p>
+<h2>Positions ({{positions|length}})</h2>
+<table><tr><th>Issue</th><th>Position</th><th>Kind</th><th>Strength</th><th>Attribution</th><th>Ev.</th><th>First</th><th>Verdict</th></tr>
+{% for x in positions %}<tr><td class="small">{{x.issue_name}}</td><td><a href="/position/{{x.id}}">{{x.title}}</a></td><td><span class="tag">{{x.kind}}</span></td><td><span class="tag {{x.commitment_strength}}">{{x.commitment_strength}}</span></td><td><span class="tag {{x.attribution}}">{{x.attribution}}</span></td><td><span class="tag {{x.evidence_quality}}">{{x.evidence_quality}}</span></td><td class="small">{{x.first_date}}</td><td>{% if x.verdict %}<span class="tag {{x.verdict}}">{{x.verdict}}</span>{% if x.contested %}<span class="tag contested">contested</span>{% endif %}{% endif %}</td></tr>{% endfor %}</table>
+{% endblock %}

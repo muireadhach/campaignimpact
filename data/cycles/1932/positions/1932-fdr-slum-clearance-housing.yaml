@@ -1,0 +1,20 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: housing
+categories: [infrastructure, relief]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Slum clearance and modern housing for the urban poor as a "human necessity" among public works
+solution: >
+  Count tearing down slum areas and building modern housing as essential public works eligible for federal
+  cooperation with states and cities — while questioning new buildings that leave slums standing.
+rationale: Public works must be "honestly essential to the community"; better housing for the poor qualifies.
+statements:
+  - date: 1932-10-13
+    venue: Radio address on unemployment and social welfare, Albany
+    phase: general
+    doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+    quote: "I am much interested in providing better housing accommodations for the poor in our great cities. If a slum area can be torn down and new modern buildings put up, I should call that almost a human necessity"
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

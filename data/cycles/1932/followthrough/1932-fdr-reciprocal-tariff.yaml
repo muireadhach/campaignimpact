@@ -1,0 +1,33 @@
+position: 1932-fdr-reciprocal-tariff
+verdict: kept
+contested: false
+summary: 'Not ''initiated on March 4, 1933'' as promised at Seattle: 1933 was spent on domestic recovery and the
+  London conference was wrecked. The Reciprocal Trade Agreements Act (June 12, 1934) then gave the President exactly
+  the bilateral bargaining power Roosevelt described, and Hull negotiated agreements with Cuba, Canada, Britain
+  and others. Farm duties were included in some agreements despite the Baltimore pledge.'
+mechanisms:
+- type: message
+  name: Message requesting authority regarding foreign trade
+  date: '1934-03-02'
+  doc: app-message-congress-requesting-authority-regarding-foreign-trade
+  quote: I am requesting the Congress to authorize the Executive to enter into executive commercial agreements with
+    foreign Nations; and in pursuance thereof, within carefully guarded limits, to modify existing duties and import
+    restrictions in such a way as will benefit American agriculture and industry.
+  effect: Executive authority to cut duties up to 50% in bilateral agreements.
+  consistent: 'yes'
+- type: statute
+  name: Reciprocal Trade Agreements Act
+  date: '1934-06-12'
+  doc: app-message-congress-requesting-authority-regarding-foreign-trade
+  effect: Enacted substantially as requested; renewed 1937, 1940.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-foreign-affairs
+  verdict: kept
+  reasoning: The 1934 act embodied the negotiated-reciprocity approach of the campaign.
+  quote: In 1934, FDR won passage of the Reciprocal Trade Agreements Act, which allowed him to grant "most favored
+    nation" trade status to countries with which the United States worked out trade agreements.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

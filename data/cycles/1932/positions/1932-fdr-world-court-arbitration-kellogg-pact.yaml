@@ -1,0 +1,29 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: world-court
+categories: [diplomacy, foreign]
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: A
+title: Adhere to the World Court; arbitration of disputes; consultation to enforce the Kellogg-Briand Pact
+solution: >
+  Adherence to the World Court with the pending Senate reservations; settlement of international disputes by
+  arbitration; make the Pact of Paris effective by consultation and conference when treaty violations are
+  threatened; sanctity of treaties; no interference in other nations' internal affairs.
+rationale: Wilsonian internationalism minus the League, which Roosevelt had disavowed in February 1932.
+statements:
+  - date: 1932-06-27
+    venue: Democratic National Convention, Chicago (platform)
+    phase: convention
+    attribution: party_platform
+    doc: app-1932-democratic-party-platform
+    quote: "adherence to the World Court with appending reservations; the Pact of Paris abolishing war as an instrument of national policy, to be made effective by provisions for consultation and conference in case of threatened violations of treaties."
+  - date: 1932-07-02
+    venue: Acceptance address, Democratic National Convention, Chicago
+    phase: convention
+    attribution: candidate_direct
+    doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+    quote: "That admirable document, the platform which you have adopted, is clear. I accept it 100 percent."
+    note: Blanket endorsement of every plank.
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

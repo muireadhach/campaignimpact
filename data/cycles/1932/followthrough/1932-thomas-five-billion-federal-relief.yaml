@@ -1,0 +1,18 @@
+position: 1932-thomas-five-billion-federal-relief
+verdict: not_applicable
+contested: false
+summary: Thomas received 2.2 percent of the vote; the Socialist program could not be tested in office. Federal relief
+  on a large scale — FERA's $500 million grants, then the CWA and WPA — was enacted by Roosevelt, at roughly a tenth
+  of the Socialist figure at first.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Federal Emergency Relief Act
+  date: '1933-05-12'
+  doc: app-statement-signing-the-unemployment-relief-bill
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

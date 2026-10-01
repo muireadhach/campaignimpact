@@ -1,0 +1,37 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: war-debts
+categories: [diplomacy, economy]
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by: [ww1-war-debts]
+title: No cancellation of the war debts — make payment possible by restoring trade
+solution: >
+  Oppose cancellation of the debts owed by foreign governments; instead lower tariffs and revive trade so
+  the debtors can pay from trade profits.
+rationale: >
+  The Republican position — "demanding payment and at the same time making payment impossible" — forced the
+  moratorium; after Lausanne the danger is a united European front against the United States, driven less
+  by the debts than by American trade barriers.
+statements:
+  - date: 1932-06-27
+    venue: Democratic National Convention, Chicago (platform)
+    phase: convention
+    attribution: party_platform
+    doc: app-1932-democratic-party-platform
+    quote: "We oppose cancellation of the debts owing to the United States by foreign nations."
+  - date: 1932-07-02
+    venue: Acceptance address, Democratic National Convention, Chicago
+    phase: convention
+    attribution: candidate_direct
+    doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+    quote: "That admirable document, the platform which you have adopted, is clear. I accept it 100 percent."
+    note: Blanket endorsement of every plank.
+  - date: 1932-07-30
+    venue: Radio address from Albany on the Democratic platform
+    phase: general
+    doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+    quote: "The debts will not be a problem -- we shall not have to cancel them -- if we are realistic about providing ways in which payment is possible through the profits arising from the rehabilitation of trade."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

@@ -1,0 +1,27 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: public-works
+categories: [infrastructure, relief]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by: [great-depression]
+title: Public works spending is only a stopgap, not a cure for unemployment
+solution: >
+  Do not rely on huge federal, state and local public-works expenditure to solve unemployment; treat it as
+  a temporary expedient and attack causes (farm purchasing power, mortgages, tariff) instead.
+  Later superseded by the Boston program of October 31 embracing public works and federal relief
+  (see 1932-fdr-boston-unemployment-program).
+rationale: >
+  Even many billions on useful public works could not employ seven to ten million unemployed; "a real
+  economic cure must go to the killing of the bacteria in the system rather than to the treatment of
+  external symptoms."
+notes: Early-campaign orthodoxy; the position drifts sharply by autumn. Kept as a distinct record so the drift is queryable.
+statements:
+  - date: 1932-04-07
+    venue: Radio address from Albany, NY ("Forgotten Man")
+    phase: primary
+    doc: app-radio-address-from-albany-new-york-the-forgotten-man-speech
+    quote: "People suggest that a huge expenditure of public funds by the Federal Government and by State and local governments will completely solve the unemployment problem. But it is clear that even if we could raise many billions of dollars and find definitely useful public works to spend these billions on, even all that money would not give employment to the seven million or ten million people who are out of work. Let us admit frankly that it would be only a stopgap."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

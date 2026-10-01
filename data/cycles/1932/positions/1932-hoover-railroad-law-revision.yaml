@@ -1,0 +1,43 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: railroad-regulation
+categories:
+- transportation
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Revise the railway transportation laws for stability, while RFC loans avert receiverships
+solution: Persist in the repeatedly recommended revision of railroad law to give 'greater stability and greater
+  assurance' of service; continue RFC credit to railroads to protect the bonds held by savings banks and insurance
+  companies.
+rationale: Railroad securities underpin the savings institutions; the RFC saved railroads 'in all of which the public
+  interest is paramount.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: 'Sixth: I have repeatedly recommended to the Congress a revision of railway transportation laws, in order
+    that we may create greater stability and greater assurance of that vital service in our transportation. I shall
+    Persist in it.'
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The public will, of course, select the form of transportation best fitted to its particular service, but
+    the terms of competition fixed by public authority should operate without discrimination, so that all common
+    carriers by rail, highway, air and water shall operate under conditions of equality.
+  attribution: party_platform
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: The regulation should be extended to other forms of carriers, both to prevent the cutthroat destruction
+    going on in their own business amongst themselves and to prevent their destruction of the other great major
+    arm of our transportation. I have set this matter out in numerous messages to the Congress. I have supported
+    the recommendations of the Interstate Commerce Commission, which are specific and not generalities.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

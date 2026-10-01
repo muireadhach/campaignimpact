@@ -1,0 +1,52 @@
+cycle: 1932
+candidate: norman-thomas
+issue: socialization-of-industry
+categories:
+- industry
+- banking
+- energy
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+triggered_by:
+- great-depression
+title: Transfer the principal industries — banking, natural resources, utilities — to social ownership by compensation,
+  not confiscation
+solution: '''Transfer of the principal industries of the country from private ownership and autocratic management
+  to social ownership and democratic control,'' industry by industry, with planned and steady production; socialize
+  banking, natural resources, basic industries and public utilities. The convention rejected ''confiscation'' 168–14
+  on Thomas''s motion.'
+rationale: Periodic breakdowns are inherent in unregulated private industry operated for profit; 'starvation amidst
+  plenty'; the Socialist program is 'the cardinal demand of Socialism.'
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-22'
+  venue: Morris Hillquit NBC radio address for the Socialist ticket, reported in the Milwaukee Leader
+  phase: convention
+  attribution: party_platform
+  doc: loc-sn83045293-1932-05-23-ed1-p2
+  quote: '"It proposes to transfer the prin cipal industries of the country from private ownership and autocratic
+    management to social ownership and Democratic control. Only by these means will it be possible to organize our
+    industrial life on a basis of planned and steady opera tion without periodic breakdowns and disastrous crises."'
+  note: Platform preamble as adopted, printed in the Leader.
+- date: '1932-05-22'
+  venue: Morris Hillquit NBC radio address for the Socialist ticket, reported in the Milwaukee Leader
+  phase: convention
+  attribution: candidate_direct
+  doc: loc-sn83045293-1932-05-23-ed1-p2
+  quote: '"I do not say that confiscation is basically wrong, but it cannot be accomplished except by violent revo
+    lution," Thomas said.'
+  note: Thomas on the floor against the Busick confiscation amendment.
+- date: '1932-05-24'
+  venue: Edward Levinson, convention report in The New Leader (May 28)
+  phase: convention
+  attribution: party_platform
+  doc: mx-levinson-spa-convention-1932
+  quote: The socialization of banking, all natural resources and basic in- dustries, including the public utility
+    companies was also favored.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

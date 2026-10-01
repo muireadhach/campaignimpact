@@ -1,0 +1,27 @@
+position: 1932-fdr-oppose-war-debt-cancellation
+verdict: superseded
+contested: false
+summary: No cancellation was ever offered — but neither did restored trade make payment possible. Britain made token
+  payments in 1933, then all debtors except Finland defaulted; the Johnson Act (April 1934) barred loans to defaulters
+  and ended even token payments. The debts were never collected or formally cancelled.
+mechanisms:
+- type: statute
+  name: Johnson Act (Foreign Securities Act)
+  date: '1934-04-13'
+  doc: wiki-johnson-act
+  quote: As it also banned token payments, payments from debtor countries stopped entirely following its passage,
+    with the exception of Finland , which still continued to pay its debt.
+  consistent: partly
+assessments:
+- doc: wiki-johnson-act
+  verdict: superseded
+  reasoning: Default made the cancellation question moot.
+  quote: The act was a response to nonpayment of war debts from World War I .
+obstruction:
+  reasons:
+  - economy
+  explanation: Debtor default after the collapse of the London conference and the abandonment of gold.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

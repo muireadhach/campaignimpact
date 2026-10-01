@@ -1,0 +1,46 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: farm-credit
+categories:
+- agriculture
+- banking
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Restore short-term farm credit through the new agricultural credit corporations, RFC loans to processors
+  and financing of export sales
+solution: Operate the twelve new regional agricultural credit corporations ($300 million), RFC credit to processors
+  carrying farm stocks, RFC financing of farm exports to new markets, and seed and feed loans ($120 million to 900,000
+  families) with forbearance on repayment.
+rationale: '''The very first necessity in preventing collapse and securing recovery in agriculture is to keep open
+  to the farmer the banking and other sources'' of production credit.'
+statements:
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: It has been aided directly through the intermediate credit banks and especially through the 10 new agricultural
+    credit associations which alone can command over $300 million credit and which are now being erected and within
+    the next week will be operating in all parts of the country. We are thus rapidly everywhere restoring normal
+    short-term credits to agriculture.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: But even more important than that, at my recommendation that Corporation has been authorized to make credits
+    available for sales of farm products in new markets abroad.
+- date: '1932-11-04'
+  venue: Campaign address, Springfield, Illinois
+  phase: general
+  doc: app-address-springfield-illinois
+  quote: Since that date the farmers of the Northwest States have asked for a loan with which to sell 15 million
+    bushels of wheat to China, and I believe that, despite technical difficulties which have been raised before
+    the Reconstruction Corporation, we shall find solution and secure relief to those farmers with consequent aid
+    to the whole wheat situation.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

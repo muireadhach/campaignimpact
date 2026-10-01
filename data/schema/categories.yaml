@@ -1,0 +1,73 @@
+# Top-level category taxonomy. Positions carry one or more category ids.
+# Keep this list short and stable; put fine-grained topics in issues.yaml.
+- id: economy
+  name: Economy & Fiscal Policy
+  children: [taxation, budget, monetary, banking, trade, labor, agriculture, industry, relief]
+- id: taxation
+  name: Taxation
+- id: budget
+  name: Federal Budget & Spending
+- id: monetary
+  name: Money, Currency & Credit
+- id: banking
+  name: Banking & Finance
+- id: trade
+  name: Trade & Tariffs
+- id: labor
+  name: Labor & Employment
+- id: agriculture
+  name: Agriculture
+- id: industry
+  name: Industry, Business & Regulation
+- id: relief
+  name: Relief, Welfare & Social Insurance
+- id: foreign
+  name: Foreign Policy
+  children: [defense, war, diplomacy, immigration]
+- id: defense
+  name: Defense & Military
+- id: war
+  name: War & Peace
+- id: diplomacy
+  name: Diplomacy & International Institutions
+- id: immigration
+  name: Immigration
+- id: governance
+  name: Government & Institutions
+  children: [federalism, executive_power, civil_service, corruption, elections]
+- id: federalism
+  name: Federal–State Relations
+- id: executive_power
+  name: Executive Power
+- id: civil_service
+  name: Civil Service & Administration
+- id: corruption
+  name: Corruption & Reform
+- id: elections
+  name: Elections & Suffrage
+- id: society
+  name: Society & Rights
+  children: [civil_rights, prohibition, religion, education, health, crime, veterans]
+- id: civil_rights
+  name: Civil Rights & Race
+- id: prohibition
+  name: Prohibition & Alcohol
+- id: religion
+  name: Religion
+- id: education
+  name: Education
+- id: health
+  name: Health
+- id: crime
+  name: Crime & Justice
+- id: veterans
+  name: Veterans
+- id: infrastructure
+  name: Infrastructure & Public Works
+  children: [energy, environment, transportation]
+- id: energy
+  name: Energy & Power
+- id: environment
+  name: Environment & Conservation
+- id: transportation
+  name: Transportation

@@ -1,0 +1,26 @@
+position: 1932-fdr-planned-land-use-soil-survey
+verdict: kept
+contested: false
+summary: The Soil Erosion Service (1933) became the Soil Conservation Service (1935); the Resettlement Administration
+  bought submarginal land; the Soil Conservation and Domestic Allotment Act (1936) tied farm payments to land use;
+  the National Resources Board's 1934 land report was the national soil and land survey Topeka described.
+mechanisms:
+- type: statute
+  name: Soil Conservation Act / Soil Conservation Service
+  date: '1935-04-27'
+  doc: mc-fdr-domestic-affairs
+  consistent: 'yes'
+- type: statute
+  name: Soil Conservation and Domestic Allotment Act
+  date: '1936-03-01'
+  doc: app-statement-signing-the-soil-conservation-and-domestic-allotment-act
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: Roosevelt is credited as the father of soil conservation.
+  quote: As Theodore Roosevelt is the father of forest conservation, Franklin Roosevelt is the father of soil conservation.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

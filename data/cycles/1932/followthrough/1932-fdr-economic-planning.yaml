@@ -1,0 +1,51 @@
+position: 1932-fdr-economic-planning
+verdict: partial
+contested: true
+summary: The NIRA/NRA, AAA and TVA were explicitly framed as national planning — the second fireside chat called
+  it 'a partnership in planning.' The NRA collapsed politically by 1934 and was voided by Schechter (May 1935);
+  the AAA's tax by Butler (1936). Planning survived in the TVA, soil conservation and the National Resources Planning
+  Board, not as economy-wide coordination.
+mechanisms:
+- type: statute
+  name: National Industrial Recovery Act
+  date: '1933-06-16'
+  doc: app-statement-signing-the-national-industrial-recovery-act
+  effect: Industry codes under government licensing; PWA.
+  consistent: 'yes'
+- type: message
+  name: 'TVA message: ''national planning for a complete river watershed'''
+  date: '1933-04-10'
+  doc: app-message-congress-suggesting-the-tennessee-valley-authority
+  quote: In short, this power development of war days leads logically to national planning for a complete river
+    watershed involving many States and the future lives and welfare of millions.
+  consistent: 'yes'
+- type: message
+  name: 'Second fireside chat: ''a partnership in planning'''
+  date: '1933-05-07'
+  doc: app-second-fireside-chat
+  quote: It is rather a partnership between Government and farming and industry and transportation, not partnership
+    in profits, for the profits still go to the citizens, but rather a partnership in planning, and a partnership
+    to see that the plans are carried out.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: The NIRA was national economic planning in intent but failed within a year and was struck down.
+  quote: Drawing its inspiration from the federal government's efforts at economic planning during World War I and
+    the voluntary trade associations of the 1920s, the NIRA provided for national economic planning as opposed to
+    individualistic and competitive, laissez-faire capitalism.
+- doc: mc-fdr-domestic-affairs
+  verdict: broken
+  reasoning: By the end of 1933 the NRA had failed as a planning instrument.
+  quote: By the end of 1933, it was clear that the NRA was anything but a success.
+obstruction:
+  reasons:
+  - courts
+  - deliberate_abandonment
+  explanation: Schechter (1935) voided the NIRA; the administration did not attempt to rebuild economy-wide planning
+    afterward.
+  doc: mc-fdr-domestic-affairs
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

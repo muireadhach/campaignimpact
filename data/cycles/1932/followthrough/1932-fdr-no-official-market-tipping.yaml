@@ -1,0 +1,30 @@
+position: 1932-fdr-no-official-market-tipping
+verdict: kept
+contested: true
+summary: The administration sponsored the Foreign Bondholders Protective Council (October 1933) to handle defaulted
+  foreign bonds as a private body without government guarantee, and the Securities Act denied any implication of
+  federal approval of new issues. Roosevelt's own daily gold-price announcements in late 1933 moved markets, a practice
+  critics called exactly what Columbus had forsworn.
+mechanisms:
+- type: other
+  name: Foreign Bondholders Protective Council
+  date: '1933-10-20'
+  doc: app-statement-the-formation-organization-protect-holders-foreign-securities
+  effect: Private council; no State Department passing on foreign issues.
+  consistent: 'yes'
+- type: statute
+  name: Securities Act disclaimer of federal approval
+  date: '1933-05-27'
+  doc: app-message-congress-federal-supervision-investment-securities
+  quote: Of course, the Federal Government cannot and should not take any action which might be construed as approving
+    or guaranteeing that newly issued securities are sound in the sense that their value will be maintained or that
+    the properties which they represent will earn profit.
+  consistent: 'yes'
+assessments:
+- doc: app-statement-the-formation-organization-protect-holders-foreign-securities
+  verdict: kept
+  reasoning: The implied-approval practice ended; the gold-buying program is the arguable exception.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

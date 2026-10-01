@@ -1,0 +1,20 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-new-deal-pledge
+source_type: opposition
+source_name: Everett Sanders, Republican National Committee chairman, National Radio Forum (Evening Star)
+date: '1932-11-09'
+perceived: 'The Democratic mandate is clear: the party is commissioned to do as it promised, and its promises ''are
+  going to be presented for payment.'''
+fidelity: accurate
+salience: medium
+doc: loc-sn83045462-1932-11-10-ed1-p24
+quote: With the Inauguration of the Democratic ad ministration, the promises issued by the party aie going to be
+  presented for pay ment.
+note: Farley, on the same program, said Roosevelt 'becomes President without commitments of any kind' — as to cabinet
+  appointments.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

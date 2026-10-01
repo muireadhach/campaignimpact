@@ -1,0 +1,34 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: conservation
+categories:
+- environment
+- industry
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Conserve natural resources, including antitrust revision to end waste in oil, coal and timber
+solution: Continue recommending legislation to correct 'the waste and destruction' of natural resources caused by
+  present antitrust interpretations that prevent cooperative production control in resource industries.
+rationale: Ruinous competition in extractive industries wastes irreplaceable resources.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I have for years supported the conservation of national resources. I have made frequent recommendations
+    to the Congress in respect thereto, including legislation to correct the waste and destruction of these resources
+    through the present interpretations of the antitrust laws. I shall continue to urge such action.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The conservation of oil is a major problem to the industry and the nation. The administration has sought
+    to bring coordination of effort through the States, the producers and the Federal Government. Progress has been
+    made and the effort will continue.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

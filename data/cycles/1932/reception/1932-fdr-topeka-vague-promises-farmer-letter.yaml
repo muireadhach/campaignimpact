@@ -1,0 +1,20 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-farm-price-plan-tariff-benefit
+source_type: news_coverage
+source_name: Letter to the editor, Springfield (Mass.) Weekly Republican
+date: '1932-09-29'
+perceived: The Topeka farm speech made vague promises without definite legislation; farmers expect delivery or will
+  turn to violence.
+fidelity: accurate
+salience: medium
+doc: loc-sn83020847-1932-09-29-ed1-p6
+quote: Gov Roosevelt is playing with dynamite if he does not have definite legislation in mind to fulfill the vague
+  promises he made to agriculture in his Topeka address.
+note: Letter signed by a farmer; the paper's own editorial on the same page calls the program 'much more liberal
+  and definite than that of Mr Hoover.'
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

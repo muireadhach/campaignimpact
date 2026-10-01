@@ -1,0 +1,36 @@
+position: 1932-fdr-public-power-st-lawrence-model
+verdict: kept
+contested: false
+summary: 'The TVA (May 18, 1933) went beyond the St. Lawrence model: a federal corporation generating, transmitting
+  and selling power as a ''yardstick,'' plus Bonneville and Grand Coulee on the Columbia and the REA (1935). The
+  St. Lawrence seaway-power treaty itself was rejected by the Senate in March 1934.'
+mechanisms:
+- type: message
+  name: Message suggesting the Tennessee Valley Authority
+  date: '1933-04-10'
+  doc: app-message-congress-suggesting-the-tennessee-valley-authority
+  quote: I, therefore, suggest to the Congress legislation to create a Tennessee Valley Authority, a corporation
+    clothed with the power of Government but possessed of the flexibility and initiative of a private enterprise.
+  consistent: 'yes'
+- type: statute
+  name: Tennessee Valley Authority Act
+  date: '1933-05-18'
+  doc: app-second-fireside-chat
+  quote: Second, I have requested the Congress and have secured action upon a proposal to put the great properties
+    owned by our Government at Muscle Shoals to work after long years of wasteful inaction, and with this a broad
+    plan for the improvement of a vast area in the Tennessee Valley.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: Federal dams in the Northwest and the TVA delivered public power on a scale the campaign only sketched.
+  quote: Huge dams--Grand Coulee and Bonneville--transformed the economy of the Pacific Northwest. Still more important
+    was the Tennessee Valley Authority (TVA).
+obstruction:
+  reasons:
+  - congress
+  explanation: The St. Lawrence treaty (signed by Hoover July 1932) failed in the Senate, 46–42, on March 14, 1934.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

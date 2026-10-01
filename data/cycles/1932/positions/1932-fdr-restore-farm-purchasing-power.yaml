@@ -1,0 +1,43 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: agricultural-prices
+categories:
+- agriculture
+- economy
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Restore purchasing power to the farming half of the nation
+solution: 'Make restoration of farm purchasing power an essential part of a national recovery program, on the theory
+  that industrial employment depends on farmers being able to buy. Method left unspecified in April; developed into
+  the Topeka farm plan in September (see 1932-fdr-topeka-farm-plan).
+
+  '
+rationale: 'Half the population lives by farming or in farm towns; farmers receive less than the cost of production,
+  so they cannot buy industrial goods, so city workers lose jobs. "No Nation can long endure half bankrupt." Recovery
+  must be built "from the bottom up."
+
+  '
+statements:
+- date: 1932-04-07
+  venue: Radio address from Albany, NY ("Forgotten Man")
+  phase: primary
+  audience: national radio audience
+  doc: app-radio-address-from-albany-new-york-the-forgotten-man-speech
+  quote: I cannot escape the conclusion that one of the essential parts of a national program of restoration must
+    be to restore purchasing power to the farming half of the country. Without this the wheels of railroads and
+    of factories will not turn.
+- date: '1932-07-02'
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: It is because one-half of our population, over 50,000,000 people, are dependent on agriculture; and, my
+    friends, if those 50,000,000 people have no money, no cash, to buy what is produced in the city, the city suffers
+    to an equal or greater extent.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

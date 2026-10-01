@@ -1,0 +1,72 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: prohibition-repeal
+categories:
+- prohibition
+- society
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- prohibition-era
+title: Resubmit the Eighteenth Amendment so each state may decide, with constitutional guarantees against the saloon
+  and against interference with dry states; enforce the law meanwhile
+solution: Support a constitutional change giving each state the right to deal with liquor as it determines, subject
+  to federal guarantees protecting dry states from invasion and forbidding the saloon's return anywhere; continue
+  enforcing existing law; oppose the Democratic plan as destroying 'every vestige' of federal control.
+rationale: Laws opposed by majority sentiment 'produce degeneration and crime,' but the old saloon 'debauched the
+  home' and corrupted politics — 'either of them are intolerable, and they are not the only ways out.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: It is my conviction that the nature of this change, and one upon which all reasonable people can find common
+    ground, is that each State shall be given the right to deal with the problem as it may determine, but subject
+    to the absolute guarantees in the Constitution of the United States to protect each State from interference
+    and invasion by its neighbors, and that in no part of the United States shall there be a return of the saloon
+    system with its inevitable political and social corruption and its organized interference with other States
+    and other communities.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: The first duty of the President of the United States is to enforce the laws as they exist. That I shall
+    continue to do to the best of my ability.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: Our opponents pledge the members of their party to destroy every vestige of constitutional and effective
+    Federal control of the traffic.
+  note: Characterization of the Democratic plank that Roosevelt called a deliberate misrepresentation at Sea Girt.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We therefore believe that the people should have an opportunity to pass upon a proposed amendment the provision
+    of which, while retaining in the Federal Government power to preserve the gains already made in dealing with
+    the evils inherent in the liquor traffic, shall allow the States to deal with the problem as their citizens
+    may determine, but subject always to the power of the Federal Government to protect those States where prohibition
+    may exist and safeguard our citizens everywhere from the return of the saloon and attendant abuses.
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We do not favor a submission limited to the issue of retention or repeal, for the American nation never
+    in its history has gone backward, and in this case the progress which has been thus far made must be preserved,
+    while the evils must be eliminated.
+  attribution: party_platform
+- date: '1932-11-02'
+  venue: Telegram to the New Jersey Republican campaign committee
+  phase: general
+  doc: app-message-the-new-jersey-republican-campaign-committee-about-the-presidents-position
+  quote: I would be glad if you would reply to any such misrepresentations that my position is unaltered. In that
+    address I set forth my conclusions clearly and unmistakably.
+  note: Denying reports that he had shifted toward the drys after the acceptance speech.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

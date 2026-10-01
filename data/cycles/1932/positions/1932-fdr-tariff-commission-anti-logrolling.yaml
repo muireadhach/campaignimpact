@@ -1,0 +1,35 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: tariff-level
+categories: [trade, corruption]
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: A "competitive" tariff set through a scientific Tariff Commission, with anti-log-rolling rules and a public counsel
+solution: >
+  Rates equalizing differences in cost of production — not prohibitory rates; restore the Tariff Commission as
+  a fact-finding body reporting to Congress rather than the President; enact the vetoed 1932 bill making
+  Commission-recommended rate bills unamendable as to other items; appoint a public counsel to be heard on
+  every rate application.
+rationale: >
+  Log-rolling produces indefensible rates; the 1922 "flexible" provisions turned a scientific commission into
+  a political one; a public counsel gives "the average citizen ... some representation."
+statements:
+  - date: 1932-09-29
+    venue: Campaign address on agriculture and tariffs, Sioux City, Iowa
+    phase: general
+    audience: corn-belt farmers; national radio audience
+    doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+    quote: "The platform declares in favor of a competitive tariff which means one which will put the American producers on a market equality with their foreign competitors, one that equalizes the difference in the cost of production, not a prohibitory tariff back of which domestic producers may combine to practice extortion on the American public."
+  - date: 1932-09-29
+    venue: Campaign address on agriculture and tariffs, Sioux City, Iowa
+    phase: general
+    doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+    quote: "And next, my friends, the Democrats propose to accomplish the necessary reduction through the agency of the Tariff Commission."
+  - date: 1932-09-29
+    venue: Campaign address on agriculture and tariffs, Sioux City, Iowa
+    phase: general
+    doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+    quote: "contemplated the appointment of a public counsel who should be heard on all applications for changes in rates whether for increases sought by producers, sometimes greedy producers, or for decreases asked by importers, equally often actuated by purely selfish motives. And I hope some such change may speedily be enacted."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

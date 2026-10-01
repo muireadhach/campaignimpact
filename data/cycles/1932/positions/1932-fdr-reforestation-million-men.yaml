@@ -1,0 +1,48 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: reforestation
+categories:
+- environment
+- relief
+- infrastructure
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Employ a million men reforesting marginal and abandoned land
+solution: 'Convert many millions of acres of marginal, abandoned and cut-over land into timberland through reforestation,
+  giving employment to a million men, financed by bonds secured on the future timber crop; a national land policy
+  on the European model. Modeled on the New York program.
+
+  '
+rationale: 'Reforestation is public work that is genuinely self-sustaining; without a land policy the country faces
+  "soil erosion and timber famine"; "economic foresight and immediate employment march hand in hand."
+
+  '
+statements:
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: In so doing, employment can be given to a million men. That is the kind of public work that is self-sustaining,
+    and therefore capable of being financed by the issuance of bonds which are made secure by the fact that the
+    growth of tremendous crops will provide adequate security for the investment.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: Yes, I have a very definite program for providing employment by that means. I have done it, and I am doing
+    it today in the State of New York. I know that the Democratic Party can do it successfully in the Nation.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: You and I know that in the national forests, on flood prevention, and on the development of waterway projects
+    that have already been authorized and planned but not yet executed, tens of thousands, and even hundreds of
+    thousands of our unemployed citizens can be given at least temporary employment.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

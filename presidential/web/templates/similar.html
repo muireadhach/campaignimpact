@@ -1,0 +1,7 @@
+{% extends "base.html" %}{% block title %}Similar{% endblock %}{% block body %}
+<p class="small"><a href="/position/{{x.id}}">{{x.title}}</a> — {{x.candidate_name}}, {{x.cycle}}</p>
+<h1>Similar by {{field}} <span class="small"><a href="/similar/{{x.id}}?field=solution">solution</a> · <a href="/similar/{{x.id}}?field=rationale">rationale</a></span></h1>
+{% if not available %}<p class="muted">Embeddings not built. Run <code>./pres embed</code>.</p>{% endif %}
+<table><tr><th>Score</th><th>Cycle</th><th>Candidate</th><th>Issue</th><th>Position</th></tr>
+{% for r, s in rows %}<tr><td class="mono">{{'%.2f'|format(s)}}</td><td>{{r.cycle}}</td><td>{{r.candidate_name}}</td><td class="small">{{r.issue_name}}</td><td><a href="/position/{{r.id}}">{{r.title}}</a></td></tr>{% endfor %}</table>
+{% endblock %}

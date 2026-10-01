@@ -1,0 +1,43 @@
+cycle: 1932
+candidate: norman-thomas
+issue: public-works
+categories:
+- infrastructure
+- relief
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+triggered_by:
+- great-depression
+title: A $5 billion federal public-works program — roads, reforestation, slum clearance, workers' housing — and
+  idle factories and land turned over to the unemployed
+solution: Federal appropriation of $5,000,000,000 for public work and roads, reforestation, slum clearance and decent
+  homes for workers, with states and cities; legislation turning over idle land, factories and equipment to unemployed
+  workers to produce food, fuel and clothing (Hoopes amendment, carried 78–62).
+rationale: '''To break the vicious circle of unemployment and depression''; a country that raised $15 billion for
+  war can give a third of it ''for the preservation of life.'''
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-23'
+  venue: Milwaukee Leader report of the Socialist convention platform session (May 23)
+  phase: convention
+  attribution: party_platform
+  doc: loc-sn83045293-1932-05-23-ed1-p1
+  quote: '"A federal appropriation of $5,- 000,000,000 for public work and roads, reforestration, slub clear ance
+    and decent homes for workers by the federal government, states and cities an dproviding for legisla tion for
+    turning over idle land, fac tories and equipment to unem ployed workers to allow them to produce food, fuel
+    and clothing."'
+  note: Plank 'as finally adopted' per the Leader; OCR errors in original.
+- date: '1932-05-22'
+  venue: Morris Hillquit NBC radio address for the Socialist ticket, reported in the Milwaukee Leader
+  phase: convention
+  attribution: surrogate
+  doc: loc-sn83045293-1932-05-23-ed1-p2
+  quote: We demand a congressional ap propriation of $5,000,000,000 for all kinds of useful public works to cre
+    ate jobs for millions and to break the vicious circle of unemployment and depression.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

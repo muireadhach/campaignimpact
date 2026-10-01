@@ -1,0 +1,13 @@
+id: data-fred-fyfsd
+source: fred
+kind: dataset
+title: FRED series FYFSD
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=FYFSD
+citation: Federal Reserve Bank of St. Louis, FRED series FYFSD, https://fred.stlouisfed.org/graph/fredgraph.csv?id=FYFSD
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:37:41+00:00'
+sha256: f4e5b30165d969da81b40df3618399e7f68746e2594b07e8e3515ae8deaf4e5a
+notes: null
+extra: {}

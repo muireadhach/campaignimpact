@@ -1,0 +1,20 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-repeal-prohibition
+source_type: editorial
+source_name: William Allen White, Emporia Gazette (Republican progressive), via Literary Digest
+date: '1932-10-29'
+perceived: 'Pairing the bonus refusal with beer revenue was a ''bald-faced bribe'': vote for beer and get your bonus
+  — a promise beer taxes could never fund.'
+fidelity: distorted
+salience: high
+doc: ia-literary-digest-1932-10-29-114-18
+quote: What Roosevelt seems to have done is a dirty trick. He has dunked his bonus in beer. And bitter bread it
+  will be for him in the day of reckoning.
+note: Roosevelt's Pittsburgh text tied beer revenue to balancing the budget, not to paying the bonus; White's reading
+  is what a hostile listener took from the juxtaposition.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

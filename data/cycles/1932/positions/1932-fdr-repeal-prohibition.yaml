@@ -1,0 +1,110 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: prohibition-repeal
+categories:
+- prohibition
+- society
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- prohibition-era
+title: Repeal the Eighteenth Amendment by state conventions; legalize beer now; states control liquor and bar the
+  saloon
+solution: 'Congress to propose immediately a repeal amendment to be ratified by state conventions; states to regulate
+  the liquor traffic, promote temperance and prevent the saloon''s return, with federal help against importation
+  into dry states; pending repeal, modify the Volstead Act to legalize beer and raise revenue. If the current Congress
+  does nothing, "I shall urge the new Congress to carry out these provisions."
+
+  '
+rationale: '"This convention wants repeal. Your candidate wants repeal. And I am confident that the United States
+  of America wants repeal"; repeal also has a fiscal dimension through beer revenue.
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate the repeal of the Eighteenth Amendment.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: Pending repeal, we favor immediate modification of the Volstead Act; to legalize the manufacture and sale
+    of beer and other beverages of such alcoholic content as is permissible under the Constitution and to provide
+    therefrom a proper and needed revenue.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: This convention wants repeal. Your candidate wants repeal. And I am confident that the United States of
+    America wants repeal.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: I say to you now that from this date on the 18th Amendment is doomed. When that happens, we as Democrats
+    must and will, rightly and morally, enable the States to protect themselves against the importation of intoxicating
+    liquor where such importation may violate their State laws. We must rightly and morally prevent the return of
+    the saloon.
+- date: 1932-07-30
+  venue: Radio address from Albany on the Democratic platform
+  phase: general
+  doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+  quote: Nothing need be added to that, except that if the present Congress takes no action, I shall urge the new
+    Congress to carry out these provisions.
+- date: '1932-08-27'
+  venue: Campaign address on Prohibition, Sea Girt, New Jersey
+  phase: general
+  doc: app-campaign-address-prohibition-sea-girt-new-jersey
+  quote: The experience of nearly one hundred and fifty years under the Constitution has shown us that the proper
+    means of regulation is through the States, with control by the Federal Government limited to that which is necessary
+    to protect the States in the exercise of their legitimate powers. This I submit is the principle embodied in
+    our Democratic platform
+- date: '1932-08-27'
+  venue: Campaign address on Prohibition, Sea Girt, New Jersey
+  phase: general
+  doc: app-campaign-address-prohibition-sea-girt-new-jersey
+  quote: Unquestionably our tax burden would not be so heavy nor the forms that it takes so objectionable if some
+    reasonable proportion of the uncounted millions now paid to those whose business has been reared upon this stupendous
+    blunder could be made available for the expenses of Government.
+- date: '1932-08-27'
+  venue: Campaign address on Prohibition, Sea Girt, New Jersey
+  phase: general
+  doc: app-campaign-address-prohibition-sea-girt-new-jersey
+  quote: Thus the Democratic platform expressly and unequivocally opposes the return of the saloon and with equal
+    emphasis it demands that there be Federal control of the liquor traffic to protect dry States.
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: I refer specifically to a Federal tax on beer, which would be raised through the sale of beer in those
+    States and those States only which by State law allow the sale of beer.
+- date: '1932-10-21'
+  venue: Campaign address on the eight credit groups, St. Louis
+  phase: general
+  doc: app-campaign-address-the-eight-great-credit-groups-the-nation-st-louis-missouri
+  quote: by placing a tax on beer which in the meantime will increase our Federal revenues by several hundred million
+    dollars a year.
+- date: '1932-10-25'
+  venue: Campaign address, Baltimore (Fifth Regiment Armory)
+  phase: general
+  doc: app-campaign-address-baltimore-maryland
+  quote: I favor the modification of the Volstead Act to permit States to authorize the manufacture and sale of
+    beer just as fast as the law will let us. This is a way to divert three hundred million dollars or more by way
+    of taxes from the pockets of the racketeers to the Treasury of the United States.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

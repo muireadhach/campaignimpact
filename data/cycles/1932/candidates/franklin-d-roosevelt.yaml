@@ -1,0 +1,12 @@
+party: Democratic
+tier: nominee
+result: Won; 472 electoral votes, 57.4% popular vote
+popular_vote_pct: 57.4
+electoral_vote: 472
+summary: >
+  Nominated on the fourth ballot at Chicago after a Garner–Hearst deal delivered Texas and California.
+  Broke precedent by flying to the convention to accept in person. Campaigned across the country
+  September–November on a program that mixed fiscal orthodoxy with relief, farm, power and regulatory
+  pledges; deliberately left the content of the "new deal" open.
+sources: [mc-fdr-campaigns-and-elections, wiki-1932-united-states-presidential-election, wiki-1932-democratic-national-convention]
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

@@ -1,0 +1,48 @@
+position: 1932-fdr-balanced-budget
+verdict: broken
+contested: true
+summary: The budget was never balanced in Roosevelt's presidency; deficits ran $2.6–4.4 billion a year through 1936.
+  Roosevelt invoked the Pittsburgh escape clause ('if starvation and dire need ... make necessary the appropriation
+  of additional funds') and the two-budget device, and Morgenthau's 1937 attempt to balance produced the 'Roosevelt
+  recession,' after which deficit spending was adopted deliberately. Sam Rosenman's later account has Roosevelt
+  asking him in 1936 to find a way to explain Pittsburgh, and being told to deny having been there.
+mechanisms:
+- type: message
+  name: 'Economy message: pledge to cover expenditures ''within a year'''
+  date: '1933-03-10'
+  doc: app-message-congress-economies-government
+  quote: I give you assurance that if this is done there is reasonable prospect that within a year the income of
+    the Government will be sufficient to cover the expenditures of the Government.
+  consistent: 'yes'
+- type: budget
+  name: FY1935 budget message with continuing deficit
+  date: '1934-01-03'
+  doc: app-the-annual-budget-message-0
+  effect: Projected deficits; distinguished 'regular' balanced budget from emergency outlays.
+  consistent: 'no'
+- type: budget
+  name: Spending cuts of 1937 and the recession
+  date: '1937-06-01'
+  doc: mc-fdr-domestic-affairs
+  effect: Attempted balance cut federal stimulus from $4.1 billion to under $1 billion; production fell a third.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: broken
+  reasoning: Sustained deficits, then a failed 1937 balancing attempt, then deliberate 'pump-priming.'
+  quote: In 1936, the government contributed $4.1 billion to consumer purchasing power, versus less than $1 billion
+    in 1937.
+- doc: app-message-congress-economies-government
+  verdict: partial
+  reasoning: The 'ordinary' budget was brought near balance in 1933–34 by the Economy Act and new taxes, which is
+    what the platform's 'annually balanced' language was reinterpreted to mean.
+obstruction:
+  reasons:
+  - economy
+  - deliberate_abandonment
+  explanation: Relief and recovery spending under the explicit starvation exception, then acceptance of deficit
+    spending as policy after 1938.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

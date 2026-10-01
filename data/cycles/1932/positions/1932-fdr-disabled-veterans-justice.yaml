@@ -1,0 +1,33 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: veterans-benefits
+categories: [veterans]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: A
+triggered_by: [bonus-army]
+title: Full justice and generosity for veterans disabled by actual wartime service — silence on the bonus
+solution: >
+  Justice and generosity for war veterans "who have suffered disability or disease caused by or resulting
+  from actual service in time of war" and their dependents. The platform and candidate say nothing about
+  immediate cash payment of the adjusted-service bonus.
+rationale: >
+  The "actual service" qualifier tracks the Economy-in-government position: benefits for service-connected
+  disability, not for the non-service-connected pensions enacted in 1930.
+notes: The bonus silence is deliberate; see reception records for how veterans' groups and Hoover read it.
+statements:
+  - date: 1932-06-27
+    venue: Democratic National Convention, Chicago (platform)
+    phase: convention
+    attribution: party_platform
+    doc: app-1932-democratic-party-platform
+    quote: "We advocate the full measure of justice and generosity for all war veterans who have suffered disability or disease caused by or resulting from actual service in time of war and for their dependents."
+  - date: 1932-07-02
+    venue: Acceptance address, Democratic National Convention, Chicago
+    phase: convention
+    attribution: candidate_direct
+    doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+    quote: "That admirable document, the platform which you have adopted, is clear. I accept it 100 percent."
+    note: Blanket endorsement of every plank.
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

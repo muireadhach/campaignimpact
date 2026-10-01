@@ -1,0 +1,28 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: latin-america-policy
+categories: [diplomacy, foreign]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: A
+title: Non-interference in other nations' affairs and cooperation with Western Hemisphere nations
+solution: >
+  No interference in the internal affairs of other nations; cooperate with the nations of the Western
+  Hemisphere to maintain "the spirit of the Monroe Doctrine" (i.e., collectively rather than unilaterally).
+rationale: Reaction against the interventions of the 1910s–20s (Nicaragua, Haiti); precursor of the Good Neighbor policy.
+statements:
+  - date: 1932-06-27
+    venue: Democratic National Convention, Chicago (platform)
+    phase: convention
+    attribution: party_platform
+    doc: app-1932-democratic-party-platform
+    quote: "no interference in the internal affairs of other nations"
+  - date: 1932-07-02
+    venue: Acceptance address, Democratic National Convention, Chicago
+    phase: convention
+    attribution: candidate_direct
+    doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+    quote: "That admirable document, the platform which you have adopted, is clear. I accept it 100 percent."
+    note: Blanket endorsement of every plank.
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

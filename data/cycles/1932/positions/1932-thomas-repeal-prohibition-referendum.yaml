@@ -1,0 +1,36 @@
+cycle: 1932
+candidate: norman-thomas
+issue: prohibition-repeal
+categories:
+- prohibition
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+triggered_by:
+- prohibition-era
+title: Repeal the Eighteenth Amendment — the candidate preferring a binding national referendum
+solution: Platform plank for repeal (carried 81–71, then 84–77); Thomas personally favored a national referendum
+  to which parties would pledge themselves, and would vote for repeal in it; a Hoan–Broun–Ameringer proposal for
+  government ownership of the liquor industry with state local option was also offered.
+rationale: The party should 'take a definite, courageous stand where the two old parties are dodging' (Broun).
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-24'
+  venue: Edward Levinson, convention report in The New Leader (May 28)
+  phase: convention
+  attribution: party_platform
+  doc: mx-levinson-spa-convention-1932
+  quote: A plank for repeal of the 18th Amendment was also written into the platform.
+- date: '1932-05-24'
+  venue: Edward Levinson, convention report in The New Leader (May 28)
+  phase: convention
+  attribution: candidate_direct
+  doc: mx-levinson-spa-convention-1932
+  quote: Thomas declared himself in favor of a national referendum on the subject, to which the parties would pledge
+    themselves to abide. In the event of such a referendum his own vote would be for repeal, he said.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

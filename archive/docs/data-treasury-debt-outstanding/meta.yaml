@@ -1,0 +1,13 @@
+id: data-treasury-debt-outstanding
+source: treasury
+kind: dataset
+title: Historical Debt Outstanding (fiscal year end)
+date: null
+author: U.S. Department of the Treasury, Fiscal Data
+url: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_outstanding
+citation: U.S. Treasury Fiscal Data, Historical Debt Outstanding, https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_outstanding
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:37:44+00:00'
+sha256: 7644a4f05ba3be77958395dd7f6e09f8bbc6d4f27aa6d7c7c44b7aa30e1c5b78
+notes: null
+extra: {}

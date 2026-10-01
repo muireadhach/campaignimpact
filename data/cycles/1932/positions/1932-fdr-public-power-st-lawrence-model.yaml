@@ -1,0 +1,82 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: public-power
+categories:
+- energy
+- infrastructure
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Public development of hydro-electric power on the St. Lawrence model, with national control of interstate
+  transmission
+solution: 'Where the public owns a power site, a public authority builds and permanently owns the dams and powerhouses;
+  transmission and distribution are offered first to private capital at a price built from plant amortization plus
+  a reasonable return on actual investment; if private capital refuses those terms, government transmits and distributes
+  itself. Interstate transmission to be placed under national control.
+
+  '
+rationale: 'Public-utility regulation is centuries-old common law (adequate service, reasonable price on actual
+  cash invested). Holding-company mergers inflated capital so rates yield returns on water, not investment; householders
+  and farmers pay far too much for electricity. Interstate power cannot be controlled by states alone.
+
+  '
+statements:
+- date: 1932-04-18
+  venue: Jefferson Day dinner, St. Paul, Minnesota
+  phase: primary
+  doc: app-address-jefferson-day-dinner-st-paul-minnesota
+  quote: I insisted that the actual dam or dams and the actual power houses should be constructed by a public authority
+    and always remain in the physical possession of that public authority.
+- date: 1932-04-18
+  venue: Jefferson Day dinner, St. Paul, Minnesota
+  phase: primary
+  doc: app-address-jefferson-day-dinner-st-paul-minnesota
+  quote: if Government is not able to find private individuals or corporations willing to do this, then Government
+    must step in and do it itself.
+- date: 1932-04-18
+  venue: Jefferson Day dinner, St. Paul, Minnesota
+  phase: primary
+  doc: app-address-jefferson-day-dinner-st-paul-minnesota
+  quote: where a public service like the transmission of electricity passes beyond State lines and becomes interstate
+    in its actual operation, in such a case the control cannot effectively be maintained by States alone, or through
+    agreements between neighboring States. That problem is national in its scope and can be solved only by the firm
+    establishment of national control.
+- date: '1932-06-27'
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: The conservation, development, and use of the nation's water power in the public interest.
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: I do not hold with those who advocate Government ownership or Government operation of all utilities. I
+    state to you categorically that as a broad general rule the development of utilities should remain, with certain
+    exceptions, a function for private initiative and private capital.
+  note: Explicit limit on the position.
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: That where a community -- a city or county or a district is not satisfied with the service rendered or
+    the rates charged by the private utility, it has the undeniable basic right, as one of its functions of Government,
+    one of its functions of home rule, to set up, after a fair referendum to its voters has been had, its own governmentally
+    owned and operated service.
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: State owned or Federal owned power sites can and should and must properly be developed by Government itself.
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: Each one of these, in each of the four quarters of the United States, will be forever a national yardstick
+    to prevent extortion against the public and to encourage the wider use of that servant of the people -- electric
+    power.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

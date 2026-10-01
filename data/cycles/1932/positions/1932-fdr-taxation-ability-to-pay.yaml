@@ -1,0 +1,22 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: taxation-progressivity
+categories: [taxation, economy]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Raise revenue by graduated income, inheritance and profits taxes, not taxes on necessities
+solution: >
+  Taxation "on the principle of ability to pay": graduated income, inheritance and profits taxes; oppose
+  taxes on food and clothing that fall on consumers per capita.
+rationale: >
+  Consumption taxes shift the burden to consumers of necessities regardless of income; in the 1920s the
+  Republicans repealed taxes on abnormal profits and incomes so the war debt was not reduced.
+statements:
+  - date: 1932-07-30
+    venue: Radio address from Albany on the Democratic platform
+    phase: general
+    doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+    quote: "This is a declaration in favor of graduated income, inheritance and profits taxes, and against taxes on food and clothing, whose burden is actually shifted to the consumers of these necessities of life on a per capita basis rather than on the basis of the relative size of personal incomes."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

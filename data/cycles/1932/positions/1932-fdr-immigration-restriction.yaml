@@ -1,0 +1,20 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: immigration-restriction
+categories: [immigration, labor]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by: [great-depression]
+title: Continue immigration restriction to protect labor, but end abuses against individual families in enforcement
+solution: Endorse Hoover's effective restriction of immigration; curb enforcement abuses against families.
+rationale: Protects American labor during mass unemployment; enforcement has revealed "too many abuses against individual families."
+statements:
+  - date: 1932-10-31
+    venue: Campaign address on unemployment, Boston Arena
+    phase: general
+    audience: Boston industrial-city audience
+    doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+    quote: "He says proudly that he has effectively restricted immigration in order to protect American labor. I favor that; but I might add that in the enforcement of the immigration laws too many abuses against individual families have been revealed time and time again."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

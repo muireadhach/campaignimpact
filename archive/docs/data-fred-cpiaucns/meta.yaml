@@ -1,0 +1,13 @@
+id: data-fred-cpiaucns
+source: fred
+kind: dataset
+title: FRED series CPIAUCNS
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS
+citation: Federal Reserve Bank of St. Louis, FRED series CPIAUCNS, https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:37:41+00:00'
+sha256: f79e3a78837142293449cee4a1a9b1da7be677fb3e989ffb2ef48e8e7cf4cdd7
+notes: null
+extra: {}

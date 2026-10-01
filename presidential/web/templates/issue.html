@@ -1,0 +1,6 @@
+{% extends "base.html" %}{% block title %}{{i.name}}{% endblock %}{% block body %}
+<p class="small"><a href="/issues">Issues</a> › {{i.category_name}}</p><h1>{{i.name}}</h1>
+{% if i.aliases %}<p class="small muted">Also known as: {% for a in i.aliases|fromjson %}{{a.name}} ({{a.era}}){% if not loop.last %}; {% endif %}{% endfor %}</p>{% endif %}
+<table><tr><th>Cycle</th><th>Candidate</th><th>Position</th><th>Solution</th><th>Strength</th><th>Attribution</th><th>Verdict</th></tr>
+{% for x in rows %}<tr><td>{{x.cycle}}</td><td class="small">{{x.candidate_name}} ({{x.party}})</td><td><a href="/position/{{x.id}}">{{x.title}}</a></td><td class="small">{{x.solution[:220]}}{% if x.solution|length>220 %}…{% endif %}</td><td><span class="tag {{x.commitment_strength}}">{{x.commitment_strength}}</span></td><td><span class="tag {{x.attribution}}">{{x.attribution}}</span></td><td>{% if x.verdict %}<span class="tag {{x.verdict}}">{{x.verdict}}</span>{% if x.contested %}<span class="tag contested">?</span>{% endif %}{% endif %}</td></tr>{% endfor %}</table>
+{% endblock %}

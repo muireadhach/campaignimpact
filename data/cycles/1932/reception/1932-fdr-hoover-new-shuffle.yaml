@@ -1,0 +1,17 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-reciprocal-tariff
+source_type: opposition
+source_name: Herbert Hoover, Indianapolis
+date: '1932-10-28'
+perceived: Roosevelt's Baltimore statement that he would not cut farm tariffs is a startling last-minute reversal
+  that rewrites the Democratic platform.
+fidelity: distorted
+salience: high
+doc: app-address-indianapolis-indiana
+quote: He now announces within 2 weeks of the election that he does not propose to reduce tariffs on farm products.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

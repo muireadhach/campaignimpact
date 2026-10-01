@@ -1,0 +1,84 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: federal-budget-balance
+categories:
+- budget
+- economy
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Balance the federal budget annually within revenues
+solution: 'Maintain the national credit by a federal budget balanced every year on accurate executive estimates,
+  with revenues raised on the ability-to-pay principle; stop borrowing to cover deficits. Relief and protection
+  of savings to be paid for by "saving in one place what we would spend in others, or by acquiring the necessary
+  revenue through taxation."
+
+  '
+rationale: 'Republican deficits ($5 billion by end of FY1932) and "the type of inflation" used to fund them have
+  weakened confidence in government credit at home and abroad; "a continuation of that habit means the poorhouse."
+
+  '
+notes: 'The candidate''s own framing on July 30 already contains the escape hatch later used in Pittsburgh: a government
+  "like any family, can for a year spend a little more than it earns."
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We favor maintenance of the national credit by a federal budget annually balanced on the basis of accurate
+    executive estimates within revenues, raised by a system of taxation levied on the principle of ability to pay.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-07-30
+  venue: Radio address from Albany on the Democratic platform
+  phase: general
+  doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+  quote: Revenues must cover expenditures by one means or another. Any Government, like any family, can for a year
+    spend a little more than it earns. But you and I know that a continuation of that habit means the poorhouse.
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: Would it not be infinitely better to clear this whole subject of obscurity, to present the facts squarely
+    to the Congress and the people of the United States, and to secure the one sound foundation of permanent economic
+    recovery -- a complete and honest balancing of the Federal budget?
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: Second, I hope that it will not be necessary to increase the present scale of taxes
+- date: '1932-10-19'
+  venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+  phase: general
+  doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+  quote: If starvation and dire need on the part of any of our citizens make necessary the appropriation of additional
+    funds which would keep the budget out of balance, I shall not hesitate to tell the American people the full
+    truth and ask them to authorize the expenditure of that additional amount.
+  note: The explicit escape clause.
+- date: '1932-10-21'
+  venue: Campaign address on the eight credit groups, St. Louis
+  phase: general
+  doc: app-campaign-address-the-eight-great-credit-groups-the-nation-st-louis-missouri
+  quote: It is my pledge and promise that this dangerous kind of financing shall be stopped and that rigid governmental
+    economy shall be enforced by a stern and unremitting Administration policy of living within our income.
+- date: '1932-10-25'
+  venue: Campaign address, Baltimore (Fifth Regiment Armory)
+  phase: general
+  doc: app-campaign-address-baltimore-maryland
+  quote: I propose that the Treasury, in issuing statements as to the condition of our finances, shall substitute
+    efficiency for inefficiency, and candor for deception.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

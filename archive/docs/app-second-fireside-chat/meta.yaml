@@ -1,0 +1,13 @@
+id: app-second-fireside-chat
+source: app
+kind: radio_address
+title: Second Fireside Chat
+date: '1933-05-07'
+author: Franklin D. Roosevelt
+url: https://www.presidency.ucsb.edu/documents/second-fireside-chat
+citation: Franklin D. Roosevelt, "Second Fireside Chat," 1933-05-07. The American
+  Presidency Project, https://www.presidency.ucsb.edu/documents/second-fireside-chat
+fetched_at: '2026-09-13T07:32:42+00:00'
+sha256: 7dfef1828e0a2ee733c56e0148563d38c620311b54045ed6d0c5adb383154cd8
+notes: null
+extra: {}

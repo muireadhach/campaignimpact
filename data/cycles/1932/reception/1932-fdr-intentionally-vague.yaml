@@ -1,0 +1,17 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-new-deal-pledge
+source_type: historiography
+source_name: Wikipedia summary (citing fdr4freedoms, Maney)
+date: '1932-05-01'
+perceived: Roosevelt was intentionally vague on economics to hold both Midwestern progressives and Eastern conservatives.
+fidelity: accurate
+salience: high
+doc: wiki-al-smith-1932-presidential-campaign
+quote: Roosevelt had been intentionally vague about his economic stances, so as to earn the support of midwestern
+  progressivists without further alienating eastern progressivists (who favored a more conservative economic approach).
+evidence_quality: C
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

@@ -1,0 +1,28 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: price-level-reflation
+categories: [monetary, economy]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by: [great-depression]
+title: Restore commodity prices toward their former dollar value rather than write down all debts
+solution: >
+  Treat the change in the dollar's commodity value as a problem to be met "straightforwardly": either
+  restore commodity prices to roughly the level of several years earlier, or accept continued defaults
+  and write-downs of debts contracted at the higher level. Method not stated in May; became the "sound
+  money" versus reflation tension of the autumn and of 1933.
+rationale: >
+  Obligations assumed at a higher price level are being destroyed by deflation; some economists trace the
+  crisis to "defects in the world's monetary systems."
+notes: >
+  This is the earliest campaign statement pointing toward the 1933 gold and price-raising policy; it is
+  deliberately two-sided and should be read against the platform's "sound currency" plank.
+statements:
+  - date: 1932-05-22
+    venue: Oglethorpe University commencement, Atlanta
+    phase: primary
+    doc: app-address-oglethorpe-university-atlanta-georgia
+    quote: "It is self-evident that we must either restore commodities to a level approximating their dollar value of several years ago or else that we must continue the destructive process of reducing, through defaults or through deliberate writing down, obligations assumed at a higher price level."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

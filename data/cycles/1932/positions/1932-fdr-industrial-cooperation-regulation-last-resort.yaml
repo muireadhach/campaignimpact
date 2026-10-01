@@ -1,0 +1,63 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: economic-planning
+categories:
+- industry
+- economy
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Industry leaders to organize cooperatively for the common good; government regulates only as a last resort
+solution: 'Heads of finance and industry to "work together to achieve the common end," sacrificing private advantage
+  in "reciprocal self-denial"; government to restrain the "lone wolf" who drags an industry toward anarchy, and
+  to intervene if the group abuses its collective power; formal economic regulation "only as a last resort" after
+  responsible private initiative has failed.
+
+  '
+rationale: 'Enlightened industries already seek "a form of organization which will bring the scheme of things into
+  balance," limiting individual freedom of action in the common interest; prosperity must be uniform and purchasing
+  power distributed throughout every group.
+
+  '
+notes: The closest campaign statement to the industrial-code idea enacted as the NIRA in June 1933.
+statements:
+- date: 1932-09-23
+  venue: Commonwealth Club, San Francisco
+  phase: general
+  doc: app-campaign-address-progressive-government-the-commonwealth-club-san-francisco-california
+  quote: the responsible heads of finance and industry instead of acting each for himself, must work together to
+    achieve the common end. They must, where necessary, sacrifice this or that private advantage; and in reciprocal
+    self-denial must seek a general advantage.
+- date: 1932-09-23
+  venue: Commonwealth Club, San Francisco
+  phase: general
+  doc: app-campaign-address-progressive-government-the-commonwealth-club-san-francisco-california
+  quote: The Government should assume the function of economic regulation only as a last resort, to be tried only
+    when private initiative, inspired by high responsibility, with such assistance and balance as Government can
+    give, has finally failed.
+- date: '1932-10-06'
+  venue: Radio address to the Business and Professional Men's League
+  phase: general
+  doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+  quote: That such a balance ought to be maintained by cooperation within business itself goes without saying. It
+    is my hope that interference of Government to bring about such a stabilization can be kept at a minimum, limiting
+    itself perhaps to wise dissemination of information.
+- date: '1932-10-06'
+  venue: Radio address to the Business and Professional Men's League
+  phase: general
+  doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+  quote: we know that some measures of regularization and planning for balance among industries and for envisaging
+    production as a national activity must be devised.
+- date: '1932-10-06'
+  venue: Radio address to the Business and Professional Men's League
+  phase: general
+  doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+  quote: Business must think less of its own profit and more of the national function it performs. Each unit of
+    it must think of itself as a part of a greater whole; one piece in a large design.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

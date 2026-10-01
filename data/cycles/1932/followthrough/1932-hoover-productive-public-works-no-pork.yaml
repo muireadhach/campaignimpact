@@ -1,0 +1,18 @@
+position: 1932-hoover-productive-public-works-no-pork
+verdict: not_applicable
+contested: false
+summary: Hoover lost the election; the pledge could not be tested in office. Roosevelt's $3.3 billion PWA and the
+  WPA far exceeded the spending Hoover had called ruinous, though the PWA's project-by-project scrutiny under Ickes
+  reflected Hoover's 'productive works' criterion.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: NIRA Title II (PWA)
+  date: '1933-06-16'
+  doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

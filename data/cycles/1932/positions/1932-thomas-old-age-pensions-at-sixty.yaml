@@ -1,0 +1,35 @@
+cycle: 1932
+candidate: norman-thomas
+issue: old-age-insurance
+categories:
+- relief
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+title: Old-age pensions for men and women sixty and over
+solution: Old-age pensions beginning at sixty; health insurance; improved workmen's compensation and accident insurance.
+rationale: The aged 'should not be coldly discarded by a heartless community and left to their own resources to
+  beg or die.'
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-24'
+  venue: Milwaukee Leader report of the Socialist convention platform session (May 24)
+  phase: convention
+  attribution: party_platform
+  doc: loc-sn83045293-1932-05-24-ed1-p2
+  quote: the convention 0 K'd without discus sion the planks declaring for old age pensions for men and women GO
+    years old and older; for health insurance; improved systems of workmen's compensation and acci dent insurance
+    and for the aboli tion of child labor.
+  note: '''GO'' is OCR for ''60''.'
+- date: '1932-05-22'
+  venue: Morris Hillquit NBC radio address for the Socialist ticket, reported in the Milwaukee Leader
+  phase: convention
+  attribution: surrogate
+  doc: loc-sn83045293-1932-05-23-ed1-p2
+  quote: We demand an adequate retire ment pension for aged and disabled workers.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

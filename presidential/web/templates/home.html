@@ -1,0 +1,9 @@
+{% extends "base.html" %}{% block body %}
+<h1>Presidential campaign promise tracker</h1>
+<p><span class="stat"><b>{{stats.positions}}</b>positions</span><span class="stat"><b>{{stats.statements}}</b>statements</span><span class="stat"><b>{{stats.followthrough}}</b>follow-through</span><span class="stat"><b>{{stats.reception}}</b>reception</span><span class="stat"><b>{{stats.documents}}</b>archived documents</span>
+<span class="stat"><b>{{stats.unreviewed}}</b><a href="/positions?review=unreviewed">unreviewed</a></span>{% if stats.unverified %}<span class="stat unverified"><b>{{stats.unverified}}</b>unverified quotes</span>{% endif %}</p>
+<h2>Cycles</h2>
+<table><tr><th>Year</th><th>Election</th><th>Winner</th><th>Candidates</th><th>Positions</th><th>Summary</th></tr>
+{% for c in cycles %}<tr><td><a href="/cycle/{{c.year}}"><b>{{c.year}}</b></a></td><td>{{c.election_date}}</td><td>{{c.winner_name or '—'}}</td><td>{{c.n_candidates}}</td><td>{{c.n_positions}}</td><td class="small">{{c.summary}}</td></tr>{% endfor %}</table>
+{% if problems %}<h2>Build warnings</h2><ul class="small mono">{% for p in problems %}<li>[{{p.level}}] {{p.path}}: {{p.msg}}</li>{% endfor %}</ul>{% endif %}
+{% endblock %}

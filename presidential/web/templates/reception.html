@@ -1,0 +1,10 @@
+{% extends "base.html" %}{% block title %}Reception{% endblock %}{% block body %}
+<h1>Reception <span class="muted">({{rows|length}})</span></h1>
+<p class="small muted">What the press and public understood candidates to stand for — versus what they said.</p>
+<form class="filters"><select name="cycle"><option value="">cycle</option>{% for c in cycles %}<option value="{{c.year}}" {% if cycle==c.year %}selected{% endif %}>{{c.year}}</option>{% endfor %}</select>
+<select name="candidate"><option value="">candidate</option>{% for p in people %}<option value="{{p.id}}" {% if candidate==p.id %}selected{% endif %}>{{p.name}}</option>{% endfor %}</select>
+<select name="source_type"><option value="">source type</option>{% for k in enums.reception_source_type %}<option {% if request.query_params.get('source_type')==k %}selected{% endif %}>{{k}}</option>{% endfor %}</select>
+<select name="fidelity"><option value="">fidelity</option>{% for k in enums.reception_fidelity %}<option {% if fidelity==k %}selected{% endif %}>{{k}}</option>{% endfor %}</select><button>Filter</button> <a href="/reception">clear</a></form>
+{% for r in rows %}<div class="card"><div class="small"><b>{{r.candidate_name}}</b> {{r.cycle}} · <span class="tag">{{r.source_type}}</span><span class="tag {{r.fidelity}}">{{r.fidelity}}</span><span class="tag">salience {{r.salience}}</span><span class="tag {{r.evidence_quality}}">ev {{r.evidence_quality}}</span> {{r.source_name or ''}} <span class="muted">{{r.date}}</span>{% if r.position %} · re: <a href="/position/{{r.position}}">{{r.position_title}}</a>{% endif %}</div>
+<p>{{r.perceived}}</p>{% if r.quote %}<blockquote>{{r.quote}}</blockquote>{% endif %}{% if r.note %}<p class="small">{{r.note}}</p>{% endif %}<div class="small">Source: <a href="/document/{{r.doc}}?hl={{(r.quote or '')[:60]|urlencode}}">{{r.doc_title}}</a></div></div>{% endfor %}
+{% endblock %}

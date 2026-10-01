@@ -1,0 +1,5 @@
+.venv/
+build/
+__pycache__/
+*.pyc
+archive/docs/*/raw.html

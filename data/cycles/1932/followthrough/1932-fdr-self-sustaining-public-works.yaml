@@ -1,0 +1,30 @@
+position: 1932-fdr-self-sustaining-public-works
+verdict: kept
+contested: false
+summary: NIRA Title II created the Public Works Administration with $3.3 billion; the CWA and WPA followed. The
+  'self-sustaining' and bond-financed qualifiers were largely dropped — works were financed from general borrowing
+  — and a National Planning Board (1933) institutionalized advance planning.
+mechanisms:
+- type: statute
+  name: NIRA Title II — Public Works Administration
+  date: '1933-06-16'
+  doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+  quote: A careful survey convinces me that approximately $3,300,000,000 can be invested in useful and necessary
+    public construction, and at the same time put the largest possible number of people to work.
+  consistent: 'yes'
+- type: statute
+  name: Emergency Relief Appropriation Act (WPA)
+  date: '1935-04-08'
+  doc: app-statement-signing-the-work-relief-bill
+  effect: $4.88 billion for work relief.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: PWA and WPA transformed the country's infrastructure though the PWA spent slowly.
+  quote: Together with the PWA, the WPA transformed the face of the land--from La Guardia Airport and the Triborough
+    Bridge in New York to the Orange Bowl in Miami to the Oregon Coastal Highway.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

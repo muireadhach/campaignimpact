@@ -1,0 +1,38 @@
+position: 1932-fdr-restore-farm-purchasing-power
+verdict: kept
+contested: false
+summary: The Agricultural Adjustment Act (May 12, 1933) paid farmers to cut production, financed by a processing
+  tax; farm income rose more than fifty percent 1932–35. The mechanism — acreage reduction — was the one Roosevelt
+  had attacked Hoover for contemplating in 1925, and benefits flowed mainly to landowners.
+mechanisms:
+- type: message
+  name: Message to Congress on the Agricultural Adjustment Act
+  date: '1933-03-16'
+  doc: app-message-congress-the-agricultural-adjustment-act
+  quote: I tell you frankly that it is a new and untrod path, but I tell you with equal frankness that an unprecedented
+    condition calls for the trial of new means to rescue agriculture.
+  effect: Asked for emergency farm legislation before spring planting.
+  consistent: 'yes'
+- type: statute
+  name: Agricultural Adjustment Act
+  date: '1933-05-12'
+  doc: app-statement-signing-the-farm-relief-bill
+  effect: Domestic allotment with benefit payments for reduced acreage; processing tax; Thomas inflation amendment.
+  consistent: 'yes'
+- type: statute
+  name: Soil Conservation and Domestic Allotment Act (after Butler struck the AAA)
+  date: '1936-03-01'
+  doc: app-statement-signing-the-soil-conservation-and-domestic-allotment-act
+  effect: Re-based payments on soil conservation after the Supreme Court voided the processing tax.
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: Farm income rose more than half in three years, though large owners captured the gains and crop destruction
+    drew ridicule.
+  quote: More than three million farmers joined the AAA program in its first year, and farm income did increase
+    by more than fifty percent between 1932 and 1935.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

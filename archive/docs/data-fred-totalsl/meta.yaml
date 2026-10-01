@@ -1,0 +1,13 @@
+id: data-fred-totalsl
+source: fred
+kind: dataset
+title: FRED series TOTALSL
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=TOTALSL
+citation: Federal Reserve Bank of St. Louis, FRED series TOTALSL, https://fred.stlouisfed.org/graph/fredgraph.csv?id=TOTALSL
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:37:43+00:00'
+sha256: e625da30d03cb00490c39fbb8141906c95e20d814eef51a47a211519cb376d05
+notes: null
+extra: {}

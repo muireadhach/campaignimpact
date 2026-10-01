@@ -1,0 +1,77 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: utility-regulation
+categories:
+- energy
+- industry
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: 'Eight-point federal utility program: publicity, Federal Power Commission control of holding companies, prudent-investment
+  rate base'
+solution: 'Public servants at every state capitol and in the national government to "restore the fundamentals of
+  public control": rates based on wisely and necessarily invested cash, adequate service, and the credible threat
+  of public operation if private capital will not serve at a fair return.
+
+  '
+rationale: 'Mergers and holding companies expanded capital structures far beyond real investment; companies obtained
+  rates yielding a "fair return" on that inflation; the public "have made ourselves the victims."
+
+  '
+statements:
+- date: 1932-04-18
+  venue: Jefferson Day dinner, St. Paul, Minnesota
+  phase: primary
+  doc: app-address-jefferson-day-dinner-st-paul-minnesota
+  quote: It is neither radical, nor a violation of any principle of sound business, for me to state in definite
+    terms that public servants with a proper regard for the interests of the people themselves must exert every
+    effort to restore the fundamentals of public control.
+- date: '1932-06-27'
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: (b) Rates of utilities companies operating across State lines;
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: 'First: Full publicity as to all capital issues of stocks, bonds and other securities; liabilities and
+    indebtedness; capital investment; and frequent information as to gross and net earnings.'
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: 'Fourth: Regulation and control of holding companies by Federal Power Commission, and the same publicity
+    with regard to such holding companies as provided for the operating companies.'
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: 'Sixth: Regulation and control of the issue of stocks and bonds and other securities on the principle of
+    prudent investment only.'
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: 'Seventh: This is a technical matter, but it goes to the root of the subject. Abolishing by law the so-called
+    reproduction cost theory for rate-making, and establishing in place of it the actual money prudent-investment
+    principle as the basis for rate-making.'
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: 'Eighth: Legislation making it a crime to publish or circulate false or deceptive matter relating to public
+    utilities, or public utility commissions anywhere, and at any time.'
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: The regulating commission, my friends, must be a Tribune of the people, putting its engineering, its accounting
+    and its legal resources into the breach for the purpose of getting the facts and doing justice to both the consumers
+    and investors in public utilities.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

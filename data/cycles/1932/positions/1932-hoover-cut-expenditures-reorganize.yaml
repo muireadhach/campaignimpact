@@ -1,0 +1,72 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: federal-spending-level
+categories:
+- budget
+- executive_power
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Cut federal spending $1.5 billion below fiscal 1932 and reorganize the executive branch
+solution: Reduce expenditure by a further $1,500 million from fiscal 1932 totals if the House cooperates; use the
+  reorganization authority Congress finally granted (effective only after the next Congress approves) to abolish
+  obsolete bureaus and commissions; continue vetoing 'raids upon the Public Treasury.'
+rationale: Ordinary expenses excluding depression relief are already $200–300 million below 1927–29; the Democratic
+  House added $3.5 billion in spending bills; reorganization has been urged for seven years.
+statements:
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: If we are supported by the American people, and if the Democratic House will cooperate, I will make for
+    the next fiscal year a reduction from the totals of 1932, not a reduction of a billion but of $1,500 million.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I have repeatedly for 7 years urged the Congress either themselves to abolish obsolete bureaus and commissions
+    and to reorganize the whole Government structure in the interest of economy, or to give someone the authority
+    to do it. I have succeeded partially in securing that authority, but I regret that no great act under it can
+    be effective until after the approval of the next Congress.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I shall repeat these proposals for economy. The opposition leadership in the House of Representatives in
+    the last 4 months secured the passage by that House of $3 billion in raids upon the Public Treasury. They have
+    been stopped, and I shall continue to oppose such raids.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We urge prompt and drastic reduction of public expenditure and resistance to every appropriation not demonstrably
+    necessary to the performance of government, national or local.
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: Efficiency and economy demand reorganization of government bureaus. The problem is nonpartisan and must
+    be so treated if it is to be solved.
+  attribution: party_platform
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: No nation can conscript its citizens for this proportion of men's and women's time without national impoverishment
+    and without the destruction of their liberties.
+  note: '''Today he works, theoretically, for the support of all forms of Government 61 days out of the year.'''
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: My only comment on this occasion is that if I receive a mandate from the American people in this election,
+    I shall be able not only to force upon this Democratic House real economies, but I shall be able to stop further
+    raids by the Democratic Party on the Treasury of the United States.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

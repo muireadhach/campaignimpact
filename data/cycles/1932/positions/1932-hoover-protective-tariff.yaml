@@ -1,0 +1,90 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: tariff-level
+categories:
+- trade
+- agriculture
+- labor
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Maintain — and if necessary widen — the protective tariff; reject the Democratic 'competitive tariff for
+  revenue'
+solution: Keep the Hawley-Smoot schedules with adjustment through the bipartisan Tariff Commission; raise farm tariffs
+  further if needed; refuse reciprocal bargains that would open the home market to foreign farm products in exchange
+  for industrial concessions.
+rationale: Ninety percent of the farmer's market is at home and depreciated foreign currencies make dumping imminent;
+  foreign wages buy one-eighth to one-third the 'bread and butter' of American wages; the 1930 act raised duties
+  on only 'one-fourth of one-third of one-eighth of the world's imports' and cannot have caused the world slump.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: 'First: I am squarely for a protective tariff. I am against the proposal of "a competitive tariff for revenue"
+    as advocated by our opponents. That would place our farmers and our workers in competition with peasant and
+    sweated-labor products from abroad.'
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: The Republican Party originated and proposes to maintain the protective tariff on agricultural products.
+    We will even widen that tariff further if it is necessary to protect agriculture. Ninety percent of the farmer's
+    market is at home, and we propose to reserve that market to him.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: The bargain these countries wish to make is to lower our tariff on agricultural products in exchange for
+    lowering their tariffs on our industrial goods. American industrial leaders, realizing the needs of the American
+    farmer, do not want to be a part of such bargains.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: There is no measure in the whole economic gamut more vital to the American workman and the farmer today
+    than the maintenance of the protective tariff. I stand on that principle.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The Tariff Commission should promptly investigate individual commodities so affected by currency depreciation
+    and report to the President any increase in duties found necessary to equalize domestic with foreign costs of
+    production.
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We favor the extension of the general Republican principle of tariff protection to our natural resource
+    industries, including the products of our farms, forests, mines and oil wells, with compensatory duties on the
+    manufactured and refined products thereof.
+  attribution: party_platform
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: The grass will grow in streets of a hundred cities, a thousand towns; the weeds will overrun the fields
+    of millions of farms if that protection be taken away. Their churches, their hospitals, and their schoolhouses
+    will decay.
+- date: '1932-11-05'
+  venue: Campaign address, St. Paul, Minnesota
+  phase: general
+  doc: app-address-st-paul-minnesota-0
+  quote: Beyond the possibilities of adjustment by the Tariff Commission, we will widen the protective tariff by
+    legislation if necessary to protect agriculture. Our oils and fats are suffering, entirely unnecessarily, from
+    foreign imports of these commodities. The American market should be and must be reserved for the American farmer
+    at all times--whether emergency times or normal times.
+- date: '1932-11-07'
+  venue: Campaign address, Salt Lake City, Utah
+  phase: general
+  doc: app-address-salt-lake-city-utah
+  quote: Our first and immediate duty now is to repair these breaches in order that agriculture may resume a march
+    forward parallel with industry within the next 30 days. That we shall do, either through the flexible tariff
+    provision or, if necessary, through legislation. We propose to preserve the American market for the American
+    farmer.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

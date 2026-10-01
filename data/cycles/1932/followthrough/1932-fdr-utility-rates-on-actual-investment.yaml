@@ -1,0 +1,37 @@
+position: 1932-fdr-utility-rates-on-actual-investment
+verdict: partial
+contested: false
+summary: The Public Utility Holding Company Act (August 1935) put holding companies under the SEC with a 'death
+  sentence' for pyramids beyond two tiers, and the Federal Power Act gave the FPC jurisdiction over interstate wholesale
+  rates and required publicity of securities, contracts and interchanges. The prudent-investment rate base was not
+  legislated, the bill was weakened in Congress, and the 'crime to publish false utility matter' point was never
+  enacted.
+mechanisms:
+- type: message
+  name: Message recommending regulation of public utility holding companies
+  date: '1935-03-12'
+  doc: app-message-congress-recommending-regulation-public-utility-holding-companies
+  effect: Proposed abolition of holding companies not serving an integrated system.
+  consistent: 'yes'
+- type: statute
+  name: Public Utility Holding Company Act and Federal Power Act (Title II)
+  date: '1935-08-26'
+  doc: app-message-congress-recommending-regulation-public-utility-holding-companies
+  effect: SEC control of holding companies; FPC over interstate transmission and wholesale rates.
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: The holding-company bill was weakened on Capitol Hill.
+  quote: Likewise, FDR's attempt to break up large public utilities holding companies with the Public Utilities
+    Holding Company Act ignited a political firestorm on Capitol Hill that resulted in a weakened bill--and one
+    that eventually benefited the utilities.
+obstruction:
+  reasons:
+  - congress
+  explanation: The utility lobby forced compromise on the 'death sentence' in 1935.
+  doc: mc-fdr-domestic-affairs
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

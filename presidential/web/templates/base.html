@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% block title %}Presidential{% endblock %}</title>
+<style>
+:root{--bg:#fbfaf7;--fg:#1c1b19;--muted:#6b6862;--line:#e3dfd6;--accent:#8a3b12;--soft:#f1ede4;--ok:#2f6b3a;--bad:#a12f2f;--warn:#9a6a0a;--mark:#fff1a8}
+@media(prefers-color-scheme:dark){:root{--bg:#171614;--fg:#ecе8e0;--fg:#ece8e0;--muted:#a19c93;--line:#33302b;--accent:#e08a5a;--soft:#232019;--ok:#7fc48b;--bad:#e07c7c;--warn:#e0b45a;--mark:#5a4a12}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 Georgia,'Times New Roman',serif}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+header{border-bottom:1px solid var(--line);padding:.6rem 1.2rem;display:flex;gap:1.2rem;align-items:baseline;flex-wrap:wrap;font-family:system-ui,sans-serif;font-size:14px}
+header .brand{font-weight:700;font-size:16px;color:var(--fg)}
+main{max-width:1100px;margin:0 auto;padding:1.2rem}
+h1{font-size:1.6rem;margin:.2rem 0 .6rem}h2{font-size:1.15rem;margin:1.6rem 0 .5rem;border-bottom:1px solid var(--line);padding-bottom:.2rem}h3{font-size:1rem;margin:1rem 0 .3rem}
+.muted{color:var(--muted)}.small{font-size:13px}.mono{font-family:ui-monospace,Menlo,monospace;font-size:12.5px}
+table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;vertical-align:top;padding:.35rem .5rem;border-bottom:1px solid var(--line)}th{font-family:system-ui,sans-serif;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.tag{display:inline-block;font:12px system-ui,sans-serif;padding:.05rem .45rem;border:1px solid var(--line);border-radius:3px;background:var(--soft);margin-right:.25rem;white-space:nowrap}
+.tag.kept,.tag.A{border-color:var(--ok);color:var(--ok)}.tag.broken,.tag.reversed,.tag.abandoned,.tag.D{border-color:var(--bad);color:var(--bad)}
+.tag.partial,.tag.blocked,.tag.superseded,.tag.contested,.tag.B,.tag.C{border-color:var(--warn);color:var(--warn)}
+.tag.specific_pledge{font-weight:700}.tag.imputed_uncorrected,.tag.opponent_characterization{border-style:dashed}
+blockquote{margin:.4rem 0 .4rem 0;padding:.4rem .9rem;border-left:3px solid var(--accent);background:var(--soft)}
+.card{border:1px solid var(--line);border-radius:6px;padding:.8rem 1rem;margin:.6rem 0;background:var(--bg)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}@media(max-width:800px){.grid{grid-template-columns:1fr}}
+form.filters{display:flex;flex-wrap:wrap;gap:.5rem;font-family:system-ui,sans-serif;font-size:13px;margin-bottom:1rem}
+form.filters select,form.filters input{font:inherit;padding:.2rem .3rem;background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:3px}
+.doc p{margin:0 0 .8rem}.doc mark,mark{background:var(--mark);color:inherit}.stat{display:inline-block;margin-right:1.4rem}.stat b{font-size:1.4rem;display:block}
+.prov{font-family:system-ui,sans-serif;font-size:12px;color:var(--muted)}
+.unverified{color:var(--bad);font-weight:700}
+</style></head><body>
+<header><a class="brand" href="/">Presidential</a><a href="/positions">Positions</a><a href="/issues">Issues</a><a href="/reception">Reception</a><a href="/timeline">Timeline</a><a href="/documents">Documents</a>
+<form action="/positions" style="margin-left:auto"><input name="text" placeholder="search positions…" value="{{ request.query_params.get('text','') }}"></form></header>
+<main>{% block body %}{% endblock %}</main></body></html>

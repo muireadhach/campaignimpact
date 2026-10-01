@@ -1,0 +1,25 @@
+id: unemployment-rate-1929-42
+name: Unemployment rate (NBER series, 1929–1942)
+unit: percent
+category: labor
+source_name: FRED (St. Louis Fed)
+doc: data-fred-m0892ausm156snbr
+series: M0892AUSM156SNBR
+method: annual mean of published observations
+notes: NBER Macrohistory series M0892; monthly, averaged to annual. Use with unemployment-rate
+  (BLS, 1948–).
+values:
+  1929: 1.38
+  1930: 5.9042
+  1931: 14.1975
+  1932: 22.7225
+  1933: 23.385
+  1934: 19.0633
+  1935: 17.5808
+  1936: 14.2383
+  1937: 12.1625
+  1938: 18.4192
+  1939: 16.3467
+  1940: 14.0242
+  1941: 6.0017
+  1942: 2.3817

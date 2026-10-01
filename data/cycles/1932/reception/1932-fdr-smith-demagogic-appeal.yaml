@@ -1,0 +1,19 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+position: 1932-fdr-economic-planning
+source_type: opposition
+source_name: Alfred E. Smith, Jefferson Day dinner (Evening Star report)
+date: '1932-04-13'
+perceived: The 'forgotten man' broadcast was a demagogic appeal setting class against class.
+fidelity: distorted
+salience: high
+doc: loc-sn83045462-1932-04-14-ed1-p1
+quote: His threat was interpreted as di rectly intended for Gov. Franklin D. Roosevelt of New York, who in a re
+  cent radio address, charged that the l "little fellow," the common citizen, has been forgotten.
+note: Intra-party opposition; the April 7 speech proposed farm purchasing power, mortgage relief and tariff reciprocity,
+  not class redistribution.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

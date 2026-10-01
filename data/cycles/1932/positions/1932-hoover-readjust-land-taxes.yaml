@@ -1,0 +1,45 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: local-tax-burden
+categories:
+- taxation
+- agriculture
+- federalism
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: A national review of federal-state-local taxation to relieve farms and homes of property taxes
+solution: Convene the nation's tax experts after the election and recommend to Congress a readjustment of the tax
+  fields among federal, state and local governments so states can find other revenue and lift the burden on real
+  property.
+rationale: The land tax is 'the most inflexible tax' and now 'almost unbearable'; 'there is no farm relief more
+  needed today than readjustment of land taxes.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: The most practicable relief to the farmer today aside from general economic recovery is a definite program
+    of readjustment and coordination of national, State, and local taxation which will relieve real property, especially
+    the farms, from the unfair burdens of taxation which the current readjustment in values have brought about.
+    To that purpose I propose to devote myself.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: I announced last April that I would call tax experts of the Nation together to determine the methods we
+    should pursue. I shall do so as soon as the national election is out of the way, and I shall then recommend
+    methods to Congress.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The time has come for a reconsideration of our tax systems, Federal State and local, with a view to developing
+    a better coordination, reducing duplication and relieving unjust burdens. The Republican Party pledges itself
+    to this end.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

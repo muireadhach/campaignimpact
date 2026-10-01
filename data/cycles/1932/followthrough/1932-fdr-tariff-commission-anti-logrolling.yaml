@@ -1,0 +1,24 @@
+position: 1932-fdr-tariff-commission-anti-logrolling
+verdict: superseded
+contested: false
+summary: The 1934 Reciprocal Trade Agreements Act moved rate-making to executive negotiation, bypassing both congressional
+  log-rolling and the Tariff Commission's fact-finding role; the public-counsel idea was not enacted. The flexible
+  provision Hoover defended was left in place.
+mechanisms:
+- type: statute
+  name: Reciprocal Trade Agreements Act
+  date: '1934-06-12'
+  doc: app-message-congress-requesting-authority-regarding-foreign-trade
+  quote: For this reason, any smaller degree of authority in the hands of the Executive would be ineffective. The
+    executive branches of virtually all other important trading countries already possess some such power.
+  consistent: partly
+assessments:
+- doc: mc-fdr-foreign-affairs
+  verdict: superseded
+  reasoning: Executive bargaining replaced commission-driven rate-making.
+  quote: In 1934, FDR won passage of the Reciprocal Trade Agreements Act, which allowed him to grant "most favored
+    nation" trade status to countries with which the United States worked out trade agreements.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

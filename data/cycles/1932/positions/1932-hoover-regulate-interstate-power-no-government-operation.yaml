@@ -1,0 +1,50 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: public-power
+categories:
+- energy
+- industry
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Federal regulation of interstate power; opposition to government operation of the power business
+solution: Enact federal regulation of interstate electric power (as repeatedly recommended) while continuing to
+  oppose federal operation of power plants (Muscle Shoals vetoed 1931).
+rationale: Regulation protects the public; government in the power business is 'State-controlled or State-directed'
+  economics — 'not liberalism; that is tyranny.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I have repeatedly recommended the Federal regulation of interstate power. I shall persist in that. I have
+    opposed the Federal Government undertaking the operation of the power business. I shall continue in that opposition.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We urge legislation to authorize this commission to regulate the charges for electric current when transmitted
+    across State lines.
+  attribution: party_platform
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: I have repeatedly recommended the Federal regulation of interstate power. I stated as early as 7 years
+    ago that "glass pockets are the safety of the industry as well as of the public." I secured the creation of
+    an independent Power Commission by Congress 2 years ago under the leadership of your Senator. I have opposed
+    and I will continue to oppose, the Federal Government going into the power business and the further extension
+    of Federal bureaucracy.
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: In these cases, power is often a byproduct and should be disposed of by contract or lease. But for the
+    Federal Government to deliberately go out to build up and expand such an occasion to the major purpose of a
+    power and manufacturing business is to break down the initiative and enterprise of the American people
+  note: Quoting his 1931 Muscle Shoals veto.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

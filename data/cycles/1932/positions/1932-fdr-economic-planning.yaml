@@ -1,0 +1,84 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: economic-planning
+categories:
+- industry
+- economy
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: National economic planning on the model of the 1917 war mobilization
+solution: 'Government-led planning of production and distribution, drawing on the War Industries Board precedent,
+  organized as a "concert of interests" among sections and economic groups rather than class control or a fully
+  regimented economy. Long-term, not only for the emergency. Methods deliberately unspecified: "bold, persistent
+  experimentation."
+
+  '
+rationale: 'The Depression is a failure of planning: haphazard investment, overbuilt industries, control by a small
+  financial group. The 1917 mobilization shows a whole nation can be organized from the bottom up. Waiting for the
+  cycle to correct itself is "an invitation to sit back and do nothing."
+
+  '
+statements:
+- date: 1932-04-07
+  venue: Radio address from Albany, NY ("Forgotten Man")
+  phase: primary
+  doc: app-radio-address-from-albany-new-york-the-forgotten-man-speech
+  quote: These unhappy times call for the building of plans that rest upon the forgotten, the unorganized but the
+    indispensable units of economic power for plans like those of 1917 that build from the bottom up and not from
+    the top down, that put their faith once more in the forgotten man at the bottom of the economic pyramid.
+- date: 1932-04-18
+  venue: Jefferson Day dinner, St. Paul, Minnesota
+  phase: primary
+  doc: app-address-jefferson-day-dinner-st-paul-minnesota
+  quote: I am not speaking of an economic life completely planned and regimented. I am speaking of the necessity,
+    however, in those imperative interferences with the economic life of the Nation that there be a real community
+    of interest ... I plead not for a class control but for a true concert of interests.
+- date: 1932-04-18
+  venue: Jefferson Day dinner, St. Paul, Minnesota
+  phase: primary
+  doc: app-address-jefferson-day-dinner-st-paul-minnesota
+  quote: In this sense I favor economic planning, not for this period alone but for our needs for a long time to
+    come.
+- date: 1932-05-22
+  venue: Oglethorpe University commencement, Atlanta
+  phase: primary
+  audience: graduating class; national press
+  doc: app-address-oglethorpe-university-atlanta-georgia
+  quote: 'The country needs and, unless I mistake its temper, the country demands bold, persistent experimentation.
+    It is common sense to take a method and try it: If it fails, admit it frankly and try another. But above all,
+    try something.'
+- date: 1932-05-22
+  venue: Oglethorpe University commencement, Atlanta
+  phase: primary
+  doc: app-address-oglethorpe-university-atlanta-georgia
+  quote: Of these other phases, that which seems most important to me in the long run is the problem of controlling
+    by adequate planning the creation and distribution of those products which our vast economic machine is capable
+    of yielding.
+- date: '1932-09-23'
+  venue: Commonwealth Club, San Francisco
+  phase: general
+  doc: app-campaign-address-progressive-government-the-commonwealth-club-san-francisco-california
+  quote: It is the soberer, less dramatic business of administering resources and plants already in hand, of seeking
+    to reestablish foreign markets for our surplus production, of meeting the problem of underconsumption, of adjusting
+    production to consumption, of distributing wealth and products more equitably, of adapting existing economic
+    organizations to the service of the people.
+- date: '1932-10-06'
+  venue: Radio address to the Business and Professional Men's League
+  phase: general
+  doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+  quote: Hence, I have described the entire compass of my policy as a "concert of interests" -- North and South,
+    East and West, agriculture, industry, mining, commerce and finance.
+- date: '1932-10-06'
+  venue: Radio address to the Business and Professional Men's League
+  phase: general
+  doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+  quote: This type of campaigning, which might be called a "pork-barrel" campaign, is not my notion of what the
+    country needs in a time like this.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

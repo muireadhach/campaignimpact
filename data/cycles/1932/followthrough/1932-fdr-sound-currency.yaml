@@ -1,0 +1,52 @@
+position: 1932-fdr-sound-currency
+verdict: reversed
+contested: true
+summary: The United States left the gold standard in April 1933, abrogated gold clauses in June, and devalued the
+  dollar to 59 percent of its former gold content in January 1934. Roosevelt maintained that a managed currency
+  of stable purchasing power was 'sound' money, and the silver plank was honored by the Silver Purchase Act (June
+  1934). Hoover's campaign charge that the Democrats would tamper with the currency proved accurate in outcome.
+mechanisms:
+- type: executive_order
+  name: Gold export embargo
+  date: '1933-04-19'
+  doc: app-excerpts-from-the-press-conference-146
+  effect: Ended the gold standard in practice.
+  consistent: 'no'
+- type: message
+  name: 'Second fireside chat: ''gold ... perfectly good bases for currency'''
+  date: '1933-05-07'
+  doc: app-second-fireside-chat
+  quote: Nevertheless, gold, and to a partial extent silver, are perfectly good bases for currency, and that is
+    why I decided not to let any of the gold now in the country go out of it.
+  effect: Reframed the policy as protecting the currency.
+  consistent: partly
+- type: statute
+  name: Gold Reserve Act (devaluation to $35)
+  date: '1934-01-30'
+  doc: mc-fdr-foreign-affairs
+  effect: Dollar devalued about 41 percent.
+  consistent: 'no'
+- type: message
+  name: Message on silver policy / Silver Purchase Act
+  date: '1934-05-22'
+  doc: app-message-congress-silver-policy
+  effect: Silver monetized up to a quarter of the reserve — the platform's silver rehabilitation.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-foreign-affairs
+  verdict: reversed
+  reasoning: Devaluation and departure from gold contradict 'sound currency preserved at all hazards' as contemporaries
+    understood it.
+  quote: He scuttled the London Economic Conference in the summer of 1933 and devalued the dollar by removing the
+    United States from the international gold standard.
+- doc: app-second-fireside-chat
+  verdict: kept
+  reasoning: 'Roosevelt''s own definition: a currency whose purchasing power is restored to the level at which debts
+    were contracted is the sound one.'
+  quote: We do not seek to let them get such a cheap dollar that they will be able to pay back a great deal less
+    than they borrowed. In other words, we seek to correct a wrong and not to create another wrong in the opposite
+    direction.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

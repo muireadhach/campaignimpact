@@ -1,0 +1,27 @@
+position: 1932-fdr-consolidate-farm-credit-agencies
+verdict: kept
+contested: false
+summary: Executive Order 6084 (March 27, 1933) consolidated the Federal Farm Board, Farm Loan Board, intermediate
+  credit and agricultural credit functions into the Farm Credit Administration, ratified by the Farm Credit Act
+  of June 16, 1933.
+mechanisms:
+- type: message
+  name: Message on consolidation of federal farm credit agencies
+  date: '1933-03-27'
+  doc: app-message-congress-consolidation-federal-farm-credit-agencies
+  consistent: 'yes'
+- type: statute
+  name: Farm Credit Act of 1933
+  date: '1933-06-16'
+  doc: app-message-congress-consolidation-federal-farm-credit-agencies
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: The consolidated Farm Credit agency became a major lender.
+  quote: The Farm Credit Association, another offshoot of the RFC, lent more than a billion dollars to families
+    to save their farms from foreclosure.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

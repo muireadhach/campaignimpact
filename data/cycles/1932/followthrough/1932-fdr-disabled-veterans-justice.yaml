@@ -1,0 +1,36 @@
+position: 1932-fdr-disabled-veterans-justice
+verdict: partial
+contested: true
+summary: 'The Economy Act (March 20, 1933) repealed all veterans'' benefit laws and let the President re-set them
+  by executive order: non-service-connected benefits fell more than 40 percent, and even service-connected compensation
+  was cut, before Congress restored about $90 million over Roosevelt''s veto in March 1934. ''Full justice and generosity''
+  for the service-disabled was honored in principle and breached in the first year''s economies.'
+mechanisms:
+- type: statute
+  name: Economy Act of 1933, Section 17
+  date: '1933-03-20'
+  doc: wiki-economy-act-of-1933
+  quote: Its most important provisions, however, repealed all federal laws regarding veterans' benefits.
+  consistent: 'no'
+- type: statute
+  name: Independent Offices Appropriation Act (over veto)
+  date: '1934-03-28'
+  doc: wiki-economy-act-of-1933
+  quote: In March 1934, Congress overrode Roosevelt's veto and added another $90 million in veterans benefits and
+    $120 million to federal workers' salaries.
+  consistent: partly
+assessments:
+- doc: wiki-economy-act-of-1933
+  verdict: partial
+  reasoning: Cuts fell hardest on non-service-connected cases, but service-connected compensation was also reduced
+    and partly restored by Congress and the courts.
+  quote: Benefits for non-disabled veterans fell more than 40%, creating deep resentment among former soldiers and
+    officers and leading to the establishment of the Veterans of Foreign Wars as a major force in American politics.
+obstruction:
+  reasons:
+  - deliberate_abandonment
+  explanation: The administration chose veterans' cuts as the main instrument of the economy pledge.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

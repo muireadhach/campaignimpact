@@ -1,0 +1,19 @@
+position: 1932-hoover-reorganize-federal-land-banks
+verdict: not_applicable
+contested: false
+summary: Hoover lost the election; the pledge could not be tested in office. The Farm Credit Administration (March
+  1933) and the Emergency Farm Mortgage Act (May 1933) reorganized and recapitalized the Land Banks much as Hoover
+  had proposed for the next session.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Emergency Farm Mortgage Act; Farm Credit Administration
+  date: '1933-05-12'
+  doc: app-message-congress-consolidation-federal-farm-credit-agencies
+  note: Hoover's proposed reorganization, enlarged.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

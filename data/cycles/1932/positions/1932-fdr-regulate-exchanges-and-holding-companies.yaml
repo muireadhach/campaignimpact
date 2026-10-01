@@ -1,0 +1,65 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: securities-regulation
+categories:
+- banking
+- energy
+- industry
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Federal regulation of securities and commodity exchanges, interstate holding companies and interstate utility
+  rates
+solution: 'Regulate "to the full extent of federal power" holding companies that sell securities in interstate commerce,
+  the rates of utilities operating across state lines, and exchanges in securities and commodities.
+
+  '
+rationale: 'Interstate operations escape state regulation; the preamble blames "the indefensible expansion and contraction
+  of credit for private profit."
+
+  '
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: 'Regulation to the full extent of federal power, of:'
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: (a) Holding companies which sell securities in interstate commerce; (b) Rates of utilities companies operating
+    across State lines; (c) Exchanges in securities and commodities.
+- date: '1932-08-20'
+  venue: Campaign address, Columbus, Ohio
+  phase: general
+  doc: app-campaign-address-columbus-ohio
+  quote: It is logical, it is necessary and it is right that Federal power be applied to such regulation.
+  note: Holding companies selling securities in interstate commerce.
+- date: '1932-08-20'
+  venue: Campaign address, Columbus, Ohio
+  phase: general
+  doc: app-campaign-address-columbus-ohio
+  quote: For the very simple reason that the many exchanges in the business of buying and selling securities and
+    commodities can by the practical expedient of moving elsewhere avoid regulation by any given State, I propose
+    the use of Federal authority in the regulation of these exchanges.
+- date: '1932-09-21'
+  venue: Campaign address on public utilities, Portland, Oregon
+  phase: general
+  doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+  quote: 'Fourth: Regulation and control of holding companies by Federal Power Commission, and the same publicity
+    with regard to such holding companies as provided for the operating companies.'
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

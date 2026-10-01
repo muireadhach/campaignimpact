@@ -1,0 +1,55 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: mortgage-relief
+categories:
+- banking
+- infrastructure
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+- bank-panic-1930-33
+title: The Federal Home Loan Bank system to stop home foreclosures and finance new homes
+solution: Operate the new home loan discount banks (proposed November 1931, opening October 1932) to mobilize building-and-loan
+  and savings-bank resources so mortgages can be renewed on reasonable long-term payments and new home construction
+  financed.
+rationale: Thousands lost homes because expiring mortgages could not be renewed; 'we must build up men and women
+  in their own homes'; the Democratic House's delay cost 'hundreds of thousands of such tragedies.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: It was in accordance with these principles that we are now in process of establishing a new system of home
+    loan banks so that through added strength and through cooperation between the building and loan associations,
+    the savings banks and other institutes we may relax the pressures on forfeiture of homes and procure the release
+    of new resources for the construction of more homes and the employment of more men.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: Those banks will be opened and operating at the end of this month. The system is not as perfect as I could
+    wish, but it has already had one immensely beneficial effect, and there will be others. The anticipation of
+    its aid has largely stopped the foreclosing on homes, and with its operation it should give every man who wants
+    to make a fight to hold onto his home the opportunity to do so.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: In the field of national legislation we pledge that the measures creating a home loan discount system will
+    be pressed in Congress until adopted.
+  attribution: party_platform
+- date: '1932-10-07'
+  venue: Radio address to the women of America
+  phase: general
+  doc: app-radio-address-the-women-america
+  quote: The home loan banks not only serve an emergency but they are also continuous, permanent institutions which
+    will provide the machinery through which it will be more easy in the early years of their married life for men
+    and women through their combined effort to acquire homes in which to rear their children and to retain that
+    home for comfort and security in their old age.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

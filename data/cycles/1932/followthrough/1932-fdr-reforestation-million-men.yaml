@@ -1,0 +1,32 @@
+position: 1932-fdr-reforestation-million-men
+verdict: partial
+contested: false
+summary: The Civilian Conservation Corps (March 31, 1933) enrolled 250,000 young men by July 1933 and peaked near
+  500,000 in 1935; about three million served by 1942. The purpose — forestry, erosion, flood control — matched
+  the pledge, but the scale never reached a million at once and the bond-financed, self-liquidating timber enterprise
+  was replaced by a relief program funded from appropriations.
+mechanisms:
+- type: message
+  name: Message proposing the Civilian Conservation Corps
+  date: '1933-03-21'
+  doc: app-message-congress-unemployment-relief-0
+  quote: I propose to create a civilian conservation corps to be used in simple work, not interfering with normal
+    employment, and confining itself to forestry, the prevention of soil erosion, flood control and similar projects.
+  consistent: 'yes'
+- type: statute
+  name: Emergency Conservation Work Act
+  date: '1933-03-31'
+  doc: app-message-congress-unemployment-relief-0
+  quote: I estimate that 250,000 men can be given temporary employment by early summer if you give me authority
+    to proceed within the next two weeks.
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: The CCC put 300,000 to work in 1933 — substantial, but not the million pledged.
+  quote: The Civilian Conservation Corps (CCC) put 300,000 young men to work in 1,200 camps planting trees, building
+    bridges, and cleaning beaches.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

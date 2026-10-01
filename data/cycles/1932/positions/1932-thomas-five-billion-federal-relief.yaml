@@ -1,0 +1,46 @@
+cycle: 1932
+candidate: norman-thomas
+issue: federal-relief-role
+categories:
+- relief
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+triggered_by:
+- great-depression
+title: A $5 billion federal appropriation for immediate relief of those in need
+solution: Federal appropriation of $5,000,000,000 for immediate relief to supplement state and local appropriations.
+rationale: '''A country that is rich enough to provide $2,000,000,000 to help a few thousand bankers ... can surely
+  not be heard to plead poverty when it is asked to provide food and work for 8,000,000 jobless workers''; ''every
+  citizen willing to work has the right to live.'''
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-23'
+  venue: Milwaukee Leader report of the Socialist convention platform session (May 23)
+  phase: convention
+  attribution: party_platform
+  doc: loc-sn83045293-1932-05-23-ed1-p1
+  quote: A plank demanding a federal ap propriation of $5,000,000,000 for im mediate relief for those in need to
+    supplement state and local appro priations was passed today, as the Socialist national convention con tinued
+    its sessions for drafting a platform today.
+- date: '1932-05-22'
+  venue: Morris Hillquit NBC radio address for the Socialist ticket, reported in the Milwaukee Leader
+  phase: convention
+  attribution: surrogate
+  doc: loc-sn83045293-1932-05-23-ed1-p2
+  quote: 'We hold that every citizen will ing to work has the right to live: that in any enlightened community this
+    right must be guaranteed by the government'
+  note: Hillquit, national chairman, on the ticket's NBC broadcast.
+- date: '1932-05-24'
+  venue: Edward Levinson, convention report in The New Leader (May 28)
+  phase: convention
+  attribution: party_platform
+  doc: mx-levinson-spa-convention-1932
+  quote: The convention placed at the head of its national program federal appropriations of $5 billion for immediate
+    unemployment relieve, and of another $5 billion for public works construction
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

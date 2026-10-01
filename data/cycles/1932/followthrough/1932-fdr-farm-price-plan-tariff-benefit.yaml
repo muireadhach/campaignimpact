@@ -1,0 +1,47 @@
+position: 1932-fdr-farm-price-plan-tariff-benefit
+verdict: kept
+contested: true
+summary: 'The AAA (May 12, 1933) implemented the Topeka specifications in most respects: benefit payments on the
+  domestically consumed portion of staple crops, financed by a processing tax rather than the Treasury, voluntary
+  participation, administered through county committees, withdrawable in principle. It departed on the promise that
+  benefits ''will not stimulate further production'' (they were paid explicitly for acreage reduction, including
+  plowing under cotton and slaughtering pigs) and the processing tax was struck down in 1936.'
+mechanisms:
+- type: message
+  name: Message on the Agricultural Adjustment Act
+  date: '1933-03-16'
+  doc: app-message-congress-the-agricultural-adjustment-act
+  quote: It relates to agriculture and seeks to increase the purchasing power of our farmers and the consumption
+    of articles manufactured in our industrial communities, and at the same time greatly to relieve the pressure
+    of farm mortgages and to increase the asset value of farm loans made by our banking institutions.
+  consistent: 'yes'
+- type: statute
+  name: Agricultural Adjustment Act
+  date: '1933-05-12'
+  doc: app-statement-signing-the-farm-relief-bill
+  effect: Domestic allotment; processing tax; voluntary contracts.
+  consistent: 'yes'
+- type: statute
+  name: Soil Conservation and Domestic Allotment Act
+  date: '1936-03-01'
+  doc: app-statement-signing-the-soil-conservation-and-domestic-allotment-act
+  effect: Replacement after Butler; payments from the Treasury.
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: Cash incentives for production cuts raised farm income sharply.
+  quote: The AAA aimed to inflate farmers' incomes by offering cash incentives to farmers who agreed cut production.
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: The 1936 Butler decision ended the self-financing processing tax, after which the plan cost the Treasury.
+  quote: In 1936, the Court's Butler decision shut down the AAA because of its tax provisions.
+obstruction:
+  reasons:
+  - courts
+  explanation: United States v. Butler (January 1936) voided the processing tax.
+  doc: mc-fdr-domestic-affairs
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

@@ -1,0 +1,17 @@
+position: 1932-hoover-immigration-near-prohibition
+verdict: not_applicable
+contested: false
+summary: Hoover lost the election; the pledge could not be tested in office. The consular order of September 1930
+  remained in force under Roosevelt; immigration stayed at record lows through the decade.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: regulation
+  name: Continuation of the 1930 consular 'likely to become a public charge' instruction
+  date: '1933-03-04'
+  doc: wiki-immigration-to-the-united-states
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

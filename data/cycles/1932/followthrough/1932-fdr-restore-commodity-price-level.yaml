@@ -1,0 +1,38 @@
+position: 1932-fdr-restore-commodity-price-level
+verdict: kept
+contested: false
+summary: Roosevelt embargoed gold exports (April 19–20, 1933), accepted the Thomas inflation amendment, declared
+  on May 7 the 'definite objective of raising commodity prices' so debtors could repay 'in the same kind of dollar
+  which they borrowed,' bought gold at rising prices in late 1933, and fixed the dollar at $35 an ounce (Gold Reserve
+  Act, January 1934) — a 41 percent devaluation. Prices rose but did not regain the 1926 level until the war.
+mechanisms:
+- type: executive_order
+  name: Gold embargo and suspension of gold exports
+  date: '1933-04-19'
+  doc: app-excerpts-from-the-press-conference-146
+  effect: Announced at the April 19 press conference; formalized by Executive Order 6111.
+  consistent: 'yes'
+- type: message
+  name: 'Second fireside chat: price-raising objective'
+  date: '1933-05-07'
+  doc: app-second-fireside-chat
+  quote: The Administration has the definite objective of raising commodity prices to such an extent that those
+    who have borrowed money will, on the average, be able to repay that money in the same kind of dollar which they
+    borrowed.
+  consistent: 'yes'
+- type: statute
+  name: Thomas Amendment (Title III, Agricultural Adjustment Act)
+  date: '1933-05-12'
+  doc: app-statement-signing-the-farm-relief-bill
+  effect: Discretionary powers to devalue the dollar and expand credit.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-foreign-affairs
+  verdict: kept
+  reasoning: Devaluation was explicitly aimed at reflation.
+  quote: He scuttled the London Economic Conference in the summer of 1933 and devalued the dollar by removing the
+    United States from the international gold standard.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

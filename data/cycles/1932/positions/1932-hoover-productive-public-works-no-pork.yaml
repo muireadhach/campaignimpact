@@ -1,0 +1,52 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: public-works
+categories:
+- infrastructure
+- budget
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Federal construction at three times normal and $1.5 billion of RFC loans for self-liquidating works — but
+  no pork-barrel or non-productive projects
+solution: Maintain federal public works at $500–700 million a year and RFC loans up to $1,500 million for reproductive
+  projects that repay themselves; oppose the $1,200 million Garner-Rainey bill and any works that 'never make a
+  real return'; reject the idea that government can employ all surplus labor.
+rationale: Taking money from taxpayers for unproductive works 'is a waste of national wealth and an actual destruction
+  of employment'; employing ten million on public works would cost $9–12 billion a year and destroy public and private
+  credit; 'emergency jobs will never heal the depression.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: It was in accordance with these principles that, in aid to unemployment, we expend some $600 millions in
+    Federal construction of such public works as can be justified as bringing early and definite returns. We have
+    opposed the distortion of these needed works into pork-barrel nonproductive works which impoverish the Nation.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: Now, there has proved to be a limitation, however, on this, and that limitation is that the Federal Government
+    should not and must not undertake projects which are not of productive value to the Nation and must not extend
+    its liabilities beyond its ability to maintain a balanced budget.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: Emergency jobs have helped enormously, but the normal job is the permanent dependence of the worker. Emergency
+    jobs will never heal the depression.
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: There can only be one conclusion from that statement. It is a hope held out to 10 million men and women
+    now suffering and unemployed that they will be given jobs, directly or indirectly, by the Government. That is
+    a promise that no government on Earth can fulfill.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

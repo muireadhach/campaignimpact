@@ -1,0 +1,25 @@
+{% extends "base.html" %}{% block title %}{{x.title}}{% endblock %}{% block body %}
+<p class="small"><a href="/cycle/{{x.cycle}}">{{x.cycle}}</a> › <a href="/candidate/{{x.cycle}}/{{x.candidate}}">{{x.candidate_name}}</a> ({{x.party}}) › <a href="/issue/{{x.issue}}">{{x.issue_name}}</a></p>
+<h1>{{x.title}}</h1>
+<p><span class="tag">{{x.kind}}</span><span class="tag {{x.commitment_strength}}">{{x.commitment_strength}}</span><span class="tag {{x.attribution}}">{{x.attribution}}</span><span class="tag {{x.evidence_quality}}">evidence {{x.evidence_quality}}</span>
+{% for c in cats %}<span class="tag">{{c.name}}</span>{% endfor %}{% for e in events %}<span class="tag">⚡ {{e.name}}</span>{% endfor %}
+<a class="small" href="/similar/{{x.id}}">similar solutions</a> · <a class="small" href="/similar/{{x.id}}?field=rationale">similar reasoning</a></p>
+<div class="grid"><div class="card"><h3>Solution</h3><p>{{x.solution}}</p></div><div class="card"><h3>Rationale</h3><p>{{x.rationale or '—'}}</p></div></div>
+{% if x.notes %}<p class="small">{{x.notes}}</p>{% endif %}
+{% if chain %}<p class="small">Position chain: {% for c in chain %}<a href="/position/{{c.id}}">{{c.title}}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>{% endif %}
+<h2>Statements ({{stmts|length}})</h2>
+{% for s in stmts %}<div class="card"><div class="small"><b>{{s.date}}</b> · {{s.venue or ''}} · <span class="tag">{{s.phase}}</span><span class="tag {{s.attribution}}">{{s.attribution}}</span>{% if s.audience %}<span class="muted">to {{s.audience}}</span>{% endif %}
+{% if s.verified==0 %}<span class="unverified">QUOTE NOT VERIFIED</span>{% elif s.verified==1 %}<span class="muted">✓ verified</span>{% endif %}</div>
+{% if s.quote %}<blockquote>{{s.quote}}</blockquote>{% endif %}{% if s.note %}<p class="small">{{s.note}}</p>{% endif %}
+<div class="small">Source: <a href="/document/{{s.doc}}?hl={{(s.quote or '')[:60]|urlencode}}">{{s.doc_title}}</a> ({{s.doc_date}})</div></div>{% endfor %}
+<h2>Follow-through</h2>
+{% if ft %}<p><span class="tag {{ft.verdict}}">{{ft.verdict}}</span>{% if ft.contested %}<span class="tag contested">contested among sources</span>{% endif %}</p><p>{{ft.summary}}</p>
+{% if mechs %}<h3>Mechanisms</h3><table><tr><th>Date</th><th>Type</th><th>Name</th><th>Effect</th><th>Consistent?</th><th>Source</th></tr>{% for m in mechs %}<tr><td class="small">{{m.date}}</td><td><span class="tag">{{m.type}}</span></td><td>{{m.name}}</td><td class="small">{{m.effect or ''}}{% if m.quote %}<blockquote class="small">{{m.quote}}</blockquote>{% endif %}</td><td class="small">{{m.consistent or ''}}</td><td class="small">{% if m.doc %}<a href="/document/{{m.doc}}">{{m.doc_title}}</a>{% endif %}</td></tr>{% endfor %}</table>{% endif %}
+{% if ft.obstruction_reasons %}<h3>Obstruction</h3><p>{% for r in ft.obstruction_reasons|fromjson %}<span class="tag">{{r}}</span>{% endfor %} {{ft.obstruction_explanation or ''}}{% if ft.obstruction_doc %} <a class="small" href="/document/{{ft.obstruction_doc}}">source</a>{% endif %}</p>{% endif %}
+{% if assess %}<h3>Assessments</h3>{% for a in assess %}<div class="card"><span class="tag {{a.verdict}}">{{a.verdict}}</span> <a href="/document/{{a.doc}}">{{a.doc_author or ''}} — {{a.doc_title}}</a><p>{{a.reasoning}}</p>{% if a.quote %}<blockquote>{{a.quote}}</blockquote>{% endif %}</div>{% endfor %}{% endif %}
+{% if others %}<h3>Enacted by others</h3><table>{% for o in others %}<tr><td class="small">{{o.date}}</td><td>{{o.by_name}}</td><td><span class="tag">{{o.type}}</span> {{o.name}}</td><td class="small">{{o.note or ''}}{% if o.doc %} <a href="/document/{{o.doc}}">source</a>{% endif %}</td></tr>{% endfor %}</table>{% endif %}
+{% else %}<p class="muted">No follow-through record.</p>{% endif %}
+{% if reception %}<h2>Reception ({{reception|length}})</h2>{% for r in reception %}<div class="card"><span class="tag">{{r.source_type}}</span><span class="tag {{r.fidelity}}">{{r.fidelity}}</span><span class="tag">salience {{r.salience}}</span> <b>{{r.source_name or ''}}</b> <span class="muted small">{{r.date}}</span><p>{{r.perceived}}</p>{% if r.quote %}<blockquote>{{r.quote}}</blockquote>{% endif %}<div class="small">Source: <a href="/document/{{r.doc}}">{{r.doc_title}}</a></div></div>{% endfor %}{% endif %}
+{% if same_issue %}<h2>Other positions on this issue</h2><ul>{% for o in same_issue %}<li><a href="/position/{{o.id}}">{{o.title}}</a> — {{o.candidate_name}}, {{o.cycle}} <span class="tag {{o.commitment_strength}}">{{o.commitment_strength}}</span></li>{% endfor %}</ul>{% endif %}
+<p class="prov">{{x.id}} · created by {{x.created_by}} · review: {{x.review_status}}</p>
+{% endblock %}

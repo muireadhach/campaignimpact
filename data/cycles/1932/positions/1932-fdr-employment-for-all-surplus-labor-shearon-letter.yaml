@@ -1,0 +1,49 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: public-works
+categories:
+- relief
+- infrastructure
+- labor
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: opponent_characterization
+evidence_quality: B
+triggered_by:
+- great-depression
+title: '''Employment for all surplus labor at all times'' through self-liquidating public works (the Shearon letter,
+  as Hoover read it)'
+solution: A letter over Roosevelt's signature to Lowe Shearon, circulated among the unemployed, pledged support
+  for self-liquidating public works — water resources, flood control, land reclamation — 'to provide employment
+  for all surplus labor at all times' and asserted 'the inherent right of every citizen to employment at a living
+  wage.'
+rationale: Hoover read it as a promise that government would give jobs, directly or indirectly, to ten million unemployed;
+  Roosevelt's Baltimore reply (Oct 25) reaffirmed 'the responsibility of Government to see to it that workers should
+  be kept on their jobs wherever possible' without repeating the 'all surplus labor' language.
+notes: Recorded as opponent_characterization because the only archived text is Hoover's reading of the letter at
+  Detroit; Hoover states the New York Times printed it Oct 13–15 with Roosevelt calling it 'substantially correct.'
+  Roosevelt never repudiated it and never repeated it. A textbook imputed-uncorrected case; upgrade to candidate_direct
+  if the letter's original text is archived.
+statements:
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: I believe in the inherent right of every citizen to employment at a living wage and pledge my support to
+    whatever measures I may deem necessary for inaugurating self-liquidating public works, such as utilization of
+    our water resources, flood control and land reclamation, to provide employment for all surplus labor at all
+    times.
+  attribution: opponent_characterization
+  note: Text of the Shearon letter as read by Hoover.
+- date: '1932-10-25'
+  venue: Campaign address, Baltimore
+  phase: general
+  attribution: candidate_direct
+  doc: app-campaign-address-baltimore-maryland
+  quote: In his speech at Detroit he quarrels with the statement which I made to the effect that it was the responsibility
+    of Government to see to it that workers should be kept on their jobs wherever possible and that when they were
+    out of jobs they should be restored. I have no apology for that statement. It means precisely what it says.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

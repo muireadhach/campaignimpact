@@ -1,0 +1,30 @@
+cycle: 1932
+candidate: john-nance-garner
+issue: banking-regulation
+categories:
+- banking
+- relief
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: opponent_characterization
+evidence_quality: B
+triggered_by:
+- bank-panic-1930-33
+title: RFC loans to individuals and corporations generally — 'the Government into personal banking' (the Rainey
+  bill)
+solution: Extend RFC lending beyond banks and railroads to any borrower with security, for any purpose; passed under
+  Garner's leadership in July 1932 and vetoed by Hoover.
+rationale: Credit was not reaching small business and individuals through the banks.
+statements:
+- date: '1932-10-31'
+  venue: Hoover's Madison Square Garden address characterizing the Rainey bill
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: In the last session of the Congress, under the personal leadership of the Democratic Vice-Presidential
+    candidate, and their allies in the Senate, they enacted a law to extend the Government into personal banking
+    business.
+  attribution: opponent_characterization
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

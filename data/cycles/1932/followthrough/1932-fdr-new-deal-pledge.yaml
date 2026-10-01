@@ -1,0 +1,33 @@
+position: 1932-fdr-new-deal-pledge
+verdict: kept
+contested: true
+summary: 'Whatever its content, the pledge of ''a new deal'' was redeemed by the Hundred Days and the Second Hundred
+  Days: dozens of programs aimed at ''work and security.'' Historians disagree about its coherence, not its energy.'
+mechanisms:
+- type: statute
+  name: The Hundred Days legislation
+  date: '1933-06-16'
+  doc: app-statement-signing-the-national-industrial-recovery-act
+  effect: Fifteen major laws March–June 1933.
+  consistent: 'yes'
+- type: statute
+  name: Social Security Act
+  date: '1935-08-14'
+  doc: app-statement-signing-the-social-security-act-0
+  effect: '''Security'' half of the ''work and security'' formula.'
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: He kept his word to attack the Depression energetically.
+  quote: FDR promised an energetic attack on the Great Depression with his New Deal. He kept his word, urging Congress
+    to pass laws which established dozens of New Deal programs.
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: The program's principles remained undefinable even to insiders.
+  quote: Even a member of FDR's administration, the committed New Dealer Alvin Hansen, admitted in 1940 that "I
+    really do not know what the basic principle of the New Deal is."
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

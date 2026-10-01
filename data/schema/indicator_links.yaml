@@ -1,0 +1,16 @@
+# Which indicators a presidential action (followthrough mechanism) is charted against, by default,
+# based on the position's categories. A mechanism may override with its own `indicators:` list.
+relief: [unemployment-rate-1929-42, unemployment-rate]
+labor: [unemployment-rate-1929-42, unemployment-rate]
+budget: [federal-surplus-deficit, federal-debt, federal-outlays-pct-gdp]
+taxation: [federal-surplus-deficit]
+monetary: [cpi, gdp-nominal]
+banking: [gdp-nominal, consumer-credit]
+economy: [gdp-nominal, unemployment-rate-1929-42, unemployment-rate]
+agriculture: [gdp-nominal]
+industry: [gdp-nominal]
+trade: [gdp-nominal]
+infrastructure: [unemployment-rate-1929-42, unemployment-rate]
+education: [hs-graduation-rate]
+veterans: [federal-surplus-deficit]
+defense: [federal-outlays-pct-gdp]

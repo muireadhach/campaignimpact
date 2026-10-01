@@ -1,0 +1,45 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: securities-regulation
+categories:
+- banking
+- corruption
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: No implied government approval of foreign bond sales; officials will not try to move stock prices
+solution: 'Two executive policies requiring no legislation: (1) end the practice by which international bankers
+  sell foreign securities on the implied understanding that the State Department has passed on them; (2) high officials
+  of the next administration "will neither by word nor by deed seek to influence the prices of stocks and bonds."
+
+  '
+rationale: 'Administration statements "that have had no relation to the scientific information which it possessed"
+  shook public confidence; restored confidence in the Executive''s statements "is indispensable."
+
+  '
+statements:
+- date: 1932-08-20
+  venue: Campaign address, Columbus, Ohio
+  phase: general
+  doc: app-campaign-address-columbus-ohio
+  quote: I promise you that it will no longer be possible for international bankers or others to sell foreign securities
+    to the investing public of America on the implied understanding that these securities have been passed on or
+    approved by the State Department or any other agency of the Federal Government.
+- date: 1932-08-20
+  venue: Campaign address, Columbus, Ohio
+  phase: general
+  doc: app-campaign-address-columbus-ohio
+  quote: I assure you that high public officials in the next Administration will neither by word nor by deed seek
+    to influence the prices of stocks and bonds.
+- date: '1932-10-21'
+  venue: Campaign address on the eight credit groups, St. Louis
+  phase: general
+  doc: app-campaign-address-the-eight-great-credit-groups-the-nation-st-louis-missouri
+  quote: My job will be to prevent a recurrence of this incident, to prevent the hard-earned dollars of American
+    investors from being frittered away in foreign fields, with the encouragement of the Federal Government of the
+    United States, and with profit only for certain international financiers whose greed exceeds their patriotism.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

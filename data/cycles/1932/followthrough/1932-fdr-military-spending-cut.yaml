@@ -1,0 +1,38 @@
+position: 1932-fdr-military-spending-cut
+verdict: reversed
+contested: false
+summary: Instead of cutting the near-billion-dollar defense establishment, Roosevelt allotted $238 million of NIRA
+  public-works money to warship construction in June 1933 and signed the Vinson-Trammell Act (March 1934) authorizing
+  a treaty-strength navy — the largest peacetime naval program to that date. Army spending fell briefly under the
+  Economy Act, then rose.
+mechanisms:
+- type: budget
+  name: NIRA public-works allotment for 32 warships
+  date: '1933-06-16'
+  doc: wiki-vinson-trammell-act
+  effect: $238 million from Title II funds.
+  consistent: 'no'
+- type: statute
+  name: Vinson-Trammell Act
+  date: '1934-03-27'
+  doc: wiki-vinson-trammell-act
+  quote: In 1934, Vinson helped push the Vinson-Trammell Act, along with Democratic senator Park Trammell of Florida
+    . The bill authorized the replacement of obsolete vessels by new construction and a gradual increase of ships
+    within the limits of the Washington Naval Treaty of 1922 and London Naval Treaty of 1930.
+  consistent: 'no'
+assessments:
+- doc: wiki-vinson-trammell-act
+  verdict: reversed
+  reasoning: Naval construction was accelerated, not reduced.
+  quote: This was necessary, as per the Naval History and Heritage Command (the U.S. Navy's historical office),
+    relatively few major warships were laid down in the US Navy during the Hoover administration , and the US Navy
+    was both aging and losing ground to the Japanese Navy .
+obstruction:
+  reasons:
+  - war
+  explanation: Japanese expansion after Manchuria and the collapse of the Geneva conference reversed the disarmament
+    premise of the plank.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

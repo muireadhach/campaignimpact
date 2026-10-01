@@ -1,0 +1,55 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: banking-regulation
+categories:
+- banking
+- economy
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+- bank-panic-1930-33
+title: The RFC and the 'shield of Government credit' saved 5,000 institutions and must continue — but no direct
+  government lending to everyone
+solution: Continue the Reconstruction Finance Corporation ($2 billion) and the expanded Federal Reserve powers to
+  uphold banks, insurance companies, building-and-loan associations, farm-mortgage associations and railroads; oppose
+  the Rainey bill's direct federal loans 'to everybody' as making the government 'the most gigantic pawnbroker of
+  history.'
+rationale: Foreign withdrawals of $2.4 billion and $1.6 billion of domestic hoarding threatened a $20–25 billion
+  credit contraction; saving the institutions saved 25 million families' savings and jobs, not 'a few stockholders.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: It was in accord with these ideas that as the storm grew in intensity we created the Reconstruction Finance
+    Corporation with a capital of 2 billions more to uphold the credit structure of the Nation, and by thus raising
+    the shield of Government credit we prevented the wholesale failure of banks, of insurance companies, of building
+    and loan associations, of farm mortgage associations, and of railroads in all of which the public interest is
+    paramount.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: They passed a provision for loans to corporations and everybody else, whether they were affected and guarded
+    by public interest or not. It would have made the Government the most gigantic pawnbroker of history. I vetoed
+    that.
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: He knows full well that the only purpose of helping a bank is to protect the depositor and the borrower.
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: It would place the Government in private business in such fashion as to violate the very principle of public
+    relations upon which we have builded our Nation, and renders insecure its very foundations. Such action would
+    make the Reconstruction Corporation the greatest banking and money-lending institution of all history.
+  note: Quoting his July 1932 veto of the Rainey direct-lending bill.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

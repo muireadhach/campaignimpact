@@ -1,0 +1,69 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: unemployment-insurance
+categories:
+- relief
+- labor
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Unemployment insurance under state laws
+solution: Unemployment insurance enacted by the states rather than a federal system.
+rationale: Not argued in the platform; the state-law qualifier reflects constitutional caution and the Democratic
+  states'-rights tradition.
+statements:
+- date: 1932-06-27
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: We advocate unemployment and old-age insurance under state laws.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  attribution: candidate_direct
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: That admirable document, the platform which you have adopted, is clear. I accept it 100 percent.
+  note: Blanket endorsement of every plank.
+- date: '1932-10-02'
+  venue: Campaign address, Detroit, Michigan
+  phase: general
+  doc: app-campaign-address-detroit-michigan
+  quote: Some leaders have wisely declared for a system of unemployment insurance throughout this broad land of
+    ours; and we are going to come to it.
+- date: '1932-10-06'
+  venue: Radio address to the Business and Professional Men's League
+  phase: general
+  doc: app-radio-address-the-business-and-professional-mens-league-throughout-the-nation
+  quote: Old-age, sickness and unemployment insurance are minimum requirements in these days. But they are not enough.
+- date: '1932-10-13'
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: The first part of the question is directly answered by the Democratic platform, which advocates unemployment
+    insurance under State laws.
+  note: Question asked about compulsory state reserves plus federally coordinated employment offices.
+- date: '1932-10-13'
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: This type of insurance is not a cure-all, but it provides at least a cushion to mitigate unemployment in
+    times of depression. It is sound if, after starting it, we stick to the principle of sound insurance financing.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: Fourth, the report recommended an adequate system of unemployment insurance. No one in the Administration
+    in Washington has assumed any leadership in order to bring about positive action by the States to make this
+    unemployment insurance a reality. Some day, in our leadership, we are going to get it.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: The third, unemployment reserves, must under our system of Government be primarily the responsibility of
+    the several States. That, the Democratic platform, on which I stand, makes entirely clear.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

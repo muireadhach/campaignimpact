@@ -1,0 +1,26 @@
+position: 1932-fdr-employment-for-all-surplus-labor-shearon-letter
+verdict: partial
+contested: true
+summary: The CWA employed four million in the winter of 1933–34 and the WPA two to three million a year from 1935
+  — the largest direct government employment in peacetime — but never 'all surplus labor at all times'; unemployment
+  stayed above 14 percent through 1940.
+mechanisms:
+- type: executive_order
+  name: Civil Works Administration
+  date: '1933-11-09'
+  doc: mc-fdr-domestic-affairs
+  consistent: partly
+- type: statute
+  name: Emergency Relief Appropriation Act (WPA)
+  date: '1935-04-08'
+  doc: app-statement-signing-the-work-relief-bill
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: 'Massive but incomplete: the WPA reached three million while millions remained jobless.'
+  quote: By 1937, three million Americans were receiving WPA checks for building schools, hospitals, and airports.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

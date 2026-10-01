@@ -1,0 +1,48 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: immigration-restriction
+categories:
+- immigration
+- labor
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Continue the executive order practically prohibiting immigration except relatives of residents
+solution: Adhere to the September 1930 consular order that reduced inward movement below outward movement, admitting
+  essentially only relatives of residents, for the duration of the emergency.
+rationale: Otherwise 400,000–500,000 more job-seekers would have joined the unemployed.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I favor rigidly restricted immigration. I have by executive direction in order to relieve us of added unemployment,
+    already reduced the inward movement to less than the outward movement. I shall adhere to that policy.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: I have by administrative order practically prohibited all immigration from every quarter of the globe,
+    except the relatives of our residents. It has reduced the numbers of people coming into the United States seeking
+    employment to less than those who are departing.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We favor the continuance and strict enforcement of our present laws upon this subject.
+  attribution: party_platform
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: I endeavored to secure from the Congress the return of the quota bases from the national origins to the
+    base previously given. I have recommended that a more humane provision should be made for bringing in the near
+    relatives of our citizens. I shall persist in these matters.
+  note: Two specific legislative aims beyond the administrative order.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

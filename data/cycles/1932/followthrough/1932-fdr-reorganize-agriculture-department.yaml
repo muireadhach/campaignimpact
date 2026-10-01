@@ -1,0 +1,28 @@
+position: 1932-fdr-reorganize-agriculture-department
+verdict: partial
+contested: false
+summary: The AAA was placed inside the Department of Agriculture and the Farm Credit Administration consolidated
+  the credit agencies (Executive Order 6084, March 27, 1933), giving USDA the planning machinery Topeka called for;
+  a general reorganization came only with the 1939 Reorganization Act.
+mechanisms:
+- type: executive_order
+  name: Executive Order 6084 — Farm Credit Administration
+  date: '1933-03-27'
+  doc: app-message-congress-consolidation-federal-farm-credit-agencies
+  effect: Consolidated farm credit agencies.
+  consistent: 'yes'
+- type: statute
+  name: Agricultural Adjustment Administration within USDA
+  date: '1933-05-12'
+  doc: app-statement-signing-the-farm-relief-bill
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: Executive reorganization authority was delayed to 1939.
+  quote: But in 1939, Congress did pass a reorganization bill that created the Executive Office of the President
+    (EOP) and allowed FDR to shift a number of executive agencies (including the Bureau of the Budget) to its watch.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

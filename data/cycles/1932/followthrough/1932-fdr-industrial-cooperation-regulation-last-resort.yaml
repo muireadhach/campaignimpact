@@ -1,0 +1,31 @@
+position: 1932-fdr-industrial-cooperation-regulation-last-resort
+verdict: partial
+contested: true
+summary: The NIRA institutionalized the Commonwealth Club idea — industry drafting its own codes — but with immediate
+  government licensing power rather than regulation 'only as a last resort.' Business dominated the codes, the NRA
+  failed, and the Court voided it.
+mechanisms:
+- type: statute
+  name: National Industrial Recovery Act
+  date: '1933-06-16'
+  doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+  quote: But the public interest will be served if, with the authority and under the guidance of Government, private
+    industries are permitted to make agreements and codes insuring fair competition. However, it is necessary, if
+    we thus limit the operation of antitrust laws to their original purpose, to provide a rigorous licensing power
+    in order to meet rare cases of non-cooperation and abuse.
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: The NRA signified FDR's belief that business, with a push, could regulate itself — and it did not.
+  quote: In sum, the NRA signified FDR's belief that business, with a little push from government, could regulate
+    itself.
+obstruction:
+  reasons:
+  - courts
+  explanation: Schechter ended the code system in May 1935.
+  doc: mc-fdr-domestic-affairs
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

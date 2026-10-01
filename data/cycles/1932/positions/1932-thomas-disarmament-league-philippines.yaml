@@ -1,0 +1,40 @@
+cycle: 1932
+candidate: norman-thomas
+issue: league-of-nations
+categories:
+- diplomacy
+- defense
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+title: Join the League and World Court; lead general disarmament; free the Philippines; withdraw from Nicaragua,
+  Haiti and China; recognize the Soviet Union
+solution: Enter the League of Nations and World Court; take the initiative for disarmament by international agreement
+  and reduce American arms 'progressively and drastically to the point of complete disarmament'; grant immediate
+  and full Philippine independence; withdraw armed forces from all foreign countries; recognize Soviet Russia.
+rationale: War is the product of capitalist competition for markets; 'so long as Europe remains prostrate America
+  cannot recover.'
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-22'
+  venue: Morris Hillquit NBC radio address for the Socialist ticket, reported in the Milwaukee Leader
+  phase: convention
+  attribution: surrogate
+  doc: loc-sn83045293-1932-05-23-ed1-p2
+  quote: We demand that our govern ment take the initiative in a real and earnest effort to secure general disarmament
+    by international agreement, and that it set an ex ample to the rest of the world by granting immediate and full
+    inde pendence to the Philippines, with drawing our armed forces from all foreign countries and reducing our
+    own armaments progressively and drastically to the point of complete disarmament.
+- date: '1932-05-24'
+  venue: Edward Levinson, convention report in The New Leader (May 28)
+  phase: convention
+  attribution: party_platform
+  doc: mx-levinson-spa-convention-1932
+  quote: The United States should favor disarmament and take the lead in reducing its own arms, says the section
+    on international relations.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

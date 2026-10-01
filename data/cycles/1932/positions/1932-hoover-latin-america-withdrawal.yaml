@@ -1,0 +1,37 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: latin-america-policy
+categories:
+- diplomacy
+- foreign
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: A
+title: Withdraw the Marines from Nicaragua after the 1932 election and from Haiti under the Forbes Commission plan;
+  'no imperialistic ambitions'
+solution: Complete the withdrawal from Nicaragua once the supervised election is held; continue withdrawing supervisory
+  services from Haiti except those mandated by treaty; maintain 'frank and friendly understanding' throughout Latin
+  America.
+rationale: The administration 'has proved to our neighbors of Latin-America that we have no imperialistic ambitions.'
+statements:
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We have aided Nicaragua in the solution of its troubles and our country, in greatly reduced numbers, at
+    the request of the Nicaraguan Government only to supervise the coming election. After that they will all be
+    returned to the United States.
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: In Haiti, in accord with the recommendations of the Forbes commission, appointed by the President, the
+    various services of supervision are being rapidly withdrawn, and only those will be retained which are mandatory
+    under the treaties.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

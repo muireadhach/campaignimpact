@@ -1,0 +1,23 @@
+position: 1932-fdr-government-counterbalance-to-oligarchy
+verdict: kept
+contested: false
+summary: The SEC, Glass-Steagall, PUHCA and the Wagner Act made the federal government a standing check on financial
+  concentration; the shift of financial authority from Wall Street to Washington is a standard summary of the First
+  New Deal.
+mechanisms:
+- type: statute
+  name: Securities Act, Securities Exchange Act, Banking Act, PUHCA
+  date: '1935-08-26'
+  doc: app-message-congress-recommending-securities-exchange-commission
+  effect: Cumulative regulatory structure.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: Financial power shifted from lower Manhattan to Washington.
+  quote: Roosevelt in 1933 took America off the gold standard, and the Banking Act of 1935 gave the country a central
+    banking mechanism for the first time.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

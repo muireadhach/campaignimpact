@@ -1,0 +1,47 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: tariff-level
+categories:
+- trade
+- executive_power
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Preserve the bipartisan Tariff Commission's flexible power to adjust rates without congressional log-rolling
+solution: Keep the 1930 act's flexible provisions under which the Tariff Commission recommends and the President
+  adjusts rates up to 50 percent; oppose the Collier bill (vetoed) that would return rate-making to Congress.
+rationale: The commission 'enables us to correct any injustice ... without constant tinkering and orgies of logrolling';
+  the Democratic House never asked it to reconsider a single schedule.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: 'Second: I am against their proposals to destroy the usefulness of the bipartisan Tariff Commission, the
+    establishment of whose effective powers we secured during this administration just 25 years after it was first
+    advocated by President Theodore Roosevelt.'
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: But if there are tariffs which are too high and result in damage to the American people, those tariffs
+    can be readjusted by mere application to the Commission and the presentation of the evidence thereof. That tribunal
+    is open to all the people.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We commend the President's veto of the measure, sponsored by Democratic Congressmen, which would have transferred
+    from the President to Congress the authority to put into effect the findings of the Tariff Commission.
+  attribution: party_platform
+- date: '1932-11-05'
+  venue: Campaign address, St. Paul, Minnesota
+  phase: general
+  doc: app-address-st-paul-minnesota-0
+  quote: That means that this tribunal, which Governor Roosevelt says he will destroy, has attended to practically
+    every tariff application presented by American citizens.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

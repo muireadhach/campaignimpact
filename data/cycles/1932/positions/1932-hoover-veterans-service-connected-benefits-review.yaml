@@ -1,0 +1,30 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: veterans-benefits
+categories:
+- veterans
+- budget
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: A
+title: Full relief for service-disabled veterans and dependents; review existing veterans' laws to remove inequalities
+  and effect economies
+solution: Care and compensate every veteran incapacitated by illness and provide for dependents of the war dead;
+  study existing veterans' legislation 'to elimination of inequalities and injustices and effecting all possible
+  economies' without departing from full relief for the service-disabled.
+rationale: Non-service-connected disability pensions (1930) have been 'to some measure accepted obligations' but
+  the $946 million veterans' budget is where 'rash promises' of economy would have to cut.
+statements:
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: A careful study should be made of existing veterans' legislation with a view to elimination of inequalities
+    and injustices and effecting all possible economies, but without departing from our purpose to provide on a
+    sound basis full and adequate relief for our service disabled men, their widows and orphans.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

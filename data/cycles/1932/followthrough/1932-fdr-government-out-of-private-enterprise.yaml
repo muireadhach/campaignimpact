@@ -1,0 +1,30 @@
+position: 1932-fdr-government-out-of-private-enterprise
+verdict: reversed
+contested: true
+summary: The TVA generated and sold power, the RFC expanded into direct lending, the NRA licensed industry and the
+  AAA managed agriculture. Roosevelt described this as 'partnership,' not control; by the platform's own words the
+  government entered fields of private enterprise well beyond public works and natural resources.
+mechanisms:
+- type: statute
+  name: Tennessee Valley Authority Act
+  date: '1933-05-18'
+  doc: app-message-congress-suggesting-the-tennessee-valley-authority
+  effect: Federal corporation in the power and fertilizer business.
+  consistent: 'no'
+- type: message
+  name: 'Second fireside chat: ''partnership,'' not control'
+  date: '1933-05-07'
+  doc: app-second-fireside-chat
+  quote: It is wholly wrong to call the measures that we have taken Government control of farming, industry, and
+    transportation.
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: reversed
+  reasoning: The New Deal recreated the federal role in economic life.
+  quote: In carrying forward this agenda, FDR began to recreate the role of the federal government in American economic
+    and political life.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

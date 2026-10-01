@@ -1,0 +1,37 @@
+cycle: 1932
+candidate: newton-d-baker
+issue: league-of-nations
+categories:
+- diplomacy
+- foreign
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Do not make the League of Nations a party issue; no entry until a majority of Americans approve
+solution: Having long advocated American membership in the League, Baker declared (January 26, 1932) that he would
+  not favor a League plank and would not put the United States in the League until convinced a majority approved.
+rationale: '''I think it would be a great mistake to make a partisan issue of the League of Nations.'' A tactical
+  retreat to remain available as a compromise nominee.'
+notes: Roosevelt made a parallel disavowal of the League on February 2, 1932 under Hearst pressure; both are cases
+  of a candidate reversing a long-held position to become nominable.
+statements:
+- date: '1932-01-26'
+  venue: Statement reported in the Washington Times
+  phase: primary
+  doc: loc-sn84026749-1932-01-27-ed1-p15
+  quote: I think it would be a great mistake to make a par
+  attribution: candidate_direct
+  note: Direct quotation; OCR truncates at a column break.
+- date: '1932-01-26'
+  venue: Statement reported in the Washington Times
+  phase: primary
+  doc: loc-sn84026749-1932-01-27-ed1-p15
+  quote: But his statement yesterday that he would not favor a League plank in the party platform and that he would
+    not, if he could, put the United States in the League until convinced a majority of the American people approved
+    such a step, revived to some ex tent speculation as to his can didacy.
+  attribution: reported
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

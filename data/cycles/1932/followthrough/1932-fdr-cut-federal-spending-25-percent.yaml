@@ -1,0 +1,58 @@
+position: 1932-fdr-cut-federal-spending-25-percent
+verdict: reversed
+contested: true
+summary: The Economy Act (March 20, 1933) cut veterans' benefits and federal pay by roughly $500 million — about
+  25 percent of 'ordinary' operating expenditure, which Roosevelt treated as fulfilling the pledge. Simultaneously
+  the administration created an 'emergency' budget of relief, public works and farm payments; total federal spending
+  rose from $4.6 billion (FY1932) to $6.5 billion (FY1934) and $8.2 billion (FY1936). Measured by total outlays
+  the promise was reversed; measured by the administration's own two-budget bookkeeping it was kept.
+mechanisms:
+- type: message
+  name: Message on economies in government
+  date: '1933-03-10'
+  doc: app-message-congress-economies-government
+  quote: For three long years the Federal Government has been on the road toward bankruptcy.
+  effect: Requested authority to cut veterans' benefits and federal salaries.
+  consistent: 'yes'
+- type: statute
+  name: Economy Act of 1933
+  date: '1933-03-20'
+  doc: app-message-congress-economies-government
+  effect: Cuts of about $500 million in veterans' payments and federal salaries (up to 15 percent).
+  consistent: 'yes'
+- type: statute
+  name: NIRA Title II public works ($3.3 billion)
+  date: '1933-06-16'
+  doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+  effect: Largest single peacetime appropriation to date; charged to the 'emergency' budget.
+  consistent: 'no'
+- type: budget
+  name: 'Budget message FY1935: ''regular'' versus ''emergency'' expenditures'
+  date: '1934-01-03'
+  doc: app-the-annual-budget-message-0
+  effect: Formalized the split that allowed the economy pledge and the relief spending to coexist.
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: reversed
+  reasoning: Deficit spending became the administration's instrument, and the 1937 attempt to reverse it produced
+    a recession.
+  quote: The "Roosevelt recession" occurred largely because the President, along with some of his advisers (led
+    by Secretary of the Treasury Henry Morgenthau) were determined to balance the federal budget and had, as a result,
+    reduced government spending.
+- doc: app-message-congress-economies-government
+  verdict: kept
+  reasoning: 'Roosevelt''s own accounting: the Economy Act was the promised retrenchment of ordinary costs; everything
+    else was emergency relief, which the Pittsburgh speech had exempted.'
+  quote: I give you assurance that if this is done there is reasonable prospect that within a year the income of
+    the Government will be sufficient to cover the expenditures of the Government.
+obstruction:
+  reasons:
+  - deliberate_abandonment
+  - economy
+  explanation: The administration chose relief and recovery spending over retrenchment once the Economy Act was
+    passed; Congress also restored part of the veterans' cuts over his veto in March 1934.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

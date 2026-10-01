@@ -1,0 +1,38 @@
+position: 1932-fdr-railroad-rehabilitation-program
+verdict: partial
+contested: false
+summary: The Emergency Railroad Transportation Act (June 16, 1933) put railroad holding companies under the ICC
+  and created a Federal Coordinator of Transportation (Eastman); Section 77 bankruptcy reform had been signed by
+  Hoover on March 3, 1933; the Motor Carrier Act (August 1935) brought trucks and buses under the ICC. Consolidations
+  were not pressed and the Coordinator lapsed in 1936; RFC lending continued.
+mechanisms:
+- type: message
+  name: Message on emergency railroad legislation
+  date: '1933-05-04'
+  doc: app-message-congress-emergency-railroad-legislation
+  quote: Second, railway holding companies should be placed definitely under the regulation and control of the Interstate
+    Commerce Commission in like manner as the railways themselves.
+  consistent: 'yes'
+- type: statute
+  name: Emergency Railroad Transportation Act
+  date: '1933-06-16'
+  doc: app-message-congress-emergency-railroad-legislation
+  quote: Third, as a temporary emergency measure, I suggest the creation of a Federal Coordinator of Transportation
+    who, working with groups of railroads, will be able to encourage, promote or require action on the part of carriers,
+    in order to avoid duplication of service, prevent waste, and encourage financial reorganizations.
+  consistent: 'yes'
+- type: statute
+  name: Motor Carrier Act
+  date: '1935-08-09'
+  doc: app-statement-signing-the-motor-carrier-act
+  effect: ICC regulation of motor carriers — the Salt Lake City third point.
+  consistent: 'yes'
+assessments:
+- doc: app-message-congress-emergency-railroad-legislation
+  verdict: partial
+  reasoning: Holding-company control, coordination and motor-carrier regulation were enacted; consolidation and
+    receivership reform under the new administration were limited.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

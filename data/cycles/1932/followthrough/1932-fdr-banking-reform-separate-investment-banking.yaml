@@ -1,0 +1,30 @@
+position: 1932-fdr-banking-reform-separate-investment-banking
+verdict: kept
+contested: false
+summary: The Banking Act of June 16, 1933 (Glass-Steagall) separated commercial from investment banking, restricted
+  Federal Reserve credit for speculation and created the FDIC (not a campaign promise; Roosevelt initially opposed
+  deposit insurance). A Deposit Liquidation Board (October 1933) sped payouts from closed banks.
+mechanisms:
+- type: statute
+  name: Banking Act of 1933 (Glass-Steagall)
+  date: '1933-06-16'
+  doc: mc-fdr-domestic-affairs
+  effect: Separation of securities affiliates; FDIC; Fed restrictions.
+  consistent: 'yes'
+- type: executive_order
+  name: Deposit Liquidation Board
+  date: '1933-10-15'
+  doc: app-statement-the-establishment-the-deposit-liquidation-board
+  effect: RFC-financed loans to speed payments to depositors of closed banks.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: kept
+  reasoning: Glass-Steagall divorced commercial from investment banking.
+  quote: In June 1933, he signed the Glass-Steagall Act, which created the Federal Deposit Insurance Corporation,
+    guaranteeing the savings of average citizens, and prevented commercial banks from engaging in investment banking,
+    which they had been carrying on in scandalous fashion.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

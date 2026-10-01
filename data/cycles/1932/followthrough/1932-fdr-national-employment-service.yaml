@@ -1,0 +1,21 @@
+position: 1932-fdr-national-employment-service
+verdict: kept
+contested: false
+summary: The Wagner-Peyser Act, signed June 6, 1933, created the federal-state United States Employment Service
+  — the bill Hoover had vetoed in 1931.
+mechanisms:
+- type: statute
+  name: Wagner-Peyser Act
+  date: '1933-06-06'
+  doc: wiki-wagner-peyser-act
+  quote: As part of the New Deal , President Franklin D. Roosevelt signed the act into law on June 6, 1933, at the
+    White House.
+  consistent: 'yes'
+assessments:
+- doc: wiki-wagner-peyser-act
+  verdict: kept
+  reasoning: Enacted in the Hundred Days as pledged at Boston.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

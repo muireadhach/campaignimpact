@@ -1,0 +1,8 @@
+name: Herbert Hoover
+born: 1874-08-10
+died: 1964-10-20
+parties: [Republican]
+offices:
+  - {office: Secretary of Commerce, start: 1921, end: 1928}
+  - {office: President of the United States, start: 1929-03-04, end: 1933-03-04}
+summary: 31st President; Republican nominee for re-election in 1932, running on his record against the Depression.

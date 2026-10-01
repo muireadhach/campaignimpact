@@ -1,0 +1,76 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: banking-regulation
+categories:
+- banking
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+- bank-panic-1930-33
+title: Reform the banking laws; stop credit flowing to speculation; relieve depositors of closed banks
+solution: 'Enact the banking reform (Glass bill) Congress postponed: a stronger banking system that will not ''permit
+  the credit of the country to be made available without adequate check for wholesale speculation in securities'';
+  authority for early liquidation of deposits in closed banks (denied by Congress).'
+rationale: The depression 'exposed many weaknesses' and 'abuse of financial power'; millions of depositors are locked
+  out of failed banks.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I have recommended to the Congress the reform of our banking laws. Unfortunately this legislation has not
+    yet been enacted. The American people must have protection from insecure banking through a stronger banking
+    system. They must be relieved from conditions which permit the credit machinery of the country to be made available
+    without check for wholesale speculation in securities with ruinous consequence to millions of our citizens and
+    to our national economy. I have recommended to Congress methods of emergency relief to the depositors of closed
+    banks.
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: Seventh, an authority by which we could secure early liquidation of deposits in closed banks that we might
+    relieve the distress to millions of depositors. We did not secure that authority out of the Congress.
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: Eighth, revision of the banking laws. This matter was postponed.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: There is need of revising the banking laws so as to place our banking structure on a sounder basis generally
+    for all concerned, and for the better protection of the depositing public there should be more stringent supervision
+    and broader powers vested in the supervising authorities. We advocate such a revision.
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We favor requiring reports of and subjecting to thorough and periodic examination all such affiliates of
+    member banks until adequate information has been acquired on the basis of which this problem may definitely
+    be solved in a permanent manner.
+  attribution: party_platform
+  note: 'Security affiliates: examination, not the divorce the Democrats proposed.'
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: I recommended to the Congress the sane reform of our banking laws. The Democratic House of Representatives
+    did not see fit to pass that legislation in the last session, but we shall persist until it has been accomplished.
+- date: '1932-10-07'
+  venue: Radio address to the women of America
+  phase: general
+  doc: app-radio-address-the-women-america
+  quote: As a result of weaknesses which have developed we must have constructive revision of these regulations
+    in a form that will not destroy but will give greater service and greater security to the whole people. The
+    spirit in which we must develop these remedies and reforms is the preservation of initiative of our people,
+    that we should punish and prevent wrongdoing, not that we should destroy them by our Government foisting great
+    bureaucracies upon the country which only deaden and do not heal.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

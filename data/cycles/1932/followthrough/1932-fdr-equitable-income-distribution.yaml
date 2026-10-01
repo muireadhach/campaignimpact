@@ -1,0 +1,43 @@
+position: 1932-fdr-equitable-income-distribution
+verdict: partial
+contested: true
+summary: NRA codes raised minimum wages and cut hours; the Wagner Act (1935) armed unions; Social Security (1935)
+  created a floor; the 1935 'wealth tax' was the first explicit redistributive measure — and Congress gutted it.
+  The regressive payroll tax and continued mass unemployment limited the shift; income concentration fell substantially
+  only with wartime taxation.
+mechanisms:
+- type: statute
+  name: National Industrial Recovery Act wage and hour codes
+  date: '1933-06-16'
+  doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+  quote: My FIRST request is that the Congress provide for the machinery necessary for a great cooperative movement
+    throughout all industry in order to obtain wide reemployment, to shorten the working week, to pay a decent wage
+    for the shorter week and to prevent unfair competition and disastrous overproduction.
+  consistent: 'yes'
+- type: statute
+  name: National Labor Relations Act
+  date: '1935-07-05'
+  doc: app-statement-signing-the-national-labor-relations-act
+  effect: Federal protection of collective bargaining.
+  consistent: 'yes'
+- type: statute
+  name: Revenue Act of 1935 ('wealth tax')
+  date: '1935-08-30'
+  doc: mc-fdr-domestic-affairs
+  effect: Higher surtaxes on top incomes; substantially diluted in Congress.
+  consistent: partly
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: The 1935 tax scheme was watered down and Social Security's payroll deductions muted purchasing power.
+  quote: Roosevelt proposed a tax scheme in 1935 that would have greatly increased the tax bills of wealthy Americans
+    and corporations. Conservatives in Congress, however, watered down the proposal considerably.
+obstruction:
+  reasons:
+  - congress
+  explanation: Conservative Democrats diluted the 1935 revenue bill.
+  doc: mc-fdr-domestic-affairs
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

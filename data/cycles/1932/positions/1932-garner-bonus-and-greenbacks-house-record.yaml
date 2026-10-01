@@ -1,0 +1,31 @@
+cycle: 1932
+candidate: john-nance-garner
+issue: veterans-bonus
+categories:
+- veterans
+- monetary
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: opponent_characterization
+evidence_quality: C
+triggered_by:
+- bonus-army
+title: The Patman cash bonus and $2.3 billion of greenbacks, passed by the House under his speakership
+solution: The House under Speaker Garner passed the Patman bill (June 15, 1932) paying the bonus in full immediately,
+  financed by new Treasury notes; Hoover treated this as Garner's and the party's policy.
+rationale: Immediate purchasing power for veterans; currency expansion to fight deflation.
+notes: Garner's personal vote and views on the Patman bill are not archived; Hoover's attribution rests on his role
+  as Speaker. Neither Garner nor Roosevelt disavowed the bill during the campaign.
+statements:
+- date: '1932-10-04'
+  venue: Hoover's Des Moines address
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: This program was passed through the Democratic House of Representatives under the leadership of the gentleman
+    who has been nominated the Democratic candidate for Vice-President, and thus these measures and policies were
+    approved by that party.
+  attribution: opponent_characterization
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

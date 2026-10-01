@@ -1,0 +1,121 @@
+# Controlled vocabularies. The build step rejects any record using a value not listed here.
+# Add values deliberately; every addition should be a conscious modeling decision.
+
+candidate_tier:
+  nominee: Major-party general-election nominee.
+  contender: Led a national poll, won a state contest, or held convention delegates.
+  third_party: Non-major-party candidate clearing ~5% popular vote or any electoral vote.
+  notable_no_chance: Popular or newsworthy but never plausibly in contention. Lightly covered; excluded from core analytics by default.
+
+position_kind:
+  pledge_forward: A commitment about what the candidate will do.
+  defense_of_record: A defense or justification of what the candidate (usually an incumbent) has already done.
+
+commitment_strength:
+  specific_pledge: Concrete, checkable commitment (a number, a bill, a named action).
+  directional_stance: Clear direction without a checkable specific ("lower tariffs", "more relief").
+  vague_gesture: Rhetoric that signals a posture without content ("a new deal", "restore confidence").
+
+attribution:
+  candidate_direct: Stated by the candidate in their own words.
+  surrogate: Stated by campaign staff, running mate, or authorized spokesperson.
+  party_platform: In the party platform the candidate ran under.
+  imputed_uncorrected: Widely attributed to the candidate by press or public; candidate never stated it and never corrected it.
+  opponent_characterization: Attributed by an opponent's campaign; may or may not have been corrected.
+  reported: Attributed to the candidate by a news report or secondary source paraphrasing the candidate; the candidate's verbatim text is not archived. Quote is the source's wording.
+
+campaign_phase:
+  pre_announcement: Before formal candidacy.
+  primary: Primary/caucus season (or pre-convention maneuvering in earlier eras).
+  convention: At or around the nominating convention.
+  general: General election campaign.
+  post_election: Between election and inauguration.
+
+evidence_quality:
+  A: Primary source, exact text archived, unambiguous.
+  B: Primary source archived but wording or attribution requires interpretation.
+  C: Secondary source (contemporary press, historiography); primary text not available.
+  D: Reconstructed from thin evidence; treat as provisional.
+
+verdict:
+  kept: Done substantially as promised.
+  partial: Done in part or in a materially different form.
+  broken: Not done, though feasible.
+  reversed: The opposite was done.
+  superseded: Events made the promise moot or replaced it with a different commitment.
+  blocked: Attempted in good faith and stopped by an external actor.
+  abandoned: Quietly dropped without an attempt.
+  not_applicable: Candidate never held the office; no follow-through possible.
+
+obstruction_reason:
+  congress: Blocked or gutted by the legislature.
+  courts: Struck down or enjoined.
+  war: Displaced by war or national security emergency.
+  economy: Displaced by economic conditions.
+  scandal: Displaced by scandal or political collapse.
+  party: Blocked by the candidate's own party.
+  states: Blocked by state governments or federalism constraints.
+  deliberate_abandonment: The administration chose not to pursue it.
+  death_or_removal: Term ended before action was possible.
+  none: No obstruction; the outcome reflects a choice.
+
+mechanism_type:
+  statute: Act of Congress.
+  executive_order: Executive order or proclamation.
+  treaty: Treaty or executive agreement.
+  appointment: Appointment or nomination.
+  budget: Budget submission or appropriation.
+  regulation: Agency rule.
+  veto: Veto or threat of veto.
+  military: Military action or deployment.
+  message: Message to Congress, address, or public statement used as an instrument.
+  litigation: Government litigation posture.
+  other: Other.
+
+reception_source_type:
+  editorial: Newspaper or magazine editorial position.
+  news_coverage: Contemporary news reporting.
+  straw_poll: Pre-scientific straw poll (e.g. Literary Digest).
+  opinion_poll: Scientific opinion poll (post-1935).
+  opposition: Opponent's campaign messaging.
+  interest_group: Organized interest, union, church, business group.
+  historiography: Later historians' reconstruction of what the public understood.
+  election_returns: Inference from voting patterns.
+
+reception_fidelity:
+  accurate: Source understood the stated position correctly.
+  distorted: Understood in a materially exaggerated or shifted form.
+  inverted: Understood as the opposite of what was stated.
+  ignored: Position was stated but the source did not register it.
+  unaware: No stated position; source assigned one anyway.
+
+salience:
+  high: Central to how the candidate was understood.
+  medium: Noticed and discussed.
+  low: Marginal.
+
+review_status:
+  unreviewed: Written by an agent; not yet checked by the user.
+  user_reviewed: The user has checked this record.
+  disputed: The user flagged a problem; see review_note.
+
+document_kind:
+  platform: Party platform.
+  speech: Speech or address.
+  radio_address: Radio or broadcast address.
+  debate: Debate transcript.
+  press_conference: Press conference or interview.
+  letter: Letter or telegram.
+  statement: Written statement or press release.
+  message_to_congress: Message to Congress.
+  statute: Text of a law.
+  executive_order: Executive order or proclamation.
+  court_opinion: Court opinion.
+  news_article: Contemporary news article.
+  editorial: Contemporary editorial.
+  poll: Poll report.
+  book: Book or book chapter.
+  scholarly_article: Journal article.
+  reference: Encyclopedia or reference work.
+  dataset: Statistical series (CSV/table) archived verbatim from its publisher.
+  other: Other.

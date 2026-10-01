@@ -1,0 +1,34 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: judicial-independence
+categories:
+- governance
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Preserve the independence of the Supreme Court from party control
+solution: Continue appointing justices 'solely on the basis of their character and their mental power' regardless
+  of party; reject any conception of the Court as 'an instrument of party policy.'
+rationale: Roosevelt's Baltimore remark that Republicans controlled 'the Supreme Court as well' implies 'a state
+  of mind' that would make the Court 'subservient to him and his party.'
+notes: Recorded because the 1937 court-packing fight makes this exchange retrospectively significant.
+statements:
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: For generations the Republican and Democratic Presidents alike have made it their most sacred duty to respect
+    and maintain the independence of America's greatest tribunal.
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: But is the Democratic candidate really proposing his conception of the relation of the Executive with the
+    Supreme Court? If that is his idea, he is proposing the most revolutionary new deal, the most stupendous breaking
+    of precedent, the most destructive undermining of the very safeguard of our form of government yet proposed
+    by any Presidential candidate.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

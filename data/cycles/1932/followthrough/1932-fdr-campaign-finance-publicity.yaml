@@ -1,0 +1,26 @@
+position: 1932-fdr-campaign-finance-publicity
+verdict: abandoned
+contested: false
+summary: No campaign-finance or lobbying legislation was proposed in the first term; the Hatch Act (1939–40), which
+  limited contributions and political activity by federal employees, was a congressional initiative directed largely
+  at the WPA and the administration itself.
+mechanisms:
+- type: statute
+  name: Hatch Act
+  date: '1939-08-02'
+  doc: wiki-hatch-act
+  effect: Restricted political activity of federal employees; 1940 amendments capped contributions.
+  consistent: partly
+assessments:
+- doc: wiki-hatch-act
+  verdict: abandoned
+  reasoning: The plank produced no administration bill; later legislation came from Congress against the New Deal's
+    own patronage.
+obstruction:
+  reasons:
+  - deliberate_abandonment
+  explanation: Low priority once in office.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

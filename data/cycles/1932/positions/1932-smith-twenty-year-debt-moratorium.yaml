@@ -1,0 +1,39 @@
+cycle: 1932
+candidate: alfred-e-smith
+issue: war-debts
+categories:
+- diplomacy
+- trade
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: reported
+evidence_quality: B
+triggered_by:
+- ww1-war-debts
+title: A twenty-year moratorium on the war debts, writing them off in proportion to each nation's purchases of American
+  goods
+solution: Suspend intergovernmental debt payments for twenty years and cancel debt in proportion to the debtor's
+  trade with the United States — converting the debts into an instrument for reviving exports.
+rationale: Debts cannot be collected while trade is dead; linking write-offs to purchases makes Europe pay in American
+  goods and jobs.
+notes: Verbatim text of the speech is not archived; the Evening Star's front-page report (April 14, 1932) is the
+  source. The proposal directly contradicted the platform plank against cancellation adopted two months later.
+statements:
+- date: '1932-04-13'
+  venue: Jefferson Day dinner, Willard Hotel, Washington (Evening Star report)
+  phase: primary
+  doc: loc-sn83045462-1932-04-14-ed1-p1
+  quote: With Alfred E. Smith threatening to fight to a finish the candidacy of Gov. Franklin D. Roosevelt for the
+    presidency and at the same time de manding a 20-year moratorium on the debts owed the United States by foreign
+    nations, the Democrats were wondering just where their party was headed in the coming campaign.
+  attribution: reported
+- date: '1932-04-13'
+  venue: Jefferson Day dinner, Willard Hotel, Washington (Evening Star report)
+  phase: primary
+  doc: loc-sn83045462-1932-04-14-ed1-p1
+  quote: Ex-Governor of New York Proposes to Write Off Debts in Propor tion to Trade With U. S.
+  attribution: reported
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

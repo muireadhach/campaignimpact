@@ -1,0 +1,33 @@
+cycle: 1932
+candidate: albert-ritchie
+issue: prohibition-repeal
+categories:
+- prohibition
+- federalism
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: reported
+evidence_quality: C
+triggered_by:
+- prohibition-era
+title: Repeal of the Eighteenth Amendment as a matter of states' rights
+solution: Repeal national Prohibition and return liquor control to the states; Maryland had refused to enact a state
+  enforcement act.
+rationale: Prohibition is a federal encroachment on state prerogatives.
+statements:
+- date: '1932-01-01'
+  venue: Governorship record as summarized by Wikipedia
+  phase: pre_announcement
+  doc: wiki-albert-ritchie
+  quote: Ritchie was a strong opponent of the Eighteenth Amendment , which established prohibition, and was a staunch
+    advocate of states' rights .
+- date: '1932-06-27'
+  venue: 1932 convention (Wikipedia summary)
+  phase: convention
+  doc: wiki-albert-ritchie
+  quote: Ritchie had established a national reputation during the convention of 1924 and was admired by the conservative
+    wing of the Democratic party as a "wet" (in favor of repealing Prohibition ) who appealed to the urban vote.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

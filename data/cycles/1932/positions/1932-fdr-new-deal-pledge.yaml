@@ -1,0 +1,85 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: government-role-general
+categories:
+- executive_power
+- economy
+kind: pledge_forward
+commitment_strength: vague_gesture
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: '"A new deal for the American people" — work and security through liberal, planned government action'
+solution: 'Unspecified: a "party of liberal thought, of planned action, of enlightened international outlook, and
+  of the greatest good to the greatest number," pursuing "work and security" for the mass of the people and "more
+  equitable opportunity to share in the distribution of national wealth." Explicitly positioned between "blind reaction"
+  and "irresponsible opportunism."
+
+  '
+rationale: 'Republican "trickle-down" Toryism helps a favored few; failure to offer a "workable program of reconstruction"
+  risks "unreasoning radicalism"; economic laws "are made by human beings."
+
+  '
+notes: 'The phrase that named the administration. Its content is whatever the specific positions turned out to be;
+  recorded here so the gesture itself and its reception can be tracked.
+
+  '
+statements:
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: I pledge you, I pledge myself, to a new deal for the American people.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: Ours must be a party of liberal thought, of planned action, of enlightened international outlook, and of
+    the greatest good to the greatest number of our citizens.
+- date: 1932-07-02
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: 'What do the people of America want more than anything else? To my mind, they want two things: work, with
+    all the moral and spiritual values that go with it; and with work, a reasonable measure of security--security
+    for themselves and for their wives and children.'
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: Once more he warned the people against changing -- against a new deal -- stating that it would mean changing
+    the fundamental principles of America, what he called the sound principles that have been so long believed in
+    in this country. My friends, my New Deal does not aim to change those principles. It does aim to bring those
+    principles into effect.
+- date: '1932-01-22'
+  venue: Letter to F. W. McLean consenting to the North Dakota primary
+  phase: pre_announcement
+  doc: app-the-governor-enters-the-first-primary-campaign-for-the-presidential-nomination
+  quote: One who believes in new standards of 'Government for meeting new problems, in the translation of forward-looking
+    thought into practical action, must welcome a chance to do his share toward that end.
+  note: First public statement of candidacy.
+- date: '1932-11-03'
+  venue: Republican-for-Roosevelt League, New York
+  phase: general
+  doc: app-campaign-address-before-the-republican-for-roosevelt-league-cooperation-between-executive
+  quote: These are the principles of fair and open dealing with the public, of using the great powers of the Government
+    to serve no mean party advantage, of keeping promises made to agriculture and labor, of friendly relations between
+    the Executive and the Legislature, of economic peace with foreign Nations, of protection for those who must
+    entrust their savings to others, of social justice for all, and relief for those who are in need.
+- date: '1932-11-05'
+  venue: Closing address, Madison Square Garden, New York
+  phase: general
+  doc: app-campaign-address-madison-square-garden-new-york-city-0
+  quote: We must put behind us the idea that an uncontrolled, unbalanced economy, creating paper profits for a relatively
+    small group, means or ever can mean prosperity.
+- date: '1932-11-05'
+  venue: Closing address, Madison Square Garden, New York
+  phase: general
+  doc: app-campaign-address-madison-square-garden-new-york-city-0
+  quote: We have not enticed you with offers of magic, or lured you with vain promises. We have given you the hope
+    of a better ordered system of national economy. We have pledged you our word and our will to do.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

@@ -1,0 +1,36 @@
+position: 1932-fdr-repeal-prohibition
+verdict: kept
+contested: false
+summary: Congress had proposed the Twenty-first Amendment on February 20, 1933 (before inauguration); Roosevelt's
+  March 13 message produced the Cullen-Harrison beer bill (signed March 22, effective April 7) with its tax revenue;
+  ratification by state conventions was complete on December 5, 1933. States regained control and the federal government
+  enforced protection of dry states under the amendment's Section 2.
+mechanisms:
+- type: message
+  name: Message on repeal of the Volstead Act
+  date: '1933-03-13'
+  doc: app-message-congress-repeal-the-volstead-act
+  effect: Requested legalization of beer and light wines with a federal tax.
+  consistent: 'yes'
+- type: statute
+  name: Cullen-Harrison Act (3.2 beer)
+  date: '1933-03-22'
+  doc: app-second-fireside-chat
+  quote: The Congress also passed legislation authorizing the sale of beer in such States as desired it. This has
+    already resulted in considerable reemployment and incidentally has provided much needed tax revenue.
+  consistent: 'yes'
+- type: other
+  name: Twenty-first Amendment ratified by state conventions
+  date: '1933-12-05'
+  doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+  quote: Second, Whenever the repeal of the 18th Amendment now pending before the States shall have been ratified
+    and the repeal of the Volstead Act effected.
+  consistent: 'yes'
+assessments:
+- doc: app-message-congress-recommending-enactment-the-national-industrial-recovery-act
+  verdict: kept
+  reasoning: Repeal was pending before the states by June 1933 and completed in December.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

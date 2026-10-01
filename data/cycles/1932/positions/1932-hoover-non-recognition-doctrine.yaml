@@ -1,0 +1,29 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: aggression-non-recognition
+categories:
+- diplomacy
+- foreign
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- manchuria-1931
+title: Never recognize territory gained in violation of the peace pacts (the Stimson Doctrine)
+solution: Maintain the doctrine, announced over Manchuria in January 1932 and endorsed by the League and the Western
+  Hemisphere nations, that the United States will not recognize title to territory acquired in violation of the
+  Kellogg Pact.
+rationale: '''Public opinion made tangible and effective'' — sanction without force.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: I have projected a new doctrine into international affairs--the doctrine that we do not and never will
+    recognize title to the possession of territory gained in violation of the peace pacts which were signed with
+    us.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

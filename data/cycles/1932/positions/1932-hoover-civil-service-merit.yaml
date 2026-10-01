@@ -1,0 +1,25 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: civil-service-reform
+categories:
+- civil_service
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: A
+title: Keep the merit system 'unassailable'
+solution: Maintain the civil-service merit system as an unassailable part of government.
+rationale: The merit system 'has been amply justified since the organization of the Civil Service by the Republican
+  Party.'
+statements:
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The merit system has been amply justified since the organization of the Civil Service by the Republican
+    Party. As a part of our governmental system it is now unassailable. We believe it should remain so.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

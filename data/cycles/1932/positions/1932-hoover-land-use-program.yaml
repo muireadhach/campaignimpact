@@ -1,0 +1,35 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: land-use-planning
+categories:
+- agriculture
+- environment
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Support a sound program to divert land from unprofitable to profitable use
+solution: Back the USDA land-use conference program and the Republican platform plank to reorganize agriculture
+  so poor lands are withdrawn from cultivation.
+rationale: Cultivation of lands 'the chief return on which is the poverty and misery of those who live upon them'
+  should end.
+statements:
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: The broad objective of such a program is to promote the reorganization of agriculture so as to divert lands
+    from unprofitable to Profitable use and to avoid the cultivation of lands the chief return on which is the poverty
+    and misery of those who live upon them. The Republican platform contains a plank which constitutes the first
+    declaration upon that subject. I shall be happy to support any sound program.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The national welfare plainly can be served by the acquisition of submarginal lands for watershed protection,
+    grazing, forestry, public parks and game preserves. We favor such acquisition.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

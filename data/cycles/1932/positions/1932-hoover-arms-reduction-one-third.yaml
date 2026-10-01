@@ -1,0 +1,59 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: naval-armament
+categories:
+- defense
+- diplomacy
+- budget
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Cut world armaments by one-third through the Geneva conference while keeping forces strong enough that 'no
+  foreign soldier will land'
+solution: Press the Geneva proposal to reduce armaments a third and shift weapons toward defense, saving the world
+  $1 billion and the United States $200 million a year; maintain the London Naval Treaty ratios; do not reduce Army
+  and Navy further absent general agreement.
+rationale: Standing armies grew from 2 to 5 million men since the war, breeding fear and taxes; reduced foreign
+  arms budgets would raise foreign buying power for American goods.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: 'Fourth: I insist upon an army and navy of a strength which guarantees that no foreign soldier will land
+    upon the American soil. That strength is relative to other nations. I favor every arms reduction which preserves
+    that relationship.'
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: We have made concrete proposals at Geneva to reduce the armaments of the world by one-third. It would save
+    the taxpayers of the world a billion a year. We could save ourselves 200 millions a year. It would reduce fear
+    and danger of war.
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: In the present disturbed state of the world we must not further reduce our defenses without a general agreement
+    for the reduction of arms.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: Meanwhile maintenance of our navy on the basis of parity with any nation is a fundamental policy to which
+    the Republican Party is committed.
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: We support the essential principles of the National Defense Act as amended in 1920 and by the Air Corps
+    Act of 1926, and believe that the army of the United States has, through successive reductions accomplished
+    in the last twelve years, reached an irreducible minimum consistent with the self-reliance, self-respect and
+    security of this country.
+  attribution: party_platform
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

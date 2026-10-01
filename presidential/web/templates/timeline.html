@@ -1,0 +1,51 @@
+{% extends "base.html" %}{% block title %}Timeline{% endblock %}{% block body %}
+<style>
+.panel{margin:1.2rem 0}.panel svg,.lane svg{width:100%;height:auto;display:block;background:var(--soft);border:1px solid var(--line);border-radius:6px}
+.ev-war{fill:#c0392b}.ev-economic{fill:#d68910}.ev-political{fill:#7f8c8d}
+.mk:hover circle{stroke:var(--fg);stroke-width:1.5}
+.eff td{white-space:nowrap;vertical-align:top}.eff td.t{white-space:normal}
+.indpick{display:flex;flex-wrap:wrap;gap:.3rem 1rem;margin:.5rem 0}.indpick label{font-size:.9em}
+</style>
+<h1>Timeline <span class="muted small">{{start}}–{{end}}</span></h1>
+<p class="small muted">Yearly indicator series (each archived from its publisher), an event lane (red = war, amber = economic, grey = political), election years
+(dotted), and presidential actions — follow-through mechanisms — placed on the indicators their position's category targets (<code>data/schema/indicator_links.yaml</code>).
+The before/after table shows the indicator in the action's year and 1, 2 and 4 years later. That is a reading of what happened next, not a measurement of what the action caused:
+many actions and events share the same years.</p>
+<form method="get">
+<label>from <input name="start" type="number" value="{{start}}" size="6"></label> <label>to <input name="end" type="number" value="{{end}}" size="6"></label>
+<div class="indpick">{% for i in all_ind %}<label><input type="checkbox" name="ind" value="{{i.id}}" {% if i.id in chosen %}checked{% endif %}> {{i.name}}</label>{% endfor %}</div>
+<input type="hidden" name="indicators" id="indicators"><button onclick="document.getElementById('indicators').value=[...document.querySelectorAll('input[name=ind]:checked')].map(c=>c.value).join(',');document.querySelectorAll('input[name=ind]').forEach(c=>c.disabled=true)">Draw</button>
+</form>
+
+<div class="lane"><h3>Events</h3>
+{% set LH = 22 + n_lanes * 16 %}
+<svg viewBox="0 0 {{W}} {{LH}}" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,sans-serif" font-size="10">
+{% for yr, x in year_ticks %}<line x1="{{'%.1f'|format(x)}}" x2="{{'%.1f'|format(x)}}" y1="0" y2="{{LH-18}}" stroke="var(--line)"/><text x="{{'%.1f'|format(x)}}" y="{{LH-5}}" text-anchor="middle" fill="var(--muted)">{{yr}}</text>{% endfor %}
+{% for yr, x in cycles %}<line x1="{{'%.1f'|format(x)}}" x2="{{'%.1f'|format(x)}}" y1="0" y2="{{LH-18}}" stroke="var(--muted)" stroke-dasharray="2,3"/>{% endfor %}
+{% for e in events %}<a href="/positions?event={{e.id}}"><rect class="ev-{{e.kind}}" x="{{'%.1f'|format(e.x0)}}" y="{{4 + e.row*16}}" width="{{'%.1f'|format(e.w)}}" height="12" rx="2" opacity=".75"><title>{{e.name}} ({{e.start}}{% if e.end and e.end!=e.start %} – {{e.end}}{% endif %}): {{e.summary}}</title></rect>
+{% if e.w >= 5.2 * (e.name[:40]|length) %}<text x="{{'%.1f'|format(e.x0 + 3)}}" y="{{13 + e.row*16}}" fill="#fff" font-size="9">{{e.name[:40]}}</text>{% endif %}</a>{% endfor %}
+</svg></div>
+
+{% for p in panels %}
+<div class="panel">
+<h3>{{p.ind.name}} <span class="muted small">— {{p.ind.unit}} · <a href="/document/{{p.ind.doc}}">{{p.ind.source_name}}</a> · {{p.ind.method}}{% if p.ind.notes %} · {{p.ind.notes}}{% endif %}</span></h3>
+<svg viewBox="0 0 {{W}} {{H}}" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,sans-serif" font-size="10">
+{% for e in events %}<rect class="ev-{{e.kind}}" x="{{'%.1f'|format(e.x0)}}" y="{{H-24 + e.row*2}}" width="{{'%.1f'|format(e.w)}}" height="2" opacity=".8"><title>{{e.name}}</title></rect>{% endfor %}
+{% for yr, x in cycles %}<line x1="{{'%.1f'|format(x)}}" x2="{{'%.1f'|format(x)}}" y1="8" y2="{{H-26}}" stroke="var(--muted)" stroke-dasharray="2,3"/><text x="{{'%.1f'|format(x+2)}}" y="{{H-30}}" fill="var(--muted)">{{yr}} election</text>{% endfor %}
+{% for v, y in p.ticks %}<line x1="{{L}}" x2="{{W-20}}" y1="{{'%.1f'|format(y)}}" y2="{{'%.1f'|format(y)}}" stroke="var(--line)"/><text x="{{L-4}}" y="{{'%.1f'|format(y+3)}}" text-anchor="end" fill="var(--fg)">{{'%g'|format(v|round(1))}}</text>{% endfor %}
+{% for yr, x in year_ticks %}<text x="{{'%.1f'|format(x)}}" y="{{H-6}}" text-anchor="middle" fill="var(--muted)">{{yr}}</text>{% endfor %}
+<polyline points="{% for x,y,yr,v in p.pts %}{{'%.1f'|format(x)}},{{'%.1f'|format(y)}} {% endfor %}" fill="none" stroke="var(--accent)" stroke-width="2"/>
+{% for x,y,yr,v in p.pts %}<circle cx="{{'%.1f'|format(x)}}" cy="{{'%.1f'|format(y)}}" r="2.2" fill="var(--accent)"><title>{{yr}}: {{'%g'|format(v|round(3))}}</title></circle>{% endfor %}
+{% for m in p.markers %}<g class="mk"><line x1="{{'%.1f'|format(m.x)}}" x2="{{'%.1f'|format(m.x)}}" y1="16" y2="{{H-26}}" stroke="var(--ok)" stroke-width="1.2" opacity=".7"/><circle cx="{{'%.1f'|format(m.x)}}" cy="10" r="{{ 5 if m.n < 10 else 7 }}" fill="var(--ok)"/><text x="{{'%.1f'|format(m.x)}}" y="13" text-anchor="middle" fill="#000" font-size="8" font-weight="600">{{m.n}}</text>
+<title>{{m.year}}: {{m.n}} action(s)
+{% for a in m.acts[:12] %}• {{a.date}} {{a.type}}: {{a.name}} — {{a.title}}
+{% endfor %}{% if m.n > 12 %}… and {{m.n-12}} more{% endif %}</title></g>{% endfor %}
+</svg>
+{% if p.markers %}<details><summary class="small">{{p.n_acts}} presidential action(s) in {{p.markers|length}} year(s) on this series — before/after</summary>
+<table class="eff small"><tr><th>Year</th><th>Actions</th><th>At year</th><th>+1</th><th>+2</th><th>+4</th><th>Δ 4y</th></tr>
+{% for m in p.markers %}<tr><td>{{m.year}}</td><td class="t"><ul style="margin:0;padding-left:1rem">{% for a in m.acts %}<li>{{a.date}} <span class="tag">{{a.type}}</span> {{a.name}} — <a href="/position/{{a.position}}">{{a.title}}</a> <span class="muted">{{a.candidate_name}}</span>{% if a.verdict %} <span class="tag {{a.verdict}}">{{a.verdict}}</span>{% endif %}</li>{% endfor %}</ul></td>
+<td>{{'%g'|format(m.v0|round(2)) if m.v0 is not none else '—'}}</td><td>{{'%g'|format(m.after[1]|round(2)) if m.after[1] is not none else '—'}}</td><td>{{'%g'|format(m.after[2]|round(2)) if m.after[2] is not none else '—'}}</td><td>{{'%g'|format(m.after[4]|round(2)) if m.after[4] is not none else '—'}}</td>
+<td>{% if m.v0 is not none and m.after[4] is not none %}{{'%+g'|format((m.after[4]-m.v0)|round(2))}}{% else %}—{% endif %}</td></tr>{% endfor %}</table></details>{% endif %}
+</div>
+{% else %}<p class="muted">No indicator data in this range. Run <code>./pres indicators</code>.</p>{% endfor %}
+{% endblock %}

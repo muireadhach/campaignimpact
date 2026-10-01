@@ -1,0 +1,32 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: veterans-bonus
+categories: [veterans, budget]
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by: [bonus-army]
+title: No early payment of the veterans' bonus until the budget is balanced with a cash surplus
+solution: >
+  Do not consider anticipating payment of the adjusted-service bonus while the government runs deficits;
+  only after "a balanced budget, not only on paper, but with a surplus of cash in the treasury."
+rationale: >
+  A government "running behind two billion dollars annually" cannot add $2.3 billion of debt; Coolidge's
+  charge that Roosevelt had been silent is "baseless" because the April statement was widely published.
+notes: >
+  Roosevelt's only campaign statement on the bonus quotes his own April 1932 remark; he otherwise avoided
+  the issue and never addressed the Bonus Army eviction directly.
+statements:
+  - date: 1932-10-19
+    venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+    phase: general
+    audience: Pittsburgh crowd; national radio audience
+    doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+    quote: "I do not see how, as a matter of practical sense, a Government running behind two billion dollars annually can consider the anticipation of bonus payment until it has a balanced budget, not only on paper, but with a surplus of cash in the treasury."
+  - date: 1932-10-19
+    venue: Campaign address on the federal budget, Forbes Field, Pittsburgh
+    phase: general
+    doc: app-campaign-address-the-federal-budget-pittsburgh-pennsylvania
+    quote: "No one, for political purposes or otherwise, has the right in the absence of explicit statement from me to assume that my views have changed. They have not."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

@@ -1,0 +1,53 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: tariff-level
+categories:
+- trade
+- diplomacy
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: A
+title: Unconditional most-favored-nation treatment; no reciprocal bargains or preferences
+solution: Keep the 'historic American plan' of equal, non-discriminatory treatment of all nations through reciprocal
+  treaties guaranteeing equality of trade and residence; reject bargaining tariffs and concessions as 'unsuited
+  to America's position.'
+rationale: Reciprocity treaties have always failed (16 of 22 unconfirmed); concessions and discriminations 'are
+  producing today a large part of the frictions over tariffs in Europe'; 'you cannot surrender the welfare of one
+  industry or one locality in order to gain something for another.'
+statements:
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: The historic American plan known as the most-favored-nation principle has been our guiding program, and
+    we believe that policy to be the only one consistent with a full development of international trade, the only
+    one suitable for a country having as wide and diverse a commerce as America, and the one most appropriate for
+    us in view of the great variety of our industrial, agricultural and mineral products and the traditions of our
+    people.
+  attribution: party_platform
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: Any other plan involves bargains and partnerships with foreign nations, and as a permanent policy is unsuited
+    to America's position.
+  attribution: party_platform
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: 'Now this demonstrates just one thing: that in an intelligent democracy you cannot surrender the welfare
+    of one industry or one locality in order to gain something for another.'
+- date: '1932-10-31'
+  venue: Campaign address, Newark, New Jersey
+  phase: general
+  doc: app-address-newark-new-jersey
+  quote: Reciprocal tariff can mean only one thing, and that is that the tariffs on certain industrial products
+    from certain localities must be lowered in exchange for some hypothetical value to some other community. In
+    other words, the question of the fate of your community is to be held in the balance. That threatens continuous
+    revision and a continuous disturbance.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

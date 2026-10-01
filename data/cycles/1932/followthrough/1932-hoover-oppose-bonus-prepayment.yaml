@@ -1,0 +1,17 @@
+position: 1932-hoover-oppose-bonus-prepayment
+verdict: not_applicable
+contested: false
+summary: Hoover lost the election; the pledge could not be tested in office. Roosevelt held the same position and
+  vetoed the bonus twice; Congress overrode him in January 1936.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: veto
+  name: Bonus vetoes of 1935 and 1936 (overridden)
+  date: '1936-01-27'
+  doc: app-statement-the-payment-the-soldiers-bonus
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

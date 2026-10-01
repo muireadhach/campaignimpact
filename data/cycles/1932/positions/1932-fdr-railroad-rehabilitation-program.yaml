@@ -1,0 +1,77 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: railroad-regulation
+categories:
+- transportation
+- banking
+- industry
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Six-point railroad program — conditional federal support, receivership reform, ICC regulation of trucks and
+  holding companies, consolidation
+solution: '(1) Government support for a specified period, conditioned on scaling down top-heavy fixed charges, planned
+  jointly by the RFC and ICC under a national transportation policy; (2) overhaul federal railroad and utility receivership
+  law; (3) ICC regulation of competing motor carriers; (4) relieve the ICC of enforcing competition where traffic
+  cannot support it; (5) press lawful consolidations to conclusion; (6) put railroad holding companies under ICC
+  control. Continue lending to avert receiverships, but as a stop-gap.
+
+  '
+rationale: 'Railroads are owned indirectly by thirty million savers and policyholders; untaxed, unregulated truck
+  competition on public highways and enforced rail competition are bankrupting them; Hoover''s remedy — more RFC
+  credit — merely increases fixed charges and "makes the day of reckoning more tragic."
+
+  '
+statements:
+- date: 1932-09-17
+  venue: Campaign address on railroads, Salt Lake City, Utah
+  phase: general
+  doc: app-campaign-address-railroads-salt-lake-city-utah
+  quote: 'First: that the Government announce its intention to stand back of the railroads for a specified period,
+    help of the Government being definitely conditioned upon acceptance by the railroads of such requirements as
+    may in individual cases be found necessary to readjust top-heavy financial structures that are strangled half
+    to death today, through appropriate scaling down of fixed charges.'
+- date: 1932-09-17
+  venue: Campaign address on railroads, Salt Lake City, Utah
+  phase: general
+  doc: app-campaign-address-railroads-salt-lake-city-utah
+  quote: 'Second: To aid in the rehabilitation of roads which are unable to meet the present unprecedented strain
+    or which may succumb to past or future mismanagement, I propose a thorough overhauling of the Federal laws respecting
+    railroad receiverships and indeed of all kinds of public utility receiverships.'
+- date: 1932-09-17
+  venue: Campaign address on railroads, Salt Lake City, Utah
+  phase: general
+  doc: app-campaign-address-railroads-salt-lake-city-utah
+  quote: 'Third: I advocate the regulation by the Interstate Commerce Commission of competing motor carriers.'
+- date: 1932-09-17
+  venue: Campaign address on railroads, Salt Lake City, Utah
+  phase: general
+  doc: app-campaign-address-railroads-salt-lake-city-utah
+  quote: 'Fifth: After many long years of getting nowhere, the proposed consolidations of railroads, which are lawful
+    and in the public interest, should be pressed to a conclusion.'
+- date: 1932-09-17
+  venue: Campaign address on railroads, Salt Lake City, Utah
+  phase: general
+  doc: app-campaign-address-railroads-salt-lake-city-utah
+  quote: 'Sixth: So-called "railroad holding companies" must be definitely put under the regulation and control
+    of the Interstate Commerce Commission in like manner as railroads themselves'
+- date: 1932-09-17
+  venue: Campaign address on railroads, Salt Lake City, Utah
+  phase: general
+  doc: app-campaign-address-railroads-salt-lake-city-utah
+  quote: If elected, of course I shall continue the policy of trying to prevent receiverships. But I do not believe
+    that it is more than a stop-gap just to lend money and more money.
+- date: '1932-10-21'
+  venue: Campaign address on the eight credit groups, St. Louis
+  phase: general
+  doc: app-campaign-address-the-eight-great-credit-groups-the-nation-st-louis-missouri
+  quote: I made it a cardinal point in my railroad address that the railroads should be freed from certain destructive
+    competition and that the Government should undertake for a specified period to see the railroads through, provided
+    they put their own houses in order.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

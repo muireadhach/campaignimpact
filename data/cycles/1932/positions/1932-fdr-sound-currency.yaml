@@ -1,0 +1,38 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: currency-standard
+categories: [monetary, economy]
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: A sound currency preserved at all hazards
+solution: >
+  Preserve a sound currency "at all hazards" and call an international monetary conference to consider
+  the rehabilitation of silver and related questions. Reverse the Republican "inflation" used to fund deficits.
+rationale: >
+  Muddled government finance creates uncertainty about currency values that spreads internationally;
+  "sound money is an international necessity."
+notes: >
+  Read against 1932-fdr-restore-commodity-price-level. The campaign never defined "sound currency" as the
+  gold standard in so many words; Hoover's charge that Roosevelt intended to leave gold was not answered directly.
+statements:
+  - date: 1932-06-27
+    venue: Democratic National Convention, Chicago (platform)
+    phase: convention
+    attribution: party_platform
+    doc: app-1932-democratic-party-platform
+    quote: "We advocate a sound currency to be preserved at all hazards and an international monetary conference called on the invitation of our government to consider the rehabilitation of silver and related questions."
+  - date: 1932-07-02
+    venue: Acceptance address, Democratic National Convention, Chicago
+    phase: convention
+    attribution: candidate_direct
+    doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+    quote: "That admirable document, the platform which you have adopted, is clear. I accept it 100 percent."
+    note: Blanket endorsement of every plank.
+  - date: 1932-07-30
+    venue: Radio address from Albany on the Democratic platform
+    phase: general
+    doc: app-radio-address-the-national-democratic-platform-from-albany-new-york
+    quote: "Let us have equal courage to reverse the policy of the Republican leaders and insist on a sound currency."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

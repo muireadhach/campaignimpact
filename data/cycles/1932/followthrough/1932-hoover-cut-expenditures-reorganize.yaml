@@ -1,0 +1,19 @@
+position: 1932-hoover-cut-expenditures-reorganize
+verdict: not_applicable
+contested: false
+summary: Hoover lost the election; the pledge could not be tested in office. The reorganization authority Hoover
+  won in June 1932 was killed by the Democratic House in January 1933; Roosevelt received broader authority in the
+  Economy Act and reorganized farm credit and other agencies by executive order.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: executive_order
+  name: Executive Order 6084 and Economy Act reorganization authority
+  date: '1933-03-27'
+  doc: app-message-congress-consolidation-federal-farm-credit-agencies
+  note: Consolidation Hoover had sought was carried out by his successor.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

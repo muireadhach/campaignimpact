@@ -1,0 +1,56 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: veterans-bonus
+categories:
+- veterans
+- budget
+- monetary
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- bonus-army
+title: Oppose cash prepayment of the veterans' bonus, especially by fiat money
+solution: Continue to oppose the Patman bill's $2.3 billion cash payment of adjusted-service certificates, passed
+  by the Democratic House and killed in the Senate, and any payment financed by greenbacks.
+rationale: Prepayment would unbalance the budget and, funded by paper money, 'would have made our currency a football
+  to every speculator'; the Democratic nominee has 'refused to renounce or disavow' it.
+notes: Hoover never mentions the July 1932 eviction of the Bonus Army in these speeches.
+statements:
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: They produced the cash bonus bill. They passed that through the House of Representatives by their leadership.
+    I opposed it. It failed in the Senate. Under that bill it was proposed to expend $2,300 million. Worse still,
+    the bill that they passed provided the bonus should be paid through the creation of sheer fiat money.
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: The Democratic candidate for President has refused to renounce or disavow these destructive measures, or
+    to give the country the assurance it deserves that he will not be a party to them, including the prepayment
+    of the bonus.
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: But with all of my regard and my feeling I cannot endanger the stability of this country in this special
+    demand of a part of the veterans or any other special group.
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: But of one thing I will assure the veterans, and that is, when they are paid, they will be paid in real
+    American money.
+- date: '1932-11-04'
+  venue: Campaign address, St. Louis
+  phase: general
+  doc: app-address-st-louis-missouri
+  quote: I assure the veterans of the World War that so long as there is a Democratic Congress there never will
+    be a surplus of $2,300 million.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

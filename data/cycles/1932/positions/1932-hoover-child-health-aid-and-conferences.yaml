@@ -1,0 +1,45 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: child-welfare
+categories:
+- health
+- education
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Federal aid to states for child protection and health; continued White House conferences on children, homes
+  and illiteracy
+solution: Recommend aid to states for the protection and health of children; continue non-legislative leadership
+  through the White House Conference on Child Health and Protection, the home-ownership conference and the illiteracy
+  campaign.
+rationale: Problems of 'the home and the education of children' are 'the most vital of all' but mostly not matters
+  of legislation.
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: Except in the case of aids to States which I have recommended for stimulation of the protection and health
+    of children, they are not matters of legislation. We have given leadership to the initiative of our people for
+    social advancement through this organization against illiteracy, through the White House conferences on the
+    protection and health of children, through the national conferences on homeownership, through the stimulation
+    of social and recreational agencies.
+- date: '1932-06-14'
+  venue: Republican National Convention, Chicago (platform)
+  phase: convention
+  doc: app-republican-party-platform-1932
+  quote: Welfare work in all its phases has had the support of the President and aid of the administration. The
+    work of organized agencies--local, State and Federal has been advanced and an increased impetus given by that
+    recognition and help. We approve and pledge a continuation of that policy.
+  attribution: party_platform
+- date: '1932-10-28'
+  venue: Campaign address, Indianapolis
+  phase: general
+  doc: app-address-indianapolis-indiana
+  quote: That scarcely looks like an attempt to ruin the Children's Bureau--especially on my part.
+  note: Rebutting the Democratic charge; cites Children's Bureau appropriations of $320,000 to $399,000.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

@@ -1,0 +1,115 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: mortgage-relief
+categories:
+- banking
+- agriculture
+- relief
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+- bank-panic-1930-33
+title: Government assistance to keep home-owners and farm-owners from foreclosure
+solution: 'Make it an objective of the federal government to give the small home-owner and farm-owner at least as
+  much help against mortgage foreclosure as the Reconstruction Finance Corporation gives big banks, railroads and
+  corporations. Specific machinery came later (Springfield, Ill., Oct 21).
+
+  '
+rationale: 'The RFC''s two billion dollars reaches big banks and corporations, not the local lender or the borrower;
+  local banks foreclose against their will to stay solvent. Building "from the bottom up."
+
+  '
+statements:
+- date: 1932-04-07
+  venue: Radio address from Albany, NY ("Forgotten Man")
+  phase: primary
+  audience: national radio audience
+  doc: app-radio-address-from-albany-new-york-the-forgotten-man-speech
+  quote: Here should be an objective of Government itself, to provide at least as much assistance to the little
+    fellow as it is now giving to the large banks and corporations.
+- date: '1932-06-27'
+  venue: Democratic National Convention, Chicago (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1932-democratic-party-platform
+  quote: better financing of farm mortgages through recognized farm bank agencies at low rates of interest on an
+    amortization plan, giving preference to credits for the redemption of farms and homes sold under foreclosure.
+- date: '1932-07-02'
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: Rediscounting of farm mortgages under salutary restrictions must be expanded and should, in the future,
+    be conditioned on the reduction of interest rates. Amortization payments, maturities should likewise in this
+    crisis be extended before rediscount is permitted where the mortgagor is sorely pressed.
+- date: '1932-07-02'
+  venue: Acceptance address, Democratic National Convention, Chicago
+  phase: convention
+  doc: app-address-accepting-the-presidential-nomination-the-democratic-national-convention-chicago-1
+  quote: I aim to do the same thing, and it can be done, for the small home-owner in our cities and villages. We
+    can lighten his burden and develop his purchasing power.
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: Specifically, I am prepared to insist that Federal credit be extended to banks, insurance or loan companies,
+    or other corporations or individuals holding farm mortgages among their assets, but that these credits must
+    be made on the condition that every reasonable assistance be given to the mortgagors where the loans are sound,
+    with the purpose of preventing foreclosure.
+- date: '1932-09-14'
+  venue: Campaign address on the farm problem, Topeka, Kansas
+  phase: general
+  doc: app-campaign-address-topeka-kansas-the-farm-problem
+  quote: Lower interest rates and an extension of principal payments will save thousands of farms to their owners.
+    And hand in hand with this we must adopt the definite policy of giving those who have lost the title to their
+    farms, now held by institutions seeking credit from governmental agencies, the preferential opportunity of getting
+    their property back.
+- date: '1932-09-29'
+  venue: Campaign address on agriculture and tariffs, Sioux City, Iowa
+  phase: general
+  doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+  quote: All I can do is to promise you that when the authority of administration and recommendation to Congress
+    is placed in my hands I will do everything in my power to bring the relief that is so long overdue. I shall
+    not wait until the end of a campaign, I shall not wait until I have spent four years in the White House.
+- date: '1932-10-21'
+  venue: Campaign address on farm mortgages, Springfield, Illinois
+  phase: general
+  doc: app-campaign-address-farm-mortgages-springfield-illinois
+  quote: I propose that these powers of the Federal Farm Board shall be fully exercised to the end that this distressing
+    situation shall be immediately remedied and to the end that the enlightened purposes of the Democratic-created
+    Farm Loan Act shall be fully carried out.
+  note: Supervision of Joint Stock Land Banks' foreclosure practices.
+- date: '1932-10-21'
+  venue: Campaign address on farm mortgages, Springfield, Illinois
+  phase: general
+  doc: app-campaign-address-farm-mortgages-springfield-illinois
+  quote: As President I shall propose to Congress a definite plan for the refinancing of farm mortgages in line
+    with the principles which I stated in my Topeka speech, and which I repeated here today. I shall recommend legislation
+    to the Congress for the scaling down of amortization installments of Federal Land Bank borrowers when in the
+    judgment of bank directors conditions justify such action, with provision for deferring such unpaid amounts
+    to the end of such amortization periods. And I shall enforce such legislation.
+- date: '1932-10-21'
+  venue: Campaign address on farm mortgages, Springfield, Illinois
+  phase: general
+  doc: app-campaign-address-farm-mortgages-springfield-illinois
+  quote: My program is opposed to, and aims to stop, the ruthless foreclosure of farm mortgages.
+- date: '1932-10-21'
+  venue: Campaign address on the eight credit groups, St. Louis
+  phase: general
+  doc: app-campaign-address-the-eight-great-credit-groups-the-nation-st-louis-missouri
+  quote: We agree to the necessity of home loan banks, but, in the administration of these banks, we shall insist
+    that they shall not be subject to the unwise and improper administration that has characterized the Federal
+    and Joint Stock Land Bank Systems under which the bank makes money while the mortgagor goes unaided.
+- date: '1932-10-21'
+  venue: Campaign address on the eight credit groups, St. Louis
+  phase: general
+  doc: app-campaign-address-the-eight-great-credit-groups-the-nation-st-louis-missouri
+  quote: I seek definite action by the Federal Government and I stress the word "action" -- to prevent farmers from
+    losing their homes, to provide lower interest rates for them where, as in many cases, such rates are excessive,
+    and to extend and defer the capital payments due under the original mortgage terms.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

@@ -1,0 +1,28 @@
+position: 1932-hoover-latin-america-withdrawal
+verdict: kept
+contested: false
+summary: The Marines left Nicaragua on January 2, 1933, within the term, as pledged; Haiti's withdrawal was completed
+  by Roosevelt in 1934.
+mechanisms:
+- type: military
+  name: Withdrawal of the Marines from Nicaragua
+  date: '1933-01-02'
+  doc: mc-fdr-foreign-affairs
+  effect: Completed after the supervised election.
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-foreign-affairs
+  verdict: kept
+  reasoning: Hoover began the Good Neighbor withdrawals that Roosevelt completed.
+  quote: In actuality, Hoover began the "Good Neighbor" initiative and Roosevelt merely followed his predecessor's
+    course.
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: military
+  name: Withdrawal from Haiti
+  date: '1934-08-15'
+  doc: mc-fdr-foreign-affairs
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

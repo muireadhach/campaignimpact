@@ -1,0 +1,28 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: child-welfare
+categories: [education, health, society]
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Maintain the Children's Bureau; keep children in school to sixteen; expand vocational education
+solution: >
+  Continue the Children's Bureau and federal child-welfare work (no economies there); federal government as a
+  clearing house and incentive for higher state standards; children in school to age sixteen; more vocational
+  education — without taking from the states their control of education.
+rationale: >
+  Malnutrition among the unemployed's children affects their whole lives; the professions are oversupplied
+  and the educational system is "devised too greatly for academic training."
+statements:
+  - date: 1932-10-13
+    venue: Radio address on unemployment and social welfare, Albany
+    phase: general
+    doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+    quote: "Attempts have been made to cut the appropriations for child welfare work. It seems to me that this is the last place in which we should seek to economize."
+  - date: 1932-10-13
+    venue: Radio address on unemployment and social welfare, Albany
+    phase: general
+    doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+    quote: "The last question relates to keeping children in school to the age of sixteen. I am in favor of that. Furthermore, I go along with the thought that we must increase vocational education for those children who otherwise would not receive adequate training."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

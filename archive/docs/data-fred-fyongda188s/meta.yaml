@@ -1,0 +1,13 @@
+id: data-fred-fyongda188s
+source: fred
+kind: dataset
+title: FRED series FYONGDA188S
+date: null
+author: Federal Reserve Bank of St. Louis (FRED)
+url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=FYONGDA188S
+citation: Federal Reserve Bank of St. Louis, FRED series FYONGDA188S, https://fred.stlouisfed.org/graph/fredgraph.csv?id=FYONGDA188S
+  (retrieved 2026-09-13)
+fetched_at: '2026-09-13T08:37:42+00:00'
+sha256: 0462f726d41fada748f664cc4bd85507a40b98cf70a3fdd92608524e7a0ddf26
+notes: null
+extra: {}

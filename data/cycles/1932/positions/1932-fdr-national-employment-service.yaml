@@ -1,0 +1,42 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: employment-service
+categories:
+- labor
+- relief
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: A federally coordinated system of state employment offices (the vetoed Wagner bill)
+solution: 'Enact the Wagner employment-service bill Hoover vetoed: a nationally coordinated system of employment
+  offices operated by the states with advisory boards of employers and employees; federal leadership to stimulate
+  and coordinate state systems.
+
+  '
+rationale: Facilitates reemployment of the jobless; New York's experience shows state employment services work.
+statements:
+- date: 1932-10-13
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: As to the coordinated employment offices, I can only tell you that I was for the bills sponsored by Senator
+    Wagner of my own State and passed by the Congress. They created a nationally coordinated system of employment
+    offices operated by the individual States with the advisory cooperation of joint boards of employers and employees.
+- date: 1932-10-13
+  venue: Radio address on unemployment and social welfare, Albany
+  phase: general
+  doc: app-radio-address-unemployment-and-social-welfare-from-albany-new-york
+  quote: I am certain that the Federal Government can, by furnishing leadership, stimulate the various States to
+    set up and coordinate practical, useful systems.
+- date: '1932-10-31'
+  venue: Campaign address on unemployment, Boston Arena
+  phase: general
+  doc: app-campaign-address-program-for-unemployment-and-long-range-planning-boston-massachusetts
+  quote: The first, employment exchanges, is clearly and inescapably a task of the Federal Government, although
+    it will require the loyal and intelligent cooperation of State and local agencies throughout the land. To that
+    Federal action I pledge my administration.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: 2026-09-13
+  review_status: unreviewed

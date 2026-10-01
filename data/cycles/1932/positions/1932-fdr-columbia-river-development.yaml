@@ -1,0 +1,29 @@
+cycle: 1932
+candidate: franklin-d-roosevelt
+issue: public-power
+categories: [energy, infrastructure]
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: The next federal hydro-electric development will be on the Columbia River
+solution: >
+  Federal development of Columbia River power as the fourth regional "yardstick" project alongside the
+  St. Lawrence, Muscle Shoals and Boulder Dam, with the federal government never parting with sovereignty
+  over its power resources.
+rationale: >
+  Four government developments in the four quarters of the country "will be forever a national yardstick to
+  prevent extortion against the public and to encourage the wider use of ... electric power."
+statements:
+  - date: 1932-09-21
+    venue: Campaign address on public utilities, Portland, Oregon
+    phase: general
+    audience: Pacific Northwest; national radio audience
+    doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+    quote: "And I state, in definite and certain terms, that the next great hydro-electric development to be undertaken by the Federal Government must be that on the Columbia River."
+  - date: 1932-09-21
+    venue: Campaign address on public utilities, Portland, Oregon
+    phase: general
+    doc: app-campaign-address-portland-oregon-public-utilities-and-development-hydro-electric-power
+    quote: "I promise you this: Never shall the Federal Government part with its sovereignty or with its control over its power resources, while I am President of the United States."
+provenance: {created_by: claude-fable-5-1, created_at: 2026-09-13, review_status: unreviewed}

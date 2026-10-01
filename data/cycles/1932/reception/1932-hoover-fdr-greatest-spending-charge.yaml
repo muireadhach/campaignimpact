@@ -1,0 +1,19 @@
+cycle: 1932
+candidate: herbert-hoover
+position: 1932-hoover-cut-expenditures-reorganize
+source_type: opposition
+source_name: Franklin D. Roosevelt, Sioux City
+date: '1932-09-29'
+perceived: The Hoover administration is the greatest peacetime spender in history, piling bureau on bureau.
+fidelity: distorted
+salience: high
+doc: app-campaign-address-agriculture-and-tariffs-sioux-city-iowa
+quote: I accuse the present Administration of being the greatest spending Administration in peace times in all our
+  history.
+note: Ordinary expenditures excluding depression relief fell; total outlays rose because of RFC capital, relief
+  and construction — the same distinction Roosevelt later used for his own budgets.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

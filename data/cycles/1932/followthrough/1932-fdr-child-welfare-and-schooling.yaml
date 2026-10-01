@@ -1,0 +1,23 @@
+position: 1932-fdr-child-welfare-and-schooling
+verdict: partial
+contested: false
+summary: The Children's Bureau administered Social Security's maternal and child health and crippled children's
+  titles (1935); the National Youth Administration (1935) kept students in school with part-time work; the CCC took
+  the 18–25 cohort. Compulsory schooling to sixteen remained a state matter.
+mechanisms:
+- type: statute
+  name: Social Security Act Titles IV and V; National Youth Administration
+  date: '1935-08-14'
+  doc: app-statement-signing-the-social-security-act-0
+  consistent: 'yes'
+assessments:
+- doc: mc-fdr-domestic-affairs
+  verdict: partial
+  reasoning: The NYA employed and trained hundreds of thousands of teenagers and helped them stay in school.
+  quote: The National Youth Administration (NYA), an agency of the WPA, trained and employed hundreds of thousands
+    of teenagers and made it possible for many more young people, including the future playwright Arthur Miller,
+    to work their way through college.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

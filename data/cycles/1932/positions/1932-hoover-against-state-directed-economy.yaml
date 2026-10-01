@@ -1,0 +1,75 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: government-role-general
+categories:
+- executive_power
+- economy
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- great-depression
+title: Preserve 'ordered freedom' and equality of opportunity; reject a state-controlled or state-directed economy
+  as 'tyranny'
+solution: Meet the crisis by 'organic development' and cooperation that builds strength outside government; emergency
+  instrumentalities must supplement, not supplant, private and local initiative and be demobilized afterward; no
+  'haphazard experimentation,' no regimentation, no panaceas.
+rationale: '''The movement of true civilization is towards freedom rather than regimentation''; a state-directed
+  system means ''the regimentation of men under autocratic bureaucracy with all its extinction of liberty, of hope,
+  and of opportunity.'''
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: It does not follow, because our difficulties are stupendous, because there are some souls timorous enough
+    to doubt the validity and effectiveness of our ideals and our system, that we must turn to a State-controlled
+    or State-directed social or economic system in order to cure our troubles. That is not liberalism; that is tyranny.
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: The solution of our many problems which arise from the shifting scene of national life is not to be found
+    in haphazard experimentation or by revolution. It must be through organic development of our national life under
+    these ideals.
+- date: '1932-10-22'
+  venue: Campaign address, Olympia Arena, Detroit
+  phase: general
+  doc: app-address-detroit-michigan
+  quote: The following of will-o'-the-wisps is not being progressive. It is not being liberal. It is driving slowly
+    into the tyranny which means extinction under bureaucracy of liberty and hope and opportunity.
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: It is in the further development of this cooperation and in a sense of its responsibility that we should
+    find solution for many of the complex problems, and not by the extension of the Government into our economic
+    and social life. The greatest function a government can perform is to build up that cooperation, and its most
+    resolute action should be to deny the extension of bureaucracy.
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: Our Government is rounded on a conception that in times of great emergency, when forces are running beyond
+    the control of individuals or cooperative action, beyond the control of local communities or the States, then
+    the great reserve powers of the Federal Government should be brought into action to protect the people. But
+    when these forces have ceased there must be a return to State, local, and individual responsibility.
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: The very essence of equality of opportunity in our American system is that there shall be no monopoly or
+    domination by anybody--whether it be a group or section of the country, or whether it be business, or whether
+    it be group interest. On the contrary, our American system demands economic justice as well as political and
+    social justice; it is no system of laissez faire.
+- date: '1932-10-31'
+  venue: Campaign address, Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-2
+  quote: Men who are going about this country announcing that they are liberals because of their promises to extend
+    the Government are not liberals; they are the reactionaries of the United States.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

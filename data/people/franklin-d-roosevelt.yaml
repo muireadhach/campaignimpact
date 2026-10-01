@@ -1,0 +1,9 @@
+name: Franklin D. Roosevelt
+born: 1882-01-30
+died: 1945-04-12
+parties: [Democratic]
+offices:
+  - {office: Assistant Secretary of the Navy, start: 1913, end: 1920}
+  - {office: Governor of New York, start: 1929, end: 1932}
+  - {office: President of the United States, start: 1933-03-04, end: 1945-04-12}
+summary: Governor of New York 1929–32; Democratic nominee 1932; 32nd President, four terms.

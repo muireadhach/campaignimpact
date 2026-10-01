@@ -1,0 +1,28 @@
+cycle: 1932
+candidate: norman-thomas
+issue: health-insurance
+categories:
+- health
+- relief
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: B
+title: National health insurance
+solution: Health insurance alongside improved workmen's compensation and accident insurance.
+rationale: Part of the social-insurance floor the platform demanded.
+notes: 'Evidence B: the platform text is archived only as contemporary newspaper OCR (Milwaukee Leader, the Socialist
+  daily) and Levinson''s New Leader summary, not the official platform document.'
+statements:
+- date: '1932-05-24'
+  venue: Milwaukee Leader report of the Socialist convention platform session (May 24)
+  phase: convention
+  attribution: party_platform
+  doc: loc-sn83045293-1932-05-24-ed1-p2
+  quote: the convention 0 K'd without discus sion the planks declaring for old age pensions for men and women GO
+    years old and older; for health insurance; improved systems of workmen's compensation and acci dent insurance
+    and for the aboli tion of child labor.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed

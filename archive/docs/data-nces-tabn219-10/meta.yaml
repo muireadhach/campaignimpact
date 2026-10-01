@@ -1,0 +1,13 @@
+id: data-nces-tabn219-10
+source: nces
+kind: dataset
+title: 'NCES Digest of Education Statistics, Table 219.10: High school graduates,
+  by sex and control of school'
+date: '2022'
+author: National Center for Education Statistics
+url: https://nces.ed.gov/programs/digest/d22/tables/xls/tabn219.10.xls
+citation: NCES, Digest of Education Statistics 2022, Table 219.10, https://nces.ed.gov/programs/digest/d22/tables/xls/tabn219.10.xls
+fetched_at: '2026-09-13T08:37:45+00:00'
+sha256: 0ab7167347a3de84b62be9fc7a35f77a611d665cad9d6d2438898498fab91247
+notes: null
+extra: {}

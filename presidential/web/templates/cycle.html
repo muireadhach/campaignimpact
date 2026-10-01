@@ -1,0 +1,9 @@
+{% extends "base.html" %}{% block title %}{{cy.year}}{% endblock %}{% block body %}
+<h1>{{cy.year}} <span class="muted">· election {{cy.election_date}}</span></h1>
+<p>{{cy.summary}}</p>
+{% if events %}<h2>Context</h2><ul>{% for e in events %}<li><b>{{e.name}}</b> <span class="muted small">{{e.start}}{% if e.end and e.end!=e.start %} – {{e.end}}{% endif %}</span> — {{e.summary}}</li>{% endfor %}</ul>{% endif %}
+<h2>Candidates</h2>
+<table><tr><th>Candidate</th><th>Party</th><th>Tier</th><th>Result</th><th>Popular vote %</th><th>Electoral votes</th><th>Positions</th><th></th></tr>
+{% for k in cands %}<tr><td><a href="/candidate/{{cy.year}}/{{k.person}}"><b>{{k.name}}</b></a>{% if k.person==cy.winner %} ★{% endif %}</td><td>{{k.party}}</td><td><span class="tag">{{k.tier}}</span></td><td class="small">{{k.result or ''}}</td><td>{{k.popular_vote if k.popular_vote is not none else ''}}</td><td>{{k.electoral_vote if k.electoral_vote is not none else ''}}</td><td>{{k.n_positions}}</td>
+<td class="small">{% for o in cands %}{% if o.person!=k.person %}<a href="/compare?year={{cy.year}}&a={{k.person}}&b={{o.person}}">vs {{o.name.split(' ')[-1]}}</a> {% endif %}{% endfor %}</td></tr>{% endfor %}</table>
+{% endblock %}

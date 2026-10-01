@@ -1,0 +1,46 @@
+cycle: 1932
+candidate: herbert-hoover
+issue: war-debts
+categories:
+- diplomacy
+- agriculture
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- ww1-war-debts
+title: No cancellation of war debts; apply any annual payment to opening foreign markets for American farm products
+solution: Maintain the policy of Hoover's predecessors against cancellation; consider reducing a given annual payment
+  only for 'tangible compensation' such as expanded markets; recommend that debt receipts be used specifically to
+  open foreign markets for American agriculture; reject the Democratic plan of lowering tariffs so Europe can pay
+  from trade profits.
+rationale: Transferring the debts 'to the backs of the American people' via tariff cuts 'would be better to cancel';
+  arms reduction would let debtors pay; the 1931 moratorium and standstill 'stemmed the tide of collapse in Germany.'
+statements:
+- date: '1932-08-11'
+  venue: Address accepting the Republican nomination, Constitution Hall, Washington
+  phase: general
+  doc: app-address-accepting-the-republican-presidential-nomination
+  quote: If for any particular annual payment we were offered some other tangible form of compensation, such as
+    the expansion of markets for American agriculture and labor, and the restoration and maintenance of our prosperity,
+    then I am sure our citizens would consider such a proposal. But it is a certainty that these debts must not
+    be canceled or these burdens transferred to the backs of the American people.
+- date: '1932-10-04'
+  venue: Campaign address, Coliseum, Des Moines, Iowa
+  phase: general
+  doc: app-address-the-coliseum-des-moines-iowa
+  quote: I am prepared to go farther. I am prepared to recommend that any annual payment on the foreign debt be
+    used for the specific purpose of securing an expansion and an opening of the foreign markets for American agricultural
+    products.
+- date: '1932-10-15'
+  venue: Campaign address, Public Auditorium, Cleveland
+  phase: general
+  doc: app-address-cleveland-ohio-0
+  quote: I have consistently opposed the cancellation of these debts. The Democratic candidate, to use his own words,
+    proposes to reduce our tariffs so that out of Europe's profits through the increase of trade they would obtain
+    from the United States, they could pay us these debt annuities. That is vastly worse than cancellation.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-13'
+  review_status: unreviewed
