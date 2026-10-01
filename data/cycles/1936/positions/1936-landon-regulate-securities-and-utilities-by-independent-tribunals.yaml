@@ -1,0 +1,27 @@
+cycle: 1936
+candidate: alf-landon
+issue: securities-regulation
+categories:
+- industry
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: A
+title: Keep federal regulation of securities marketing and interstate utilities, vested in independent tribunals
+  under definite standards subject to court review
+solution: Accept the field of salutary regulation but lodge it in independent commissions acting under 'clear and
+  specific laws.'
+rationale: Regulation is 'desirable and salutary' within limits; determinations 'should be subject to review by
+  the Courts.'
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: We favor Federal regulation, within the Constitution, of the marketing of securities to protect investors.
+    We favor also Federal regulation of the interstate activities of public utilities.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,29 @@
+position: 1936-fdr-continue-reciprocal-trade-agreements
+verdict: kept
+contested: false
+summary: Congress extended the trade-agreements authority in 1937 and again in April 1940; agreements with Britain
+  and Canada (1938) were the largest of the program.
+mechanisms:
+- type: message
+  name: Statement urging extension of the trade-agreements authority
+  date: '1937-01-14'
+  doc: app-statement-urging-extension-authority-negotiate-reciprocal-trade-agreements
+  quote: Such an extension is highly desirable in the interest of our Nation.
+  effect: Three-year extension enacted March 1937.
+  consistent: 'yes'
+- type: statute
+  name: Trade agreements program renewed
+  date: '1940-04-12'
+  doc: app-statement-signing-the-reciprocal-trade-agreements-bill
+  quote: The action of the Congress in continuing the operation of the trade agreements program is expressive of
+    the determination on the part of our people to retain unimpaired, for the next three years, this powerful instrument
+  effect: Second three-year extension.
+  consistent: 'yes'
+assessments:
+- doc: app-statement-signing-the-reciprocal-trade-agreements-bill
+  verdict: kept
+  reasoning: The program survived Republican attacks in both extensions.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,67 @@
+position: 1936-fdr-balance-budget-from-rising-income
+verdict: broken
+contested: true
+summary: The January 1937 budget declared fiscal 1938 'in balance' and promised full balance in 1939; spending was
+  cut in 1937. The recession that began in August 1937 collapsed revenues, and in April 1938 the President asked
+  for $3 billion of new spending and lending. Deficits continued every year of the term, and rearmament ended the
+  question.
+mechanisms:
+- type: budget
+  name: Budget message for fiscal 1938
+  date: '1937-01-07'
+  doc: app-annual-budget-message-congress
+  quote: the 1938 Budget is in balance; and, except for debt reduction of $401,515,000, it will remain in balance
+    even if later on there are included additional expenditures of as much as $1,537,123,000 for recovery and relief.
+  effect: Claimed a balanced 1938 budget and a fully balanced 1939.
+  consistent: 'yes'
+  indicators:
+  - federal-surplus-deficit
+  - federal-outlays-pct-gdp
+- type: message
+  name: Message on eliminating unnecessary expenditures
+  date: '1937-04-13'
+  doc: app-message-all-departments-and-agencies-eliminating-unnecessary-expenditures
+  effect: Ordered agencies to cut spending.
+  consistent: 'yes'
+  indicators:
+  - federal-surplus-deficit
+- type: message
+  name: Statement summarizing the 1938 budget
+  date: '1937-10-19'
+  doc: app-statement-summarizing-the-1938-budget
+  quote: the decline in tax receipts was almost entirely responsible for the then estimated deficit of $418,000,000
+    for the fiscal year 1938.
+  effect: Admitted a growing deficit as receipts fell.
+  consistent: partly
+  indicators:
+  - federal-surplus-deficit
+- type: message
+  name: Message on stimulating recovery (spending program)
+  date: '1938-04-14'
+  doc: app-message-congress-stimulating-recovery
+  quote: It is because the course of our economics has run adversely for half a year that we owe it to ourselves
+    to turn it in the other direction before the situation becomes more definitely serious.
+  effect: 'Reversed course: $3 billion in relief, public works and lending.'
+  consistent: 'no'
+  indicators:
+  - federal-surplus-deficit
+  - federal-outlays-pct-gdp
+  - unemployment-rate-1929-42
+  - industrial-production
+assessments:
+- doc: app-message-congress-stimulating-recovery
+  verdict: broken
+  reasoning: The President chose spending over balance once the recession set in.
+- doc: app-annual-budget-message-congress
+  verdict: partial
+  reasoning: 'The attempt was real: the 1937 cuts produced the smallest deficit of the decade in fiscal 1938.'
+obstruction:
+  reasons:
+  - economy
+  - war
+  explanation: The 1937-38 recession, then rearmament from 1938.
+  doc: app-message-congress-stimulating-recovery
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

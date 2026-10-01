@@ -1,0 +1,45 @@
+cycle: 1936
+candidate: alf-landon
+issue: constitutional-amendment
+categories:
+- federalism
+- labor
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Wages, hours and child labor by State law and interstate compact -- and a constitutional amendment giving
+  the States power if the courts forbid
+solution: Support State laws and compacts against sweatshops and child labor 'within the Constitution as it now
+  stands'; if working conditions cannot be regulated by the States, favor an amendment giving the States the necessary
+  powers. Change only by amendment, never by usurpation.
+rationale: '''If added power is needed, the people have set out how that authority may be had from them if they
+  wish to give it.'''
+notes: The platform said no amendment was needed; the candidate moved to a conditional amendment after the Court's
+  1936 Tipaldo decision voided New York's minimum-wage law.
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: Support the adoption of state laws and interstate compacts to abolish sweatshops and child labor, and to
+    protect women and children with respect to maximum hours, minimum wages and working conditions. We believe that
+    this can be done within the Constitution as it now stands.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: It is not my belief that the Constitution is above change. The people have the right, by the means they
+    have prescribed, to change their form of Government to fit their wishes. If they could not do this, they would
+    not be free. But change must come by and through the people and not by usurpation.
+- date: '1936-10-29'
+  venue: Madison Square Garden, New York (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: I am on record that if proper working con dition# cannot be regulated by the States, I shall favor a constitutional
+    amendment giving the States the necessary powers.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

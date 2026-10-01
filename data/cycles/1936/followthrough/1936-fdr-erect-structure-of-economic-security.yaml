@@ -1,0 +1,39 @@
+position: 1936-fdr-erect-structure-of-economic-security
+verdict: kept
+contested: false
+summary: 'The Social Security Act was defended in court (Helvering v. Davis, May 1937), amended technically in 1938,
+  and rebuilt by the 1939 amendments: old-age insurance became old-age and survivors'' insurance with dependents''
+  and widows'' benefits, larger early benefits, and payments beginning January 1940 instead of 1942.'
+mechanisms:
+- type: message
+  name: Letter recommending amendments to the Social Security Act
+  date: '1937-12-14'
+  doc: app-letter-recommending-legislation-amending-the-social-security-act
+  effect: Technical amendments (death claims paid directly to dependents, earlier unemployment payments).
+  consistent: 'yes'
+- type: message
+  name: Transmittal of the Social Security Board report
+  date: '1939-01-16'
+  doc: app-transmittal-congress-report-the-social-security-board
+  quote: A Federal old age insurance system, the largest undertaking of its kind ever attempted, has been organized
+    and under it there have been set up individual accounts covering 42,500,000 persons
+  effect: Reported 42.5 million insured accounts and recommended the 1939 expansion.
+  consistent: 'yes'
+- type: statute
+  name: Social Security Act Amendments of 1939
+  date: '1939-08-10'
+  doc: app-statement-signing-the-social-security-act
+  quote: the federal old age insurance system which has now been converted into a system of old age and survivors'
+    insurance providing life-time family security instead of only individual old age security
+  effect: Survivors' and dependents' benefits; benefits from 1940; trust fund.
+  consistent: 'yes'
+assessments:
+- doc: app-statement-signing-the-social-security-act
+  verdict: kept
+  reasoning: The President described the amendments as 'another tremendous step forward in providing greater security.'
+  quote: These amendments to the Act represent another tremendous step forward in providing greater security for
+    the people of this country.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

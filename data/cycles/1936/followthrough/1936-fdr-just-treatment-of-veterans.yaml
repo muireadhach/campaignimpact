@@ -1,0 +1,14 @@
+position: 1936-fdr-just-treatment-of-veterans
+verdict: kept
+contested: false
+summary: No change in veterans' benefits was proposed; the bonus had been paid in 1936 over the President's veto.
+  A platform line without campaign content.
+mechanisms: []
+assessments:
+- doc: wiki-second-new-deal
+  verdict: kept
+  reasoning: Nothing was promised beyond continuation and nothing was cut.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

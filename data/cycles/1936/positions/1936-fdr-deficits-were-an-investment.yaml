@@ -1,0 +1,34 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: federal-spending-level
+categories:
+- budget
+- relief
+kind: defense_of_record
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Defense of the eight-billion-dollar deficit as an investment in America
+solution: Justify the net debt increase as the price of averting starvation and concentration of property, offset
+  by six billion in new assets; the debt will be paid out of rising national income, not oppressive taxation.
+rationale: '''To balance our budget in 1933 or 1934 or 1935 would have been a crime against the American people'';
+  ''humanity came first.'''
+statements:
+- date: '1936-10-01'
+  venue: Forbes Field, Pittsburgh
+  phase: general
+  doc: app-address-forbes-field-pittsburgh-pa
+  quote: To balance our budget in 1933 or 1934 or 1935 would have been a crime against the American people. To do
+    so we should either have had to make a capital levy that would have been confiscatory, or we should have had
+    to set our face against human suffering with callous indifference. When Americans suffered, we refused to pass
+    by on the other side. Humanity came first.
+- date: '1936-10-01'
+  venue: Forbes Field, Pittsburgh
+  phase: general
+  doc: app-address-forbes-field-pittsburgh-pa
+  quote: This debt is not going to be paid by oppressive taxation on future generations. It is not going to be paid
+    by taking away the hard-won savings of the present generation.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

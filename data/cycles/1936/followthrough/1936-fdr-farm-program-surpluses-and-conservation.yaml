@@ -1,0 +1,39 @@
+position: 1936-fdr-farm-program-surpluses-and-conservation
+verdict: kept
+contested: false
+summary: The Agricultural Adjustment Act of 1938 made price supports mandatory for corn, cotton and wheat, added
+  marketing quotas, commodity loans, the 'ever-normal granary' storage reserve and crop insurance, financed from
+  the Treasury rather than a processing tax; conservation payments continued.
+mechanisms:
+- type: statute
+  name: Agricultural Adjustment Act of 1938
+  date: '1938-02-16'
+  doc: app-statement-signing-the-agricultural-adjustment-act-1938
+  quote: The Nation is now agreed that we must have greater reserves of food and feed to use in years of damaging
+    weather and to help iron out extreme ups and downs of price.
+  effect: Price supports, marketing quotas, storage reserves.
+  consistent: 'yes'
+  indicators:
+  - farm-prices-received
+  - farm-cash-receipts
+- type: statute
+  name: AAA 1938 provisions
+  date: '1938-02-16'
+  doc: wiki-agricultural-adjustment-act-of-1938
+  quote: The act was the first to make price support mandatory for corn, cotton, and wheat to help maintain a sufficient
+    supply in low production periods along with marketing quotas to keep supply in line with market demand.
+  effect: Mandatory supports; Federal Crop Insurance Corporation.
+  consistent: 'yes'
+  indicators:
+  - farm-prices-received
+assessments:
+- doc: app-fireside-chat-14
+  verdict: kept
+  reasoning: Listed first among the 75th Congress's achievements.
+  quote: It improved still further our agricultural laws to give the farmer a fairer share of the national income,
+    to preserve our soil, to provide an all-weather granary, to help the farm tenant toward independence, to find
+    new uses for farm products, and to begin crop insurance.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

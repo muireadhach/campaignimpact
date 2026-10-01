@@ -1,0 +1,43 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: labor-hours
+categories:
+- labor
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- schechter-1935
+title: Shorter hours, higher wages, end child labor and sweatshops
+solution: Continue to seek federal action to reduce over-long hours, raise starvation wages, end child labor and
+  wipe out sweatshops; the platform promises to seek this 'within the Constitution' and by clarifying amendment
+  if necessary.
+rationale: Workers' hours, wages and conditions had 'passed beyond the control of the people'; the purchasing power
+  of the well-paid worker is the best customer of industry.
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We have increased the worker's pay and shortened his hours; we have undertaken to put an end to the sweated
+    labor of his wife and children; we have written into the law of the land his right to collective bargaining
+    and self-organization free from the interference of employers
+- date: '1936-10-16'
+  venue: Cleveland, Ohio
+  phase: general
+  doc: app-address-cleveland-ohio
+  quote: For the first time in many years the industrial workers and wage earners of America have had an Administration
+    in Washington which was determined to give them an opportunity for a fairer wage and a more decent standard
+    of working hours.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: Of course we will continue to seek to improve working conditions for the workers of America--to reduce
+    hours over-long, to increase wages that spell starvation, to end the labor of children, to wipe out sweatshops.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

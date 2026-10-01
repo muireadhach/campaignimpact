@@ -1,0 +1,30 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: mortgage-relief
+categories:
+- banking
+- relief
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Low interest rates, sounder home financing, better banking
+solution: Continue the cheap-money policy, FHA/HOLC home financing and the reformed banking system.
+rationale: Cheaper credit lightened debt for farmers, homeowners and local governments; 'it is easier to get credit.
+  It is easier to repay.'
+statements:
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: for low interest rates, for sounder home financing, for better banking, for the regulation of security
+    issues
+- date: '1936-10-14'
+  venue: Chicago
+  phase: general
+  doc: app-address-chicago-ill
+  quote: For example, we have provided a sounder and cheaper money market and a sound banking and securities system.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

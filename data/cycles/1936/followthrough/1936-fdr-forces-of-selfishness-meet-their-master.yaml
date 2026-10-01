@@ -1,0 +1,39 @@
+position: 1936-fdr-forces-of-selfishness-meet-their-master
+verdict: broken
+contested: true
+summary: 'The second term''s fights with ''organized money'' and its allies were mostly lost: the court bill (1937),
+  the reorganization bill (1938), the attempted purge of conservative Democrats (1938) and the midterm losses produced
+  the conservative coalition that dominated Congress from 1939.'
+mechanisms:
+- type: message
+  name: Fireside chat announcing intervention in Democratic primaries
+  date: '1938-06-24'
+  doc: app-fireside-chat-14
+  effect: The 'purge' of conservative Democrats; nearly all targets won.
+  consistent: 'no'
+- type: other
+  name: Conservative coalition forms
+  date: '1937-07-22'
+  doc: wiki-conservative-coalition
+  quote: The conservative coalition , founded in 1937, was an unofficial alliance of members of the United States
+    Congress which brought together the conservative wings of the Republican and Democratic parties to oppose President
+    Franklin Delano Roosevelt 's New Deal .
+  effect: Republicans and southern Democrats block further New Deal legislation.
+  consistent: 'no'
+assessments:
+- doc: wiki-conservative-coalition
+  verdict: broken
+  reasoning: The forces met a coalition, not a master.
+- doc: app-statement-court-reorganization
+  verdict: partial
+  reasoning: Roosevelt's own accounting counted the Court fight a substantive victory.
+obstruction:
+  reasons:
+  - congress
+  - party
+  explanation: Conservative Democrats joined Republicans after 1937.
+  doc: wiki-conservative-coalition
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

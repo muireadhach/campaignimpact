@@ -1,0 +1,31 @@
+cycle: 1936
+candidate: alf-landon
+issue: academic-freedom
+categories:
+- education
+- civil_rights
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: reported
+evidence_quality: B
+title: No loyalty oath for teachers that is not required of all citizens
+solution: Declared 'flatly against any oath for school teachers not required of all other citizens' -- a break with
+  Hearst and the Legion.
+rationale: '''In Kansas we believe in academic freedom and we practice it.'''
+statements:
+- date: '1936-08-23'
+  venue: Chautauqua, New York (Jay G. Hayden report, Evening Star)
+  phase: general
+  attribution: reported
+  doc: loc-sn83045462-1936-08-25-ed1-p3
+  quote: he declared flatly against any oath for school teachers not required of all other citizens.
+- date: '1936-08-23'
+  venue: Chautauqua, New York (Jay G. Hayden report, Evening Star)
+  phase: general
+  attribution: reported
+  doc: loc-sn83045462-1936-08-25-ed1-p3
+  quote: Gov. Landon added the line, "In Kansas we believe in academic freedom and we practice It.''
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

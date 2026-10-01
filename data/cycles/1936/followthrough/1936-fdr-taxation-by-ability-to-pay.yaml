@@ -1,0 +1,38 @@
+position: 1936-fdr-taxation-by-ability-to-pay
+verdict: partial
+contested: true
+summary: The Revenue Act of 1937 closed personal-holding-company and other loopholes after the tax-evasion message;
+  but the Revenue Act of 1938 (allowed to become law without signature) cut capital-gains rates and gutted the undistributed-profits
+  tax, which the 1939 Act repealed. Rates on the top brackets were not cut.
+mechanisms:
+- type: message
+  name: Message on tax evasion prevention
+  date: '1937-06-01'
+  doc: app-message-congress-tax-evasion-prevention
+  effect: Led to the Revenue Act of 1937 loophole closures.
+  consistent: 'yes'
+- type: statute
+  name: Revenue Act of 1937
+  date: '1937-08-26'
+  doc: wiki-revenue-act-of-1937
+  effect: Personal holding company and foreign-corporation loopholes closed.
+  consistent: 'yes'
+- type: statute
+  name: Revenue Act of 1938 (became law without signature)
+  date: '1938-05-28'
+  doc: wiki-undistributed-profits-tax
+  effect: Capital gains relief for the wealthy; undistributed-profits tax reduced.
+  consistent: 'no'
+assessments:
+- doc: wiki-undistributed-profits-tax
+  verdict: partial
+  reasoning: Congress, not the President, moved the structure away from ability-to-pay in 1938-39.
+obstruction:
+  reasons:
+  - congress
+  explanation: The conservative coalition rewrote the 1938 and 1939 revenue acts.
+  doc: wiki-conservative-coalition
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

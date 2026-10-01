@@ -1,0 +1,27 @@
+cycle: 1936
+candidate: william-borah
+issue: lynching
+categories:
+- civil_rights
+- federalism
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: reported
+evidence_quality: B
+title: Oppose the Wagner-Costigan federal anti-lynching bill as unconstitutional; attack party leaders who promise
+  it
+solution: Reject federal anti-lynching legislation on States'-rights grounds and denounce the leaders promising
+  it to colored voters as 'hypocritical and Intellectually dishonest.'
+rationale: The bill 'strikes at the very heart of State sovereignty.'
+statements:
+- date: '1936-05-13'
+  venue: Statement after the Ohio primary (Associated Press, Evening Star)
+  phase: primary
+  attribution: reported
+  doc: loc-sn83045462-1936-05-14-ed1-p6
+  quote: The Idahoan has long opposed this legislation on grounds of unconstitutionality. He said it "strikes at
+    the very ... of State sovereignty."
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

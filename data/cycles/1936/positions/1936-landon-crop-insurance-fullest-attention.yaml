@@ -1,0 +1,22 @@
+cycle: 1936
+candidate: alf-landon
+issue: crop-insurance
+categories:
+- agriculture
+kind: pledge_forward
+commitment_strength: vague_gesture
+attribution: candidate_direct
+evidence_quality: A
+title: Give crop insurance 'the fullest attention'
+solution: Study and develop crop insurance, a subject 'in neither platform', building on Kansas experience.
+rationale: Insurers 'are writing policies today covering risks that they did not consider feasible a few years ago.'
+statements:
+- date: '1936-09-22'
+  venue: Des Moines, Iowa (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-23-ed1-p9
+  quote: I believe that the question of crop insurance should be given the fullest atten tion.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

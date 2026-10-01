@@ -1,0 +1,30 @@
+position: 1936-fdr-support-collective-bargaining
+verdict: kept
+contested: false
+summary: The Wagner Act was upheld (NLRB v. Jones & Laughlin, April 12, 1937) and enforced through the sit-down
+  wave and the CIO's organizing drives; Roosevelt refused to appoint a commission to revise it (June 1938) though
+  he kept aloof from the GM sit-down.
+mechanisms:
+- type: litigation
+  name: Wagner Act upheld in NLRB v. Jones & Laughlin Steel
+  date: '1937-04-12'
+  doc: wiki-national-labor-relations-act-of-1935
+  quote: it was upheld in the Supreme Court case of NLRB v. Jones & Laughlin Steel Corp. , decided April 12, 1937.
+  effect: Constitutionality settled.
+  consistent: 'yes'
+- type: message
+  name: Letter refusing a commission to revise the NLRA
+  date: '1938-06-10'
+  doc: app-letter-the-national-labor-relations-act
+  quote: I wish to call to your attention the fact that I have no intention of appointing any commission to study
+    the operation of the National Labor Relations Act.
+  effect: Blocked a congressional move to reopen the Act.
+  consistent: 'yes'
+assessments:
+- doc: wiki-national-labor-relations-act-of-1935
+  verdict: kept
+  reasoning: The Act survived intact until Taft-Hartley (1947).
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

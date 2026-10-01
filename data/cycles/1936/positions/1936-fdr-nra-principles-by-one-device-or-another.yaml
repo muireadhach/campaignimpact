@@ -1,0 +1,40 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: labor-hours
+categories:
+- labor
+- industry
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: imputed_uncorrected
+evidence_quality: C
+triggered_by:
+- schechter-1935
+title: Revive the NRA's principles 'by one device or another' (imputed; the President would not say)
+solution: Widely understood -- from James Roosevelt's remarks and the President's Detroit statement that he was
+  not through experimenting -- to intend renewed federal control of wages, hours and trade practices; the President
+  answered Landon's question with 'you pay your money and you take your choice.'
+rationale: '''I do not accept the conclusion of many Republican leaders that major depressions are inevitable in
+  modern life. I believe it is the duty of government to bend every effort to prevent another major catastrophe.'''
+notes: Recorded under the project rule that positions a candidate ran on without stating or correcting are first-class.
+  The Fair Labor Standards Act (1938) was the 'other device.'
+statements:
+- date: '1936-10-20'
+  venue: Raymond Clapper column, Washington Daily News
+  phase: general
+  attribution: reported
+  doc: loc-sn82016181-1936-10-20-ed1-p2
+  quote: For Roosevelt already has given pretty clear indication that he is not thru with trying to do what he tried
+    thru NRA.
+- date: '1936-10-29'
+  venue: Landon at Madison Square Garden, as printed in the Evening Star
+  phase: general
+  attribution: opponent_characterization
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: 'One day the President''s son says the N. R. A. will be revived. The next day the President''s son says
+    it will not. When the Presi dent was asked about N. R. A. last Tuesday in a press conference, he said: "You
+    pay your money and you take your choice." What does he mean? The answer is: No one can be sure.'
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

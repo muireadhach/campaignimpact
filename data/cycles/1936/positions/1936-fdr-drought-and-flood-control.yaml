@@ -1,0 +1,35 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: flood-control
+categories:
+- infrastructure
+- agriculture
+- environment
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- drought-1936
+- dust-bowl
+title: Continue drought and flood aid and a nation-wide flood-control and water-conservation policy
+solution: Aid those visited by drought and floods; conserve water 'from its source to the sea'; a national flood-control
+  policy.
+rationale: The 1936 drought and the spring floods of 1936 made disaster aid one of government's 'inescapable obligations.'
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We have aided and will continue to aid those who have been visited by widespread drought and floods, and
+    have adopted a Nation-wide flood-control policy.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: for the conservation of water all the way from its source to the sea, for drought and flood control
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,36 @@
+position: 1936-fdr-reduce-farm-tenancy
+verdict: partial
+contested: false
+summary: The farm-tenancy message (Feb. 1937) produced the Bankhead-Jones Farm Tenant Act (July 22, 1937) and the
+  Farm Security Administration, but the tenant-purchase program was 'modest' -- a few thousand loans a year against
+  2.8 million tenants.
+mechanisms:
+- type: message
+  name: Message on farm tenancy
+  date: '1937-02-06'
+  doc: app-message-congress-farm-tenancy
+  quote: The agricultural ladder, for these American citizens, has become a treadmill.
+  effect: Transmitted the Special Committee report; asked for action.
+  consistent: 'yes'
+- type: statute
+  name: Bankhead-Jones Farm Tenant Act
+  date: '1937-07-22'
+  doc: wiki-bankhead-jones-farm-tenant-act
+  quote: the law authorized a modest credit program to assist tenant farmers to purchase land, and it was the culmination
+    of a long effort to secure legislation for their benefit.
+  effect: Tenant-purchase loans; land utilization.
+  consistent: partly
+- type: other
+  name: Farm Security Administration created
+  date: '1937-09-01'
+  doc: wiki-farm-security-administration
+  effect: Rural rehabilitation and resettlement.
+  consistent: 'yes'
+assessments:
+- doc: wiki-bankhead-jones-farm-tenant-act
+  verdict: partial
+  reasoning: Real but small relative to the problem the message described.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

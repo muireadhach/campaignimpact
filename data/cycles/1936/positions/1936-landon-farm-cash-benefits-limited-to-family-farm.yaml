@@ -1,0 +1,62 @@
+cycle: 1936
+candidate: alf-landon
+issue: agricultural-prices
+categories:
+- agriculture
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- butler-1936
+title: Cash benefits on the domestically consumed portion of export crops to make the tariff effective, limited
+  to the family-type farm; no scarcity program, no processing tax
+solution: Replace the AAA/soil-conservation 'subterfuge' with payments giving growers of hogs, wheat, cotton and
+  tobacco 'an American and not a foreign price', capped at family-farm production levels, financed within a balanced
+  budget; protect the home market.
+rationale: The AAA 'rewarded scarcity and penalised plenty', took the farmer out of foreign markets and 'put the
+  foreign farmer into the American market'; the administration 'is still without a settled, workable, national policy
+  for agriculture.'
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: To provide in the case of agricultural products of which there are exportable surpluses, the payment of
+    reasonable benefits upon the domestically consumed portion of such crops in order to make the tariff effective.
+    These payments are to be limited to the production level of the family type farm.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: Until these disadvantages are eliminated we propose to pay cash benefits in order to cushion our farm families
+    against the disastrous effects of price fluctuations and to protect their standard of living.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: The benefits which will be paid under our program will go no higher than the production level of the family
+    type of farm.
+- date: '1936-09-22'
+  venue: Des Moines, Iowa (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-23-ed1-p9
+  quote: We're going to see to it that the fanner whose crops have to be sold on a world market gets the equivalent
+    of a really effective tariff.
+- date: '1936-09-22'
+  venue: Des Moines, Iowa (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-23-ed1-p9
+  quote: I am far more interested in seeing farmers paid for growing the things we know we need than in paying them
+    for not growing the things we think we don't need.
+- date: '1936-10-29'
+  venue: Madison Square Garden, New York (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: We can do this without violating the Constitution. We can do this' without imposing such burdens as the
+    processing tax upon the con sumer.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

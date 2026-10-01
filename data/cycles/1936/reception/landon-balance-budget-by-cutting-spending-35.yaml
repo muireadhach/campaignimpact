@@ -1,0 +1,18 @@
+cycle: 1936
+candidate: alf-landon
+position: 1936-landon-balance-budget-by-cutting-spending
+source_type: historiography
+source_name: 'Miller Center, ''FDR: Campaigns and Elections'' (Leuchtenburg)'
+date: '1936-11-03'
+perceived: The 1936 result was read by historians as a referendum endorsing the New Deal's activist state over Landon's
+  economy-and-Constitution appeal.
+fidelity: accurate
+salience: high
+doc: mc-fdr-campaigns-and-elections
+quote: 1936 FDR had lost most of the backing he once held in the business community because of his support for the
+  Wagner Act and the Social Security Act.
+evidence_quality: C
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

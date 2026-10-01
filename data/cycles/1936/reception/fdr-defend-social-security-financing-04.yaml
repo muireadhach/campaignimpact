@@ -1,0 +1,19 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+position: 1936-fdr-defend-social-security-financing
+source_type: news_coverage
+source_name: David Lawrence, Evening Star (syndicated)
+date: '1936-10-28'
+perceived: Upstate New York workers, discovering the payroll tax, were shifting to Landon in an eleventh-hour protest;
+  the administration's reply that employers also pay made matters worse once workers learned the employer rate would
+  rise to 3 percent.
+fidelity: distorted
+salience: high
+doc: loc-sn83045462-1936-10-28-ed1-p11
+quote: It is an eleventh hour shift to Lan don as a protest by laboring men who are discover ing what the New Deal
+  means to them concretely In terms of the new pay roll tax.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

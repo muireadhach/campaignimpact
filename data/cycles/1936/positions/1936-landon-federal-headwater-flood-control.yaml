@@ -1,0 +1,24 @@
+cycle: 1936
+candidate: alf-landon
+issue: flood-control
+categories:
+- infrastructure
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: B
+title: Federal construction of head-water storage basins to prevent floods, with the consent of the States concerned
+solution: Federal flood-control works subject to approval of State legislatures and executives.
+rationale: The 1936 floods; State consent preserves the federal balance.
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: We favor the construction by the Federal Government of head-water storage basins to prevent floods, subject
+    to the approval of the legislative and executive branches of the government of the States whose lands are concerned.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

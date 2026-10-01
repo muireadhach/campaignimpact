@@ -1,0 +1,31 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: radicalism-and-communism
+categories:
+- elections
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Repudiate Communist support; the New Deal is the answer to Communism, not its ally
+solution: 'Reject the ''red herring'': neither seek nor accept support from advocates of Communism or any alien
+  ''ism''; meet radicalism by curing the conditions that breed it.'
+rationale: Communism 'is a manifestation of the social unrest which always comes with widespread economic maladjustment';
+  'reaction is no barrier to the radical, it is a challenge, a provocation.'
+statements:
+- date: '1936-09-29'
+  venue: Democratic State Convention, Syracuse, New York
+  phase: general
+  doc: app-address-the-democratic-state-convention-syracuse-ny
+  quote: I have not sought, I do not seek, I repudiate the support of any advocate of Communism or of any other
+    alien "ism" which would by fair means or foul change our American democracy.
+- date: '1936-09-29'
+  venue: Democratic State Convention, Syracuse, New York
+  phase: general
+  doc: app-address-the-democratic-state-convention-syracuse-ny
+  quote: There is no difference between the major parties as to what they think about Communism. But there is a
+    very great difference between the two parties in what they do about Communism.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

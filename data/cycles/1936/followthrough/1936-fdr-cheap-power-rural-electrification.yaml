@@ -1,0 +1,28 @@
+position: 1936-fdr-cheap-power-rural-electrification
+verdict: kept
+contested: false
+summary: REA lending continued and expanded; Bonneville and Grand Coulee came on line under public marketing; TVA
+  survived its court test (1939) and the President sought further TVA funds in 1940.
+mechanisms:
+- type: statute
+  name: Rural Electrification Act operations (1936-)
+  date: '1936-05-20'
+  doc: wiki-rural-electrification-act
+  quote: Rayburn stated in 1959 that ninety percent of farm homes in the U.S. were electrified, compared to three
+    percent in the early 1930s.
+  effect: Cooperative-based rural power lines.
+  consistent: 'yes'
+- type: message
+  name: Message on the Tennessee Valley Authority
+  date: '1940-01-15'
+  doc: app-message-congress-the-tennessee-valley-authority
+  effect: Continued support for the yardstick system.
+  consistent: 'yes'
+assessments:
+- doc: wiki-rural-electrification-act
+  verdict: kept
+  reasoning: Farm electrification rose from about 10 percent in 1935 to a quarter of farms by 1940.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

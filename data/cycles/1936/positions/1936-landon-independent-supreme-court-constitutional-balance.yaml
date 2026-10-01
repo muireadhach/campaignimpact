@@ -1,0 +1,51 @@
+cycle: 1936
+candidate: alf-landon
+issue: judicial-independence
+categories:
+- federalism
+- executive_power
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- schechter-1935
+- butler-1936
+title: An independent Supreme Court secure from executive or legislative invasion; maintain the balance between
+  States and nation
+solution: Resist all attempts to impair the Court's authority; keep within the Constitution; oppose the lodging
+  of reserved powers in the Chief Executive.
+rationale: Nine acts declared unconstitutional; the President 'has publicly belittled the Supreme Court'; in nations
+  where courts are undermined 'the rights and liberties are gone.'
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: To maintain the American system of Constitutional and local self government, and to resist all attempts
+    to impair the authority of the Supreme Court of the United States, the final protector of the rights of our
+    citizens against the arbitrary encroachments of the legislative and executive branches of government. There
+    can be no individual liberty without an independent judiciary.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: Shall we continue to delegate more and more power to the Chief Executive or do we desire to preserve the
+    American form of government? Shall we continue to recognize that certain rights reside with the people, that
+    certain powers are reserved for the States, and that certain functions are delegated to the Federal Government?
+- date: '1936-10-13'
+  venue: Detroit (Washington Times text)
+  phase: general
+  doc: loc-sn84026749-1936-10-14-ed1-p4
+  quote: When this final stage is reached --when the independence of the courts is destroyed--the rights and liberties
+    are gone. The people are then at the mercy of the Execu tive.
+- date: '1936-10-29'
+  venue: Madison Square Garden, New York (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: I believe in an independent Su preme Court and judiciary, secure from executive or legislative in vasion.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

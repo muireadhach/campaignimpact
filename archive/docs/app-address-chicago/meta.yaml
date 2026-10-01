@@ -1,0 +1,13 @@
+id: app-address-chicago
+source: app
+kind: speech
+title: Address at Chicago.
+date: '1937-10-05'
+author: Franklin D. Roosevelt
+url: https://www.presidency.ucsb.edu/documents/address-chicago
+citation: Franklin D. Roosevelt, "Address at Chicago.," 1937-10-05. The American Presidency
+  Project, https://www.presidency.ucsb.edu/documents/address-chicago
+fetched_at: '2026-09-13T09:34:37+00:00'
+sha256: f8742aac3df97103be1850160724ddb71e66fd93fdaa80e3eb08bd8bd502dc02
+notes: null
+extra: {}

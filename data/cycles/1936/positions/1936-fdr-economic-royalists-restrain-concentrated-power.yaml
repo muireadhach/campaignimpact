@@ -1,0 +1,38 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: economic-royalists
+categories:
+- industry
+- elections
+kind: pledge_forward
+commitment_strength: vague_gesture
+attribution: candidate_direct
+evidence_quality: A
+title: 'Take power from the ''economic royalists'': the mandate of 1932 is to end economic tyranny'
+solution: Use the organized power of government to give the average citizen 'equal opportunity in the market place'
+  against concentrated control of other people's money, property and labor.
+rationale: Political equality won in 1776 was 'meaningless in the face of economic inequality'; 'freedom is no half-and-half
+  affair.'
+statements:
+- date: '1936-06-27'
+  venue: Acceptance address, Franklin Field, Philadelphia
+  phase: convention
+  doc: app-acceptance-speech-for-the-renomination-for-the-presidency-philadelphia-pa
+  quote: For out of this modern civilization economic royalists carved new dynasties. New kingdoms were built upon
+    concentration of control over material things.
+- date: '1936-06-27'
+  venue: Acceptance address, Franklin Field, Philadelphia
+  phase: convention
+  doc: app-acceptance-speech-for-the-renomination-for-the-presidency-philadelphia-pa
+  quote: Today we stand committed to the proposition that freedom is no half-and-half affair. If the average citizen
+    is guaranteed equal opportunity in the polling place, he must have equal opportunity in the market place.
+- date: '1936-10-14'
+  venue: Chicago
+  phase: general
+  doc: app-address-chicago-ill
+  quote: A dangerous thing was happening. Half of the industrial corporate wealth of the country had come under
+    the control of less than two hundred huge corporations.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,18 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+position: 1936-fdr-wages-hours-child-labor
+source_type: news_coverage
+source_name: David Lawrence, Evening Star, congressional forecast
+date: '1936-11-02'
+perceived: Even with a Roosevelt victory, a conservative coalition of both parties might control Congress and check
+  'drastic regulation'.
+fidelity: accurate
+salience: medium
+doc: loc-sn83045462-1936-11-02-ed1-p11
+quote: ONTROL of both houses of Congress would seem to be I assured to a coalition of eon servatlve Democrat and
+  Re publicans.
+evidence_quality: B
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

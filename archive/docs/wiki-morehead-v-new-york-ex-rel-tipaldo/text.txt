@@ -1,0 +1,23 @@
+Morehead v. New York ex rel. Tipaldo , 298 U.S. 587 (1936), was a case in which the Supreme Court of the United States held that New York State 's minimum wage law for women violates the Due Process Clause of the Fourteenth Amendment by infringing upon the freedom of contract between employers and adult female employees. The Court reaffirmed its prior holding in Adkins v. Children's Hospital , which was overturned the very next year in West Coast Hotel Co. v. Parrish in what has since become known as the switch in time that saved nine .
+Decision
+Justice Pierce Butler delivered the majority opinion in a 5-4 decision invalidating the minimum wage law for violating the liberty of contract protected against state infringement by the Due Process Clause of the Fourteenth Amendment.
+He began by reaffirming Adkins as controlling precedent, suggesting that there was no material distinction between the D.C. minimum wage law for women enacted by Congress in that case and the New York law at issue.
+Next Justice Butler addressed Nebbia v. New York , which New York had relied upon to sustain the validity of its wage law. Justice Butler rejected the state's reliance on Nebbia , clarifying that that case dealt with price controls in the milk industry, a business affected with a public interest. He argued that wage contracts binding private employers and adult women employees were distinct and could not be similarly regulated.
+Relying on the principles announced in Adkins , Justice Butler found that New York's law was not a valid exercise of the police power , as it was not necessary for protecting health or safety, but merely attempted to establish a subjective standard of fairness. While acknowledging that the freedom of contract is not absolute, Justice Butler concluded that the Due Process Clause of the Fourteenth Amendment does not permit states to require employers to pay a minimum wage. Accordingly, the judgment of the New York Court of Appeals was affirmed.
+Dissent
+Chief Justice Charles Evans Hughes authored the lead dissent, joined by Justices Brandeis, Stone, and Cardozo. He argued that New York's wage law was a valid exercise of the state's police power intended to protect the health and welfare of working women.
+To begin, the Chief Justice rejected the Court's reliance on Adkins , distinguishing the law at hand from the one at issue in that case. He reiterated that states have broad authority to protect the health, safety, and welfare of their citizens, even if such would result in limitations of the freedom of contract.
+Justice Harlan Stone , joined by Justices Brandeis and Cardozo , authored a separate dissent. He argued that Adkins was wrongly decided and should be overturned, suggesting that reasonable economic legislation should be subject to deferential review.
+Aftermath
+Morehead's precedential force was permanently weakened less than one year after the decision, when the Court decided West Coast Hotel Co. v. Parrish . In West Coast Hotel , Justice Owen Roberts reversed his position in Morehead , voting with the dissenters to form a new majority upholding Washington's minimum wage law for women. This became known as the switch in time that saved nine , scuttling President Franklin Delano Roosevelt's proposed court packing plan .
+While Chief Justice Hughes's opinion for the Court in West Coast Hotel overruled Adkins and distinguished Tipaldo , the case is effectively no longer good law .
+References
+↑ Morehead_v._New_York_ex_rel._Tipaldo , 298 U.S. 587 (1936) .
+↑ 298 U.S. at 607-611.
+↑ 298 U.S. at 610-611.
+↑ 298 U.S. at 610-612.
+↑ 298 U.S. 587.
+↑ 300 U.S. 400.
+External links
+Works related to Morehead v. New York ex rel. Tipaldo at Wikisource
+Text of Morehead v. New York ex rel. Tipaldo , 298 U.S. 587 (1936) is available from: Cornell Internet Archive (docket files) Justia Library of Congress Oyez (oral argument audio)

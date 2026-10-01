@@ -1,0 +1,51 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: constitutional-amendment
+categories:
+- federalism
+- executive_power
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: B
+triggered_by:
+- schechter-1935
+- butler-1936
+title: Meet constitutional obstacles by 'clarifying amendment' -- and say nothing about the Supreme Court
+solution: Seek legislation within the Constitution; if problems like wages, hours and child labor cannot be solved
+  that way, seek a clarifying amendment giving Congress and the States the needed power. The candidate never said
+  how he would deal with the Court's adverse decisions.
+rationale: Drought, floods, minimum wages, child labor and monopoly 'cannot be adequately handled exclusively by
+  48 separate State legislatures'; the platform's amendment route was the only method on record.
+notes: 'The user''s ''ran on an opinion never stated or corrected'' case: voters had only the platform''s amendment
+  pledge and the President''s silence; the court-reorganization bill of February 1937 was the answer.'
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: If these problems cannot be effectively solved by legislation within the Constitution, we shall seek such
+    clarifying amendment as will assure to the legislatures of the several States and to the Congress of the United
+    States, each within its proper jurisdiction, the power to enact those laws which the State and Federal legislatures,
+    within their respective spheres, shall find necessary
+- date: '1936-10-29'
+  venue: Landon at Madison Square Garden, as printed in the Evening Star
+  phase: general
+  attribution: opponent_characterization
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: 'And what are the Intentions of the President with respect to the Constitution? Does he believe changes
+    are required? If so. will an amendment be submitted to the people, or will he attempt to get around the Constitution
+    by tam pering with the Supreme Court? The answer is: No one can be sure.'
+  note: Landon's closing challenge; Roosevelt did not answer it.
+- date: '1936-10-14'
+  venue: Evening Star editorial, 'Landon's Challenge'
+  phase: general
+  attribution: reported
+  doc: loc-sn83045462-1936-10-14-ed1-p12
+  quote: By his silence on this he is dodging the fundamental issue of this campaign, the issue of whether he in
+    tends to change the form of our Gov ernment
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

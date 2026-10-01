@@ -1,0 +1,17 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+position: 1936-fdr-repudiate-communist-support
+source_type: opposition
+source_name: Chicago Tribune editorial (Republican), quoted in the Evening Star
+date: '1936-11-05'
+perceived: Despite the Syracuse repudiation, the Tribune still counted Browder among those Roosevelt might turn
+  to.
+fidelity: inverted
+salience: medium
+doc: loc-sn83045462-1936-11-05-ed1-p8
+quote: if not at once to Brow der, that Mr. Roosevelt will turn for counsel.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

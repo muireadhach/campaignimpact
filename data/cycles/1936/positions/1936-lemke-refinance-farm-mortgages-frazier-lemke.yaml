@@ -1,0 +1,36 @@
+cycle: 1936
+candidate: william-lemke
+issue: mortgage-relief
+categories:
+- agriculture
+- monetary
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: reported
+evidence_quality: C
+title: Refinance farm mortgages through the Frazier-Lemke plan (government-issued credit at low interest)
+solution: 'The ''inflationary farm mortgage bill'' Lemke authored: federal refinancing of farm debt with currency
+  issued for the purpose, blocked by the administration and the House in 1936.'
+rationale: Bitterness over the administration's opposition to the refinance bill was widely taken as Lemke's motive
+  for the Union candidacy.
+notes: The Union Party's platform text is not in the archive; positions rest on contemporary reports and Coughlin's
+  broadcasts.
+statements:
+- date: '1936-06-19'
+  venue: Announcement of the Union ticket (United Press, Waterbury Democrat)
+  phase: general
+  attribution: reported
+  doc: loc-sn82014085-1936-06-20-ed1-p1
+  quote: A third party ticket, headed by Rep. William Lemke, N. D„ author of the Inflationary farm mortgage bill,
+    en tered the 1936 president sweep stakes today
+- date: '1936-06-22'
+  venue: Jay G. Hayden column, Evening Star
+  phase: general
+  attribution: reported
+  doc: loc-sn83045462-1936-06-22-ed1-p6
+  quote: Now, however, the Cough lin-Lemke group is stepping out ahead of him and proposing to go much fur ther
+    in the inflationists' direction than he so far has been wi
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

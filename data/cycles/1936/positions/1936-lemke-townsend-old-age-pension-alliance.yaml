@@ -1,0 +1,26 @@
+cycle: 1936
+candidate: william-lemke
+issue: old-age-insurance
+categories:
+- relief
+kind: pledge_forward
+commitment_strength: vague_gesture
+attribution: reported
+evidence_quality: C
+triggered_by:
+- townsend-movement
+title: The Townsend $200-a-month pension as a plank of the Union coalition
+solution: Absorb the Townsend clubs into the Union ticket; Dr. Townsend endorsed Lemke at Cleveland in August.
+rationale: The Townsend, Coughlin and Share Our Wealth followings were the ticket's only mass base.
+statements:
+- date: '1936-08-13'
+  venue: G. Gould Lincoln, 'The Political Mill', Evening Star
+  phase: general
+  attribution: reported
+  doc: loc-sn83045462-1936-08-13-ed1-p10
+  quote: It looks at the present writing as though Dr. Townsend--$200-a-month old-age-pension planner--was Intent
+    upon hooking up also with the Lemke O'Brien ticket.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

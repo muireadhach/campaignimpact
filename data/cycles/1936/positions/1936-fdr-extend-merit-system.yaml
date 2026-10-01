@@ -1,0 +1,31 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: civil-service-reform
+categories:
+- civil_service
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: party_platform
+evidence_quality: A
+title: Immediately extend the merit system to all non-policy-making federal positions
+solution: Bring under the civil service law all continuing positions exempted during the emergency.
+rationale: '''For the protection of government itself and promotion of its efficiency.'''
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: we pledge the immediate extension of the merit system through the classified civil service--which was first
+    established and fostered under Democratic auspices--to all non-policy-making positions in the Federal service.
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We shall subject to the civil service law all continuing positions which, because of the emergency, have
+    been exempt from its operation.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

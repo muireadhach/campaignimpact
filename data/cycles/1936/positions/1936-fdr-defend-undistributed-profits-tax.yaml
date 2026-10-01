@@ -1,0 +1,32 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: taxation-progressivity
+categories:
+- taxation
+- industry
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Defense of the undistributed-profits tax as a loophole-closer; correct imperfections if found
+solution: Keep the 1936 surtax on retained corporate earnings as an extension of the individual income tax, while
+  correcting defects in application.
+rationale: It plugs loopholes usable only by men of very large incomes and lets stockholders, not directors, decide
+  whether earnings are reinvested; 98.5 percent of corporations pay a smaller normal tax.
+statements:
+- date: '1936-10-21'
+  venue: Worcester, Massachusetts
+  phase: general
+  doc: app-address-worcester-mass
+  quote: This new tax, called the undistributed profits tax, is merely an extension of the individual income tax
+    law and a plugging-up of the loopholes in it, loopholes which could be used only by men of very large incomes.
+- date: '1936-10-21'
+  venue: Worcester, Massachusetts
+  phase: general
+  doc: app-address-worcester-mass
+  quote: What we are concerned with primarily is principle, and the principle of this law is sound. If in its application
+    imperfections are discovered, they must be corrected for the good of American business.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,34 @@
+cycle: 1936
+candidate: alf-landon
+issue: drought-relief
+categories:
+- agriculture
+- relief
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- drought-1936
+title: Pay every outstanding AAA check and continue drought relief checks and seed loans
+solution: Fulfill all obligations the administration made with farmers who carried out their end; continue relief
+  checks, seed loans and other aid to drought-hit farmers until they can raise a crop, 'promptly' and without politics.
+rationale: '''We will not allow needless suffering in this country--either on our farms or in our cities.'''
+statements:
+- date: '1936-09-22'
+  venue: Des Moines, Iowa (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-23-ed1-p9
+  quote: If I am elected, I shall fulfill all outstand ing obligations made by the present administration with the
+    American farmer. By this I mean that those who have carried out their end of the bargain will receive the checks
+    due them.
+- date: '1936-09-22'
+  venue: Des Moines, Iowa (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-23-ed1-p9
+  quote: Those of our fanners hard hit by the drought will be generously provided for until they can raise a crop.
+    This means the continua tion of relief checks!
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

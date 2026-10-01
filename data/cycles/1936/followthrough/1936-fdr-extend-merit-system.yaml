@@ -1,0 +1,46 @@
+position: 1936-fdr-extend-merit-system
+verdict: partial
+contested: false
+summary: Roosevelt urged blanket coverage in 1937 and 1938, but the 1938 reorganization bill carrying civil-service
+  reform failed and Congress kept exempting new agencies. The Hatch Act (1939) applied civil-service political rules
+  to all federal employees, and the Ramspeck Act (Nov. 1940) finally authorized extension to most positions -- late
+  and by congressional initiative.
+mechanisms:
+- type: message
+  name: Letters urging extension of the merit system
+  date: '1937-06-02'
+  doc: app-letters-the-extension-the-merit-system-the-civil-service
+  quote: I would, therefore, urge upon the Congress that all but policy-forming positions be placed within its provisions.
+  effect: Asked that all but policy-forming positions be covered.
+  consistent: 'yes'
+- type: message
+  name: Statement on the federal civil service merit system
+  date: '1938-01-19'
+  doc: app-statement-the-federal-civil-service-merit-system
+  quote: I have recommended and I support legislation for the extension of classified civil service upward, outward,
+    and downward.
+  effect: Restated support for extension 'upward, outward, and downward.'
+  consistent: 'yes'
+- type: statute
+  name: Hatch Act
+  date: '1939-08-02'
+  doc: app-message-congress-the-hatch-act
+  quote: this measure is in harmony with the policy that I have consistently advocated during all my public life,
+    namely, the wider extension of Civil Service as opposed to its curtailment.
+  effect: Political-activity rules extended to all federal employees.
+  consistent: partly
+assessments:
+- doc: app-message-congress-the-hatch-act
+  verdict: partial
+  reasoning: Roosevelt noted that nearly all exemptions had 'originated in the Congress itself and not in the Executive.'
+  quote: It is worth noting that nearly all exemptions from the Civil Service, which have been made during the past
+    six years and a half, have originated in the Congress itself and not in the Executive.
+obstruction:
+  reasons:
+  - congress
+  explanation: Patronage-minded Congress; reorganization bill defeated April 1938.
+  doc: app-letter-the-defeat-the-reorganization-bill
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

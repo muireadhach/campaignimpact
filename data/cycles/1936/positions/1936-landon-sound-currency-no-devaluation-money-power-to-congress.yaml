@@ -1,0 +1,40 @@
+cycle: 1936
+candidate: alf-landon
+issue: currency-standard
+categories:
+- monetary
+- executive_power
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Sound currency 'at all hazards'; no further devaluation; repeal the laws delegating the money power to the
+  Executive
+solution: Restore to Congress the power to coin money and regulate its value by repealing the gold-devaluation,
+  greenback and stabilization-fund delegations; cooperate on international stabilization when safe.
+rationale: '''One man, without notice, can alter the value of the dollar--can threaten the savings and the purchasing
+  power of the wages of every man and woman in this country.'''
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: We oppose further devaluation of the dollar. We will restore to the Congress the authority lodged with
+    it by the Constitution to coin money and regulate the value thereof by repealing all the laws delegating this
+    authority to the Executive.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: We must be freed from the effects of an arbitrary and uncertain monetary policy.
+- date: '1936-10-13'
+  venue: Detroit (Washington Times text)
+  phase: general
+  doc: loc-sn84026749-1936-10-14-ed1-p4
+  quote: The President, in the name of emergency, has acquired almost complete control over the money and credit
+    system of the nation.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

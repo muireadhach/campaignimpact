@@ -1,0 +1,33 @@
+cycle: 1936
+candidate: frank-knox
+issue: federal-budget-balance
+categories:
+- budget
+- monetary
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: reported
+evidence_quality: B
+title: A budget balanced immediately and a currency based on and convertible into gold
+solution: Balance the budget at once; return to a gold-based, convertible currency 'as swiftly as possible'; no
+  coercion in business or agriculture.
+rationale: Credit adulteration and currency experiment 'demoralised foreign trade and frighten[ed] domestic finance.'
+statements:
+- date: '1936-05-13'
+  venue: Seattle (Associated Press, Evening Star)
+  phase: primary
+  attribution: reported
+  doc: loc-sn83045462-1936-05-14-ed1-p6
+  quote: Knox, continuing his campaign with an address last night at Seattle, de clared he stood "uncompromisingly
+    for a budget to be balanced immediately."
+- date: '1936-05-13'
+  venue: Seattle (Associated Press, Evening Star)
+  phase: primary
+  attribution: reported
+  doc: loc-sn83045462-1936-05-14-ed1-p6
+  quote: '"I believe in a sound and stabilized currency based upon gold, and made convertible Into gold as swiftly
+    as possible." he said.'
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,17 @@
+party: Union
+tier: notable_no_chance
+result: Lost; 892,378 votes (1.96%), no electoral votes
+popular_vote_pct: 1.96
+electoral_vote: 0
+summary: Announced June 19, 1936 with Coughlin's National Union for Social Justice behind him; endorsed by Townsend
+  and Gerald L. K. Smith at Cleveland in August. Coughlin promised nine million votes and quit radio when Lemke
+  got under a million. Not on the ballot in several states.
+sources:
+- wiki-william-lemke
+- wiki-union-party-united-states
+- wiki-charles-coughlin
+- loc-sn82014085-1936-06-20-ed1-p1
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

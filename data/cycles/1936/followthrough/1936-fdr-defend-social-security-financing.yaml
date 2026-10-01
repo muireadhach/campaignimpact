@@ -1,0 +1,29 @@
+position: 1936-fdr-defend-social-security-financing
+verdict: partial
+contested: true
+summary: 'The payroll-tax structure survived (Helvering v. Davis upheld it in 1937), but the 1939 amendments conceded
+  much of Landon''s critique: the 1937 rate was frozen at 1 percent through 1942, the ''Old-Age Reserve Account''
+  was replaced by a trust fund, and the system moved toward pay-as-you-go while early benefits were enlarged.'
+mechanisms:
+- type: statute
+  name: Social Security Act Amendments of 1939 (financing changes)
+  date: '1939-08-10'
+  doc: wiki-social-security-act
+  quote: The Old-Age Reserve Account previously established under §201 of the Act was replaced by the Federal Old-Age
+    and Survivors Insurance Trust Fund, administered by a Board of Trustees.
+  effect: Reserve account replaced by a trust fund; scheduled tax increase postponed.
+  consistent: partly
+assessments:
+- doc: app-statement-signing-the-social-security-act
+  verdict: kept
+  reasoning: Roosevelt presented the 1939 changes as strengthening, not retreat.
+  quote: we must expect a great program of social legislation, such as is represented in the Social Security Act,
+    to be improved and strengthened in the light of additional experience and understanding.
+- doc: wiki-social-security-act
+  verdict: partial
+  reasoning: The reserve the President had defended in 1936 was abolished in favor of a trust fund and a frozen
+    tax rate -- the substance of the 'I.O.U.' criticism.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

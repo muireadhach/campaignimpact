@@ -1,0 +1,28 @@
+position: 1936-fdr-economic-royalists-restrain-concentrated-power
+verdict: partial
+contested: true
+summary: 'Rhetoric became inquiry rather than structural change: the TNEC studied concentration for three years
+  and Arnold''s Antitrust Division prosecuted, but no legislation restructured corporate power and the 1938 recession
+  shifted the administration toward accommodation with business.'
+mechanisms:
+- type: message
+  name: Message on curbing monopolies
+  date: '1938-04-29'
+  doc: app-message-congress-curbing-monopolies
+  effect: Asked Congress for a study of concentrated economic power.
+  consistent: 'yes'
+- type: statute
+  name: Temporary National Economic Committee
+  date: '1938-06-16'
+  doc: wiki-temporary-national-economic-committee
+  effect: Hearings 1938-41; no structural legislation.
+  consistent: partly
+assessments:
+- doc: wiki-temporary-national-economic-committee
+  verdict: partial
+  reasoning: The TNEC's work was 'defunded' in 1941 with its records sealed; the royalists were investigated, not
+    mastered.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

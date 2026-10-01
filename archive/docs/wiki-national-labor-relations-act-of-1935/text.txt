@@ -1,0 +1,139 @@
+The National Labor Relations Act of 1935 , also known as the Wagner Act , is a foundational statute of United States labor law that guarantees the right of private sector employees to organize into trade unions , engage in collective bargaining , and take collective action such as strikes . Central to the act was a ban on company unions . The act was written by Senator Robert F. Wagner , passed by the 74th United States Congress , and signed into law by President Franklin D. Roosevelt .
+The National Labor Relations Act seeks to correct the " inequality of bargaining power " between employers and employees by promoting collective bargaining between trade unions and employers. The law established the National Labor Relations Board to prosecute violations of labor law and to oversee the process by which employees decide whether to be represented by a labor organization. It also established various rules concerning collective bargaining and defined a series of banned unfair labor practices , including interference with the formation or organization of labor unions by employers. The act does not apply to certain workers, including supervisors, agricultural employees, domestic workers, government employees, and independent contractors.
+The NLRA was strongly opposed by conservatives and members of the Republican Party , but it was upheld in the Supreme Court case of NLRB v. Jones & Laughlin Steel Corp. , decided April 12, 1937. The 1947 Taft-Hartley Act amended the NLRA, establishing a series of labor practices for unions and granting states the power to pass right-to-work laws .
+Background
+The act's origins may be traced to the bloody Colorado Fuel and Iron Strike of 1914. Colorado Fuel was a subsidiary of Standard Oil, and John D. Rockefeller Jr. sought expert advice from the new field of public relations to prolong the settlement of the strike. He also recruited the former Canadian Labour Secretary (and future Prime Minister) MacKenzie King to the Rockefeller Foundation to broker a solution to the prolonged strike. The settlement resulted in the establishment of a Management-Labor conciliation board, which evolved into a company union and template for settling labor disputes. Although a step forward in labor relations, the company union was effectively a public relations ploy that had the opposite impact of thwarting the organization of trade unions in the great organizing drives of the period.
+President Franklin Roosevelt signed the legislation into law on July 5, 1935.
+It also has its roots in a variety of different labor acts previously enacted: [ citation needed ]
+National War Labor Board (1918)
+Norris-La Guardia Act (1932)
+National Industrial Recovery Act (1933) National Labor Board
+National Labor Board
+Emergency Relief Appropriation Act of 1935 including the Works Progress Administration ("WPA")
+including the Works Progress Administration ("WPA")
+Content
+Under section 1 ( 29 U.S.C. § 151 ) of the Act, the key principles and policy findings on which the Act was based are explained. The Act aims to correct the " inequality of bargaining power between employees who, according to the Act's proponents, do not possess full freedom of association or actual liberty of contract and employers who are organized in the corporate or other forms of ownership association". To achieve this, the central idea is the promotion of collective bargaining between independent trade unions, on behalf of the workforce, and the employer.
+encouraging the practice and procedure of collective bargaining and by protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
+encouraging the practice and procedure of collective bargaining and by protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
+Various definitions are explained in section 2, ( 29 U.S.C. § 152 ) including 2(5) defining "labor organization" and 2(9) defining "labor dispute". The Act aims to protect employees as a group, and so is not based on a formal or legal relationship between an employer and employee.
+Enforcement
+The National Labor Relations Board (NLRB), which was established in NLRA 1935 sections 3 to 6 ( 29 U.S.C. § 153-156 ), is the primary enforcer of the Act. Employees and unions may act themselves in support of their rights, however because of collective action problems and the costs of litigation, the National Labor Relations Board is designed to assist and bear some of the costs. Under section 3, ( 29 U.S.C. § 153 ) the NLRB has two basic functions: overseeing the process by which employees decide whether to be represented by a labor organization and prosecuting violations. Those processes are initiated in the regional offices of the NLRB. The General Counsel of the National Labor Relations Board give legal advice. Sections 4 ( 29 U.S.C. § 154 ) and 5 ( 29 U.S.C. § 155 ) set out provisions on the officers of the Board and their expenses. Section 6 ( 29 U.S.C. § 156 ) empowers the Board to issue rules interpreting the labor legislation. This will generally be binding, unless a court deems it to have acted outside its authority.
+Under section 10 ( 29 U.S.C. § 160 ) the NLRB is empowered to prevent unfair labor practices, which may ultimately be reviewed by the courts. Under section 11 it can lead investigations, collect evidence, issue subpoenas , and require witnesses to give evidence. Under section 12 ( 29 U.S.C. § 162 ) it is an offense for people to unduly interfere with the Board's conduct.
+In practice, the act was often ignored when it suited political powers, most notably by Walt Disney in 1940 who formed a company union in violation of the law in order to prevent the Cartoon Unionists Guild, a Trade Union, from gaining a foothold in Disney Studios.
+Collectively bargaining
+Section 7 ( 29 U.S.C. § 157 ) sets out the general principle that employees have the right to join a trade union and engage in collective bargaining.
+Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 8(a)(3).
+Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 8(a)(3).
+Specific rules in support of collective bargaining are as follows.
+There can be only one exclusive bargaining representative for a unit of employees.
+Promotion of the practice and procedure of collective bargaining.
+Employers are compelled to bargain with the representative of its employees.
+Employees are allowed to discuss wages.
+Unfair labor practices
+"Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 158 (a)(3) of this title."
+"Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 158 (a)(3) of this title."
+Under section 8 ( 29 U.S.C. § 158 ) the law defines a set of prohibited actions by employers, employees, and unions, known as an unfair labor practice. The first five unfair labor practices aimed at employers are in section 8(a). These are,
+(a)(1) "to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in section 7". This includes freedom of association , mutual aid or protection, self-organization, to form, join, or assist labor organizations, to bargain collectively for wages and working conditions through representatives of their own choosing, and to engage in other protected concerted activities with or without a union.
+(a)(2) "to dominate or interfere with the formation or administration of any labor organization or contribute financial or other support to it"
+(a)(3) "by discrimination in regard to hire or tenure of employment or any term or condition of employment to encourage or discourage membership in any labor organization"
+(a)(4) discriminating against employees who file charges or testify.
+(a)(5) refusing to bargain collectively with the representative of the employer's employees.
+In addition, added by the Taft-Hartley Act , there are seven unfair labor practices aimed at unions and employees.
+Election of bargaining representatives
+Under section 9 ( 29 U.S.C. § 159 ) the people elected by a majority of the workforce have the right to become the exclusive representatives of workers in collective bargaining with the employer.
+Exclusions
+The NLRA 1935 does not cover two main groups of employees: those working for the government and in the railway or airline industries. Section 2(2) (29 USC §152(2)) states that the Act does not apply to employees of the "United States or any wholly owned Government corporation, or any Federal Reserve Bank , or any State or political subdivision thereof, or any person subject to the Railway Labor Act ". Under section 19 ( 29 U.S.C. § 169 ), people who have religious convictions against joining a trade union are entitled to not associate or financially support it.
+The NLRA 1935 also does not include additional measures to protect the rights of racial minorities in the workplace. At the time, unions like the American Federation of Labor did not grant membership to black laborers while other unions like the CIO engaged in internal discrimination, providing more preferable jobs and seniority to its white members. Employers also engaged in discrimination against black union members by restricting their ability to organize and collectively bargain with white laborers. The NAACP urged Senator Robert Wagner to add a non-discrimination provision to the bill to protect against union and employee race discrimination. Despite pushes from the NAACP and National Urban League to correct discriminatory practices, the law was written without the inclusion of an anti-discrimination clause.
+The act also excludes independent contractors , domestic workers, and farm workers. In recent years, advocacy organizations like the National Domestic Workers' Alliance have worked on the state level to pass a Domestic Workers' Bill of Rights , to extend to domestic workers the protections granted under the NLRA. Similar advocacy efforts are taking place on behalf of farm workers.
+Reactions
+"Nothing in this subchapter, except as specifically provided for herein, shall be construed so as either to interfere with or impede or diminish in any way the right to strike , or to affect the limitations or qualifications on that right."
+"Nothing in this subchapter, except as specifically provided for herein, shall be construed so as either to interfere with or impede or diminish in any way the right to strike , or to affect the limitations or qualifications on that right."
+The act was bitterly opposed by the Republican Party and business groups. The American Liberty League viewed the act as a threat to freedom and engaged in a campaign of opposition in order to repeal these "socialist" efforts. This included encouraging employers to refuse to comply with the NLRB and supporting the nationwide filing of injunctions to keep the NLRB from functioning. This campaign continued until the NLRA was found constitutional by the Supreme Court in National Labor Relations Board v. Jones & Laughlin Steel Corporation (1937).
+Labor groups, while overwhelmingly supportive, expressed a set of reservations. The American Federation of Labor and some employers accused the NLRB of favoring the Congress of Industrial Organizations , particularly when determining whether to hold union elections in plant-wide, or wall-to-wall, units, which the CIO usually sought, or to hold separate elections in separate craft units, which the craft unions in the AFL favored. While the NLRB initially favored plant-wide units, which tacitly favored the CIO's industrial unionism , it retreated to a compromise position several years later under pressure from Congress that allowed craft unions to seek separate representation of smaller groups of workers at the same time that another union was seeking a wall-to-wall unit.
+Many accused the NLRB of a general pro-union and anti-employer bias, pointing to the Board's controversial decisions in such areas as employer free speech and "mixed motive" cases, in which the NLRB held that an employer violated the Act by using misconduct that ordinarily would not result in termination to fire an employee who was engaged in pro-union activity. In addition, employers campaigned over the years to outlaw a number of union practices such as closed shops , secondary boycotts , jurisdictional strikes , mass picketing, strikes in violation of contractual no-strike clauses, pension and health and welfare plans sponsored by unions and multi-employer bargaining .
+Many of these criticisms included provisions that employers and their allies were unable to have included in the NLRA. Others developed in reaction to NLRB decisions. Over all, they wanted the NLRB to be neutral as to bargaining power, but the NLRA's policy section takes a decidedly pro-employee position:
+It is declared to be the policy of the United States to eliminate the causes of certain substantial obstructions to the free flow of commerce and to mitigate and eliminate these obstructions when they have occurred by encouraging the practice and procedure of collective bargaining and by protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection .
+It is declared to be the policy of the United States to eliminate the causes of certain substantial obstructions to the free flow of commerce and to mitigate and eliminate these obstructions when they have occurred by encouraging the practice and procedure of collective bargaining and by protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection .
+Some of these changes were later achieved in the 1947 amendments.
+Over time, the U.S. Supreme Court has gradually undone the efficacy of the NLRA by inhibiting the law from applying to shifting circumstances.
+Amendments
+Opponents of the Wagner Act introduced several hundred bills to amend or repeal the law in the decade after its passage. All of them failed or were vetoed until the passage of the Labor Management Relations Act of 1947, or the Taft-Hartley Act , in 1947.
+More recent unsuccessful efforts included attempts in 1978 to permit triple backpay awards and union collective bargaining certification based on signed union authorization cards, a provision that is similar to one of the proposed amendments in the Employee Free Choice Act . Under the NLRA, unions can become the representative based on signed union authorization cards only if the employer voluntarily recognizes the union. If the employer refuses to recognize the union, the union can be certified through a secret-ballot election conducted by the NLRB.
+In the 2010s, Democrats began seeking the narrowing of the Act's provisions allowing workers to be hired as independent contractors, thus bringing them under the jurisdiction of the Act. Legislators have introduced a standard for independent contracting termed the "ABC test", after its three criteria A, B and C.
+To be hired as an independent contractor, the worker must:
+Be free from the employer's control and direction in the performance of the current work;
+Perform work that is outside the usual course of the employer's business;
+Have an independently established business in the same kind of work as performed for the current employer.
+Independent contractors and employers have objected to B, the limitation on working in the employer's usual business. Objections are based on the inconveniences and costs of meeting the criterion. For instance, it prevents small venues from hiring performers, even for one-night stands, unless they are hired as employees. As a result, in the California phase of the campaign, numerous occupations of independent contractors were exempted from the test in California Assembly Bill 5 (2019) .
+Legacy
+The Little Wagner Act, written by Ida Klaus , is the New York City version of the Wagner Act. The New York State Employment Relations Act was enacted in 1937.
+Along with other factors, the act contributed to tremendous growth of membership in the labor unions, especially in the mass-production sector. The total number of labor union members grew from three million in 1933 to eight million at the end of the 1930s, with the vast majority of union members living outside of the Southern United States .
+See also
+Organized labour portal
+United States labor law
+History of labor law in the United States
+Duty of fair representation
+Employee Free Choice Act
+Union organizer
+Labor rights in American meatpacking industry
+Notes
+↑ Nelson, Joyce (1988). The Colonized Eye: Rethinking the Grierson Legend . Toronto: Between the Lines. pp. 25, 88.
+↑ Collier, Peter (1976). The Rockefellers: An American Dynasty . New York: Holt, Rinchart, and Windston. p. 129.
+↑ 29 U.S.C. §§ 151 - 169 , enacted July 5, 1950
+↑ Our Documents: 100 Milestone Documents from the National Archives . Oxford: Oxford University Press. 2006. pp. 162- 63. ISBN 978-0-19-530959-1 .
+↑ See also, E Dannin, "Not a Limited, Confined, or Private Matter: Who is an Employee under the National Labor Relations Act" (2008) 59 Labor Law Journal 5
+↑ Archived May 30, 2013, at the Wayback Machine
+↑ June 2017, Jake S. Friedman (2017-03-09). "1941 Disney Strike: Picket Lines in Paradise" . HistoryNet . Retrieved 2021-06-04 . {{ cite web }} : CS1 maint: numeric names: authors list ( link )
+↑ "Salary and Benefit Discussions Among Employees" . Archived from the original on 2012-06-27 . Retrieved 2012-11-04 .
+↑ "Where Does NLRA Apply?" . Archived from the original on 2012-09-12 . Retrieved 2012-11-04 .
+↑ "Know Your Rights" . Retrieved 2012-11-04 .
+↑ Initially there were five, now there are eight categories. See RL Hogler, The Employment Relationship: Law and Policy (Ardsley 1989) 52. See also Our Documents: 100 Milestone Documents from the National Archives (OUP 2003) 163
+↑ "African Americans and the American Labor Movement" . National Archives . 2016-08-15 . Retrieved 2020-09-29 .
+1 2 Moreno, Paul (2010). "Unions and Discrimination" . Cato Journal . 30 : 67- 86 - via HEINONLINE.
+↑ Iafolla, Robert (January 25, 2019). "Companies Using Contract Labor Get Boost From New NLRB Test (1)" . Bloomberg.
+↑ Hilgers, Lauren (2019-02-21). "The New Labor Movement Fighting for Domestic Workers' Rights" . The New York Times . ISSN 0362-4331 . Retrieved 2019-03-10 .
+↑ "When labor laws left farm workers behind -- and vulnerable to abuse" . PBS NewsHour . 2016-09-18 . Retrieved 2019-03-10 .
+↑ Snead, Warren (2022). "The Supreme Court as an Agent of Policy Drift: The Case of the NLRA" . American Political Science Review . 117 (2): 661- 674. doi : 10.1017/S0003055422000685 . ISSN 0003-0554 . S2CID 251186520 .
+↑ Pramuk, Jacob (2021-02-04). "Democrats reintroduce labor rights bill as Covid puts spotlight on workplace safety" . CNBC . Retrieved 2023-08-03 .
+↑ "H.R.2474 - Protecting the Right to Organize Act of 2019" . Retrieved 2023-08-03 .
+↑ "Protecting Workers' Freedom to Organize Act" (PDF) . U.S. Government; 116th Congress . Retrieved September 6, 2025 .
+↑ California Labor & Workforce Development Agency, ABC Test , accessed 5 February 2021
+↑ https://www.facebook.com/groups/2347042292254536 Freelancers against "Pro Act". Retrieved on June 3, 2020. [ user-generated source ]
+↑ https://www.facebook.com/groups/californiafreelancewritersunite California Freelance Writers United. Retrieved on February 4, 2020. [ user-generated source ]
+↑ "U.S. Chamber Denounces Reintroduction of the PRO Act" . www.uschamber.com . 2021-02-04 . Retrieved 2023-08-03 .
+↑ Friedrichs, Eric Lloyd, Scott P. Mallery, Kerry (2020-09-08). "AB 2257: Sweeping Changes To AB 5 Independent Contractor Law" . California Peculiarities Employment Law Blog . Retrieved 2023-08-03 . {{ cite web }} : CS1 maint: multiple names: authors list ( link )
+↑ "AB-5 and AB-2257" . Californians for the Arts . 2020-10-20 . Retrieved 2023-08-03 .
+↑ "Codes Display Text" . leginfo.legislature.ca.gov . Retrieved 2023-08-03 .
+↑ Ravo, Nick (1999-05-20). "Ida Klaus, 94, Labor Lawyer For U.S. and New York, Dies" . New York Times . Retrieved 2015-05-03 .
+↑ "Ida Klaus" . Jewish Women's Archive . Retrieved 2015-05-03 .
+↑ Colin Gordon, New Deals: Business, Labor, and Politics in America, 1920-1935 (1994) p. 225
+↑ Kennedy 1999 , p. 320.
+References
+Books
+Atleson, James B. (1983). Values and Assumptions in American Labor Law (Pbk. ed.). Amherst: University of Massachusetts Press. ISBN 978-0-585-25833-1 .
+Cortner, Richard C. (1964). The Wagner Act Cases . Knoxville: Univ. of Tenn. Press. LCCN 64016880 .
+Dannin, Ellen (2006). Taking Back the Workers' Law: How to Fight the Assault on Labor Rights . Ithaca, N.Y.: ILR Press/Cornell University Press. ISBN 978-0-8014-4438-8 .
+Gregory, Charles O. (1961). Labor and the Law 2d rev. ed., with 1961 Supplement . New York: Norton. LCCN 61007636 .
+Kennedy, David M. (1999). Freedom from Fear: The American People in Depression and War, 1929-1945 . Oxford University Press . ISBN 978-0195038347 .
+Morris, Charles J. (2004). The Blue Eagle at Work: Reclaiming Democratic Rights in the American Workplace . Ithaca, N.Y.: Cornell University Press. ISBN 978-0-8014-4317-6 .
+Schlesinger, Arthur M. (c. 2003). The Coming of the New Deal: 1933-1935 (1. Mariner books ed.). Boston: Houghton Mifflin. ISBN 978-0-618-34086-6 .
+Articles
+Casebeer, Kenneth M. (1987) "Holder of the Pen: An Interview with Leon Keyersling on Drafting the Wagner Act." University of Miami Law Review 42 (1987): 285+. online
+F. L. B. Jr. (Mar 1941). "Reinstatement with Back Pay under the Wagner Act". U. Pa. L. Rev. & Amer. L. Reg . 89 (5): 648- 660. doi : 10.2307/3309199 . JSTOR 3309199 .
+Keyserling, Leon H. (1960-1961). "The Wagner Act: Its Origin and Current Significance". Geo. Wash. L. Rev . 29 : 199.
+Klare, Karl E. (1977-1978). "Judicial Deradicalization of the Wagner Act and the Origins of Modern Legal Consciousness, 1937-1941". Minn. L. Rev . 62 : 265.
+Lynd, Staughton (1984). "Communal Rights". Tex. L. Rev . 62 (1417): 1430- 1435.
+Mikva, A. J. (1986). "The Changing Role of the Wagner Act in the American Labor Movement". Stan. L. Rev . 38 (4): 1123- 1440. doi : 10.2307/1228578 . JSTOR 1228578 .
+Nathanson, N.L.; Lyons, E. (1938-1939). "Judicial Review of the National Labor Board". Ill. L. Rev . 33 : 749.
+"Effect on the A. F. of L. - C. I. O. Controversy of the Determination of Appropriate Bargaining Units under the National Labor Relations Act". Yale L.J . 47 (1): 122- 124. 1935-1958. doi : 10.2307/791821 . JSTOR 791821 .
+"The Proposed Amendments to the Wagner Act". Harv. L. Rev . 52 (6): 970- 983. 1938-1939. doi : 10.2307/1334189 . JSTOR 1334189 .
+Pope, J. G. (2004). "How American Workers Lost the Right to Strike, and Other Tales" . Mich. L. Rev . 103 (3): 518- 553. doi : 10.2307/4141930 . JSTOR 4141930 . S2CID 154178001 .
+Pope, Jim (2006). "Worker Lawmaking, Sit-Down Strikes, and the Shaping of American Industrial Relations, 1935-1958". Law & Hist. Rev . 24 (1): 45- 113. doi : 10.1017/S0738248000002273 . JSTOR 27641352 . S2CID 145570998 .
+Scheunemann, Edward. The National Labor Relations Act Versus the Courts, 11 Rocky Mountain L. Rev. 135 (1939)
+Warm, J. Louis (1938-1939). "A Study of the Judicial Attitude Toward Trade Unions and Labor Legislation". Minn. L. Rev . 23 : 256.
+Wagner, Robert F. Jr. (1957), "The Philosophy of the Wagner Act of 1935." St. John's Law Review 32 (1957): 1-7 online .
+Woods, Warren; Wheatley, Altha C. (1936-1937). "The Wagner Act Decision - A Charter of Liberty for Labor?". Geo. Wash. L. Rev . 5 : 846.
+External links
+As codified in 29 U.S.C. chapter 7 of the United States Code from the LII
+As codified in 29 U.S.C. chapter 7 of the United States Code from the US House of Representatives
+National Labor Relations Act as amended ( PDF / details ) in the GPO Statute Compilations collection

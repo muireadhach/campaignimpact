@@ -1,0 +1,17 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+position: 1936-fdr-recovery-from-the-bottom-up
+source_type: opinion_poll
+source_name: Gallup's American Institute of Public Opinion, as summarized by Ruth Finney, Washington Daily News
+date: '1936-11-02'
+perceived: All major polls but the Digest predicted Roosevelt; Gallup gave Landon only Maine, Vermont and New Hampshire.
+fidelity: accurate
+salience: high
+doc: loc-sn82016181-1936-11-02-ed1-p2
+quote: The American Institute of Public Opinion poll conducted by George Gallup gives Landon only three sure states.
+  Maine, Vermont and New Hampshire
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

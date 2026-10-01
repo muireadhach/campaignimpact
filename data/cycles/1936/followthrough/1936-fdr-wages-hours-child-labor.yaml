@@ -1,0 +1,39 @@
+position: 1936-fdr-wages-hours-child-labor
+verdict: kept
+contested: false
+summary: After a year of defeats in the House, the Fair Labor Standards Act (June 25, 1938) set a 25-cent minimum
+  wage rising to 40 cents, a 44-hour week falling to 40, and barred 'oppressive child labor' in goods for interstate
+  commerce; the Supreme Court upheld it in Darby (1941).
+mechanisms:
+- type: message
+  name: Message on establishing minimum wages and maximum hours
+  date: '1937-05-24'
+  doc: app-message-congress-establishing-minimum-wages-and-maximum-hours
+  quote: All but the hopelessly reactionary will agree that to conserve our primary resources of man power, government
+    must have some control over maximum hours, minimum wages, the evil of child labor and the exploitation of unorganized
+    labor.
+  effect: Asked Congress for a wage-hour-child-labor statute.
+  consistent: 'yes'
+  indicators:
+  - mfg-weekly-hours
+  - mfg-hourly-earnings
+- type: statute
+  name: Fair Labor Standards Act of 1938
+  date: '1938-06-25'
+  doc: wiki-fair-labor-standards-act-of-1938
+  effect: Federal minimum wage, overtime after 40 hours, child-labor ban.
+  consistent: 'yes'
+  indicators:
+  - mfg-weekly-hours
+  - mfg-hourly-earnings
+  - unemployment-rate-1929-42
+assessments:
+- doc: app-fireside-chat-14
+  verdict: kept
+  reasoning: 'Roosevelt: the Act ''ends child labor, sets a floor below wages and a ceiling over hours of labor.'''
+  quote: That Act--applying to products in interstate commerce-ends child labor, sets a floor below wages and a
+    ceiling over hours of labor.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

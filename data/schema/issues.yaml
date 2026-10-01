@@ -194,3 +194,64 @@
 - id: deposit-insurance
   name: Federal guarantee of bank deposits
   category: banking
+- id: social-security-financing
+  name: How to finance old-age and unemployment insurance (contributory reserve vs. pay-as-you-go)
+  category: relief
+  aliases:
+    - {name: "Social Security payroll tax", era: "1935-"}
+    - {name: "Social Security solvency", era: "1977-"}
+- id: reciprocal-trade-agreements
+  name: Executive reciprocal trade agreements (1934 Act)
+  category: trade
+  aliases:
+    - {name: "Fast-track trade authority", era: "1974-"}
+- id: constitutional-amendment
+  name: Amending the Constitution to enlarge (or restrain) federal power
+  category: federalism
+- id: executive-power
+  name: Scope of executive power and delegated emergency authority
+  category: executive_power
+- id: neutrality-policy
+  name: Neutrality, arms embargoes and staying out of foreign wars
+  category: war
+  aliases:
+    - {name: "Isolationism vs. intervention", era: "1935-1941"}
+- id: minimum-wage
+  name: Minimum wages
+  category: labor
+- id: relief-politicization
+  name: Politics and patronage in relief administration
+  category: relief
+- id: farm-tenancy
+  name: Farm tenancy and access to land ownership
+  category: agriculture
+- id: crop-insurance
+  name: Crop insurance and storage reserves
+  category: agriculture
+- id: youth-programs
+  name: Federal youth work and education programs (CCC, NYA)
+  category: relief
+- id: flood-control
+  name: Flood control and river-basin development
+  category: infrastructure
+- id: radicalism-and-communism
+  name: Communism, radicalism and "alien isms" as a political issue
+  category: elections
+- id: central-banking
+  name: Public control of the central bank and money creation
+  category: monetary
+- id: academic-freedom
+  name: Teachers' loyalty oaths and academic freedom
+  category: education
+- id: farm-storage-credit
+  name: On-farm storage, warehouse receipts and commodity credit
+  category: agriculture
+- id: drought-relief
+  name: Drought and disaster relief for farmers
+  category: agriculture
+- id: economic-royalists
+  name: Concentrated economic power vs. the average citizen (rhetorical framing)
+  category: industry
+- id: recovery-credit
+  name: Who deserves credit for recovery (defense of record)
+  category: economy

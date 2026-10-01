@@ -1,0 +1,34 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: housing
+categories:
+- relief
+- infrastructure
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Extend the federal housing program toward adequate housing for those in slums; encourage private building
+solution: Steadily extend the government's housing program for people of meagre incomes while encouraging private
+  home construction; 'the wiping out of slums.'
+rationale: People 'are entitled to decent, adequate housing at a price which they can afford'; two million homes
+  had been saved from foreclosure.
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We believe every encouragement should be given to the building of new homes by private enterprise; and
+    that the Government should steadily extend its housing program toward the goal of adequate housing for those
+    forced through economic necessities to live in unhealthy and slum conditions.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: for sounder home financing, for better banking, for the regulation of security issues, for reciprocal trade
+    among nations, for the wiping out of slums. For all these we have only just begun to fight.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

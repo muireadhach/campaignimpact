@@ -1,0 +1,55 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: neutrality-policy
+categories:
+- war
+- diplomacy
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- italy-ethiopia-1935
+- spanish-civil-war
+title: 'Keep the United States out of war: true neutrality, take the profits out of war, no political commitments'
+solution: Observe neutrality in others' disputes, use the neutrality legislation to cut war profits, avoid League
+  political commitments, and resist the clamor for war trade if war comes abroad.
+rationale: '''I have seen war... I hate war''; war profits made the false prosperity of 1914-20 and the dust storms
+  of the plowed-up prairie; ''if we face the choice of profits or peace, the Nation will answer... We choose peace.'''
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We shall continue to observe a true neutrality in the disputes of others; to be prepared, resolutely to
+    resist aggression against ourselves; to work for peace and to take the profits out of war; to guard against
+    being drawn, by political commitments, international banking or private trading, into any war which may develop
+    anywhere.
+- date: '1936-08-14'
+  venue: Chautauqua, New York
+  phase: general
+  doc: app-address-chautauqua-ny
+  quote: We are not isolationists except in so far as we seek to isolate ourselves completely from war.
+- date: '1936-08-14'
+  venue: Chautauqua, New York
+  phase: general
+  doc: app-address-chautauqua-ny
+  quote: I have passed unnumbered hours, I shall pass unnumbered hours, thinking and planning how war may be kept
+    from this Nation.
+- date: '1936-08-14'
+  venue: Chautauqua, New York
+  phase: general
+  doc: app-address-chautauqua-ny
+  quote: If we face the choice of profits or peace, the Nation will answer--must answer--"We choose peace."
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: Today there is war and rumor of war. We want none of it. But while we guard our shores against threats
+    of war, we will continue to remove the causes of unrest and antagonism at home which might make our people easier
+    victims to those for whom foreign war is profitable.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

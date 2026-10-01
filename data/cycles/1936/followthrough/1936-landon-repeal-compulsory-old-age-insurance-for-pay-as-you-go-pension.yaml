@@ -1,0 +1,19 @@
+position: 1936-landon-repeal-compulsory-old-age-insurance-for-pay-as-you-go-pension
+verdict: not_applicable
+contested: false
+summary: The compulsory insurance titles were not repealed, but the 1939 amendments froze the payroll tax at 1 percent,
+  scrapped the reserve account for a trust fund, enlarged early benefits and added dependents -- moving toward the
+  pay-as-you-go principle Landon had urged.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Social Security Act Amendments of 1939
+  date: '1939-08-10'
+  doc: app-statement-signing-the-social-security-act
+  note: 'Partial adoption: pay-as-you-go financing and larger immediate benefits, without repeal.'
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

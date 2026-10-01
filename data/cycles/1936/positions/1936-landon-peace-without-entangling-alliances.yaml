@@ -1,0 +1,37 @@
+cycle: 1936
+candidate: alf-landon
+issue: neutrality-policy
+categories:
+- war
+- diplomacy
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Promote peace by all honorable means; no League, no World Court, no plan that could involve the U.S. in a
+  war it had no part in beginning
+solution: International arbitration through independent tribunals; arms limitation; no foreign alliances or political
+  commitments.
+rationale: '''We shall join in no plan that might involve us in a war in the beginning of which we had no part,
+  or that would build a false peace on the foundation of armed camps.'''
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: Obedient to the traditional foreign policy of America and to the repeatedly expressed will of the American
+    people, we pledge that America shall not become a member of the League of Nations nor of the World Court nor
+    shall America take on any entangling alliances in foreign affairs.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: We shall take every opportunity to promote among the nations a peace based upon justice and human rights.
+    We shall join in no plan that would take from us that independence of judgment which has made the United States
+    a power for good in the world. We shall join in no plan that might involve us in a war in the beginning of which
+    we had no part, or that would build a false peace on the foundation of armed camps.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

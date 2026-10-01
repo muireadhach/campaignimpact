@@ -1,0 +1,18 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+position: 1936-fdr-clarifying-amendment-not-court-tampering
+source_type: editorial
+source_name: Cleveland Plain Dealer (independent Democratic), quoted in the Evening Star
+date: '1936-11-05'
+perceived: Voters believed 'in his hands Democratic traditions and our Constitutional system are safe' -- the assumption
+  the court bill would break.
+fidelity: unaware
+salience: high
+doc: loc-sn83045462-1936-11-05-ed1-p8
+quote: It is clear that people like Hr. Roosevelt, regardless of party .leanings, approve his humanitarian tf>olicies
+  and have faith that in his hands Democratic traditions and our .Constitutional system are safe.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

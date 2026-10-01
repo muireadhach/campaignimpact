@@ -1,0 +1,18 @@
+position: 1936-landon-relief-without-politics-local-administration
+verdict: not_applicable
+contested: false
+summary: Relief stayed federal and in the WPA. The political-abuse charge was answered by the Hatch Act (1939),
+  sponsored by a Democrat and signed by Roosevelt, and by the 1939 relief act's political-activity ban.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Hatch Act (An Act to Prevent Pernicious Political Activities)
+  date: '1939-08-02'
+  doc: app-message-congress-the-hatch-act
+  note: Adopted the substance of Landon's relief-without-politics pledge, minus local administration.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

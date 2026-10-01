@@ -1,0 +1,33 @@
+cycle: 1936
+candidate: alf-landon
+issue: unemployment-insurance
+categories:
+- relief
+- federalism
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Leave unemployment insurance to State experiment; no federal tax to compel it
+solution: Encourage 'honest and practical' State unemployment insurance laws; repeal the federal payroll-tax device
+  that forces States to adopt systems.
+rationale: '''For the Federal Government to step in and to use its taxing power to compel all of the States immediately
+  to enact unemployment insurance statutes is something unheard of.'''
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: We propose to encourage adoption by the states and territories of honest and practical measures for meeting
+    the problems of unemployment insurance.
+- date: '1936-09-26'
+  venue: Milwaukee Auditorium (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-27-ed1-p14
+  quote: For the Federal Govern ment to step in and to use its taxing power to compel all of the States im mediately
+    to enact unemployment in surance statutes is something unheard of. It is most unwise.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

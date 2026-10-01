@@ -1,0 +1,28 @@
+position: 1936-fdr-youth-education-and-opportunity
+verdict: kept
+contested: false
+summary: The NYA continued student aid and work projects until 1943 (transferred to the Federal Security Agency
+  in 1939); the CCC was extended for three years in 1937 with educational programs, though not made permanent.
+mechanisms:
+- type: message
+  name: Message on making the CCC a permanent agency
+  date: '1937-04-05'
+  doc: app-message-congress-making-the-civilian-conservation-corps-permanent-agency
+  effect: Congress extended the CCC to 1940 instead of making it permanent.
+  consistent: partly
+- type: other
+  name: National Youth Administration continued
+  date: '1939-07-01'
+  doc: wiki-national-youth-administration
+  quote: Following the passage of the Reorganization Act of 1939 , the NYA was transferred from the WPA to the Federal
+    Security Agency .
+  effect: Transferred to the Federal Security Agency; continued to 1943.
+  consistent: 'yes'
+assessments:
+- doc: wiki-national-youth-administration
+  verdict: kept
+  reasoning: Youth programs continued through the term.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

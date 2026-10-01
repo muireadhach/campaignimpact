@@ -1,0 +1,43 @@
+cycle: 1936
+candidate: alf-landon
+issue: collective-bargaining
+categories:
+- labor
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: B
+title: Labor's right to organize in any union it prefers, free from coercion by employer, fellow employee or anyone
+  else; organizers' lawful activity protected
+solution: Protect self-organization and collective bargaining 'without interference from any source', with the employee
+  equally free to join or refuse to join absent a contract; after Norman Thomas's inquiry, affirm that organizers
+  may lawfully enter unorganized industries.
+rationale: '''Working conditions, wages and hours have been improved through self-organization.'''
+notes: Labor read 'any other person' in the acceptance speech as excluding organizers; Landon's letter to Thomas
+  corrected the reading.
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: Protect the right of labor to organize and to bargain collectively through representatives of its own choosing
+    without interference from any source.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: The right of labor to organize means to me the right of employees to join any type of union they prefer,
+    whether it covers their plant, their craft or their industry. It means that, in the absence of a union contract,
+    an employee has an equal right to join a union or to refuse to join a union.
+- date: '1936-07-30'
+  venue: Letter to Norman Thomas, as reported by David Lawrence, Evening Star
+  phase: general
+  attribution: reported
+  doc: loc-sn83045462-1936-07-31-ed1-p11
+  quote: the Republican nominee pledges him self to the doctrine that all workers have a right of self organization
+    and have the right by lawful and proper means to send thier organizers into an unorganized industry.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

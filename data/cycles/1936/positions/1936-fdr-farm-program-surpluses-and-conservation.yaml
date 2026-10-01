@@ -1,0 +1,45 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: agricultural-prices
+categories:
+- agriculture
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- butler-1936
+- drought-1936
+title: Continue soil conservation and domestic allotment payments; end ruinous surpluses; commodity loans on seasonal
+  surpluses
+solution: Keep the 1936 conservation-payment program, favor production 'of all the market will absorb' plus a reserve,
+  judicious commodity loans on seasonal surpluses, and federal assistance to balance production with demand.
+rationale: Farm income had been 'doubled' and indebtedness reduced; the Court's AAA ruling required a new statutory
+  basis.
+supersedes: 1932-fdr-farm-price-plan-tariff-benefit
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We will continue to improve the soil conservation and domestic allotment program with payments to farmers.
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We favor the production of all the market will absorb, both at home and abroad, plus a reserve supply sufficient
+    to insure fair prices to consumers; we favor judicious commodity loans on seasonal surpluses; and we favor assistance
+    within Federal authority to enable farmers to adjust and balance production with demand, at a fair profit to
+    the farmers.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: With their continued cooperation we will do all in our power to end the piling up of huge surpluses which
+    spelled ruinous prices for their crops.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

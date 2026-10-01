@@ -1,0 +1,30 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: taxation-progressivity
+categories:
+- taxation
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Taxes levied according to ability to pay; lower taxes for 99 percent, higher at the top
+solution: 'Keep the 1935-36 structure: earned-income credit, lower rates for small corporations, higher surtaxes
+  over $50,000 and $1 million, higher estate taxes; reduce hidden consumption taxes.'
+rationale: '''Democracy in taxation'' is the 1776 fight; the previous administration cut taxes for its friends and
+  ''left the national debt to be paid by later generations.'''
+statements:
+- date: '1936-10-21'
+  venue: Worcester, Massachusetts
+  phase: general
+  doc: app-address-worcester-mass
+  quote: 'Here is my principle: Taxes shall be levied according to ability to pay. That is the only American principle.'
+- date: '1936-10-21'
+  venue: Worcester, Massachusetts
+  phase: general
+  doc: app-address-worcester-mass
+  quote: Taxes are higher for those who can afford to pay high taxes. They are lower for those who can afford to
+    pay less. That is getting back again to the American principle--taxation according to ability to pay.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

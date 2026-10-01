@@ -1,0 +1,34 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: public-power
+categories:
+- energy
+- agriculture
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Cheaper electricity and rural electrification by the 'yardstick' method
+solution: Continue TVA-style rate yardsticks and the Rural Electrification Administration's loans to bring cheap
+  power to homes and farms.
+rationale: Yardstick competition had already lowered rates; electricity should reach the farm as it reaches the
+  city.
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We will continue to promote plans for rural electrification and for cheap power by means of the yardstick
+    method.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: Of course we will continue to work for cheaper electricity in the homes and on the farms of America, for
+    better and cheaper transportation, for low interest rates, for sounder home financing, for better banking, for
+    the regulation of security issues, for reciprocal trade among nations, for the wiping out of slums.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

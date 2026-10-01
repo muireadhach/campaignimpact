@@ -100,3 +100,69 @@
   start: 1929-10-24
   end: 1929-11-13
   summary: Black Thursday to the November low.
+- id: second-new-deal-1935
+  name: The "Second New Deal" (1935)
+  start: 1935-04-08
+  end: 1935-08-30
+  summary: Emergency Relief Appropriation Act (WPA), Wagner Act, Social Security Act, Banking Act, Public Utility Holding Company Act and the Wealth Tax Act, all enacted April–August 1935.
+  kind: political
+- id: schechter-1935
+  name: Schechter decision voids the NIRA
+  start: 1935-05-27
+  end: 1935-05-27
+  summary: The Supreme Court unanimously struck down the National Industrial Recovery Act's code system; the NRA and its wage-hour codes lapsed.
+  kind: political
+- id: butler-1936
+  name: Butler decision voids the AAA
+  start: 1936-01-06
+  end: 1936-01-06
+  summary: United States v. Butler (6–3) held the Agricultural Adjustment Act's processing tax and production-control scheme unconstitutional; Congress substituted the Soil Conservation and Domestic Allotment Act (Feb. 29, 1936).
+  kind: political
+- id: share-our-wealth
+  name: Share Our Wealth movement and Huey Long's assassination
+  start: 1934-02-23
+  end: 1935-09-10
+  summary: Long's Share Our Wealth clubs (7.5 million claimed members) threatened a 1936 third-party run until he was shot in Baton Rouge on Sept. 8, 1935; his following passed to Gerald L. K. Smith and the Union Party.
+  kind: political
+- id: townsend-movement
+  name: Townsend old-age pension movement
+  start: 1933-09-30
+  end: 1936-11-03
+  summary: Dr. Francis Townsend's $200-a-month pension plan built about two million club members by 1936, pushed Congress toward Social Security, and fed the Union Party.
+  kind: political
+- id: italy-ethiopia-1935
+  name: Italian invasion of Ethiopia
+  start: 1935-10-03
+  end: 1936-05-09
+  summary: Mussolini's conquest of Ethiopia; League sanctions failed; the U.S. applied the 1935 Neutrality Act arms embargo.
+  kind: war
+- id: spanish-civil-war
+  name: Spanish Civil War
+  start: 1936-07-17
+  end: 1939-04-01
+  summary: Nationalist rising against the Spanish Republic; Germany and Italy aided Franco; the U.S. extended its arms embargo to the conflict in January 1937.
+  kind: war
+- id: drought-1936
+  name: Drought of 1936
+  start: 1936-06-01
+  end: 1936-09-30
+  summary: The hottest, driest summer on record across the Plains and Midwest; Roosevelt toured the drought states and called a Des Moines drought conference (Sept. 3) that Landon attended.
+  kind: economic
+- id: sit-down-strikes
+  name: Sit-down strikes (GM Flint and after)
+  start: 1936-12-30
+  end: 1937-03-12
+  summary: The UAW's Flint sit-down forced General Motors to recognize the union (Feb. 11, 1937); a wave of sit-downs followed, and U.S. Steel signed with the SWOC without a strike.
+  kind: economic
+- id: court-packing-1937
+  name: The court-reorganization ("court-packing") fight
+  start: 1937-02-05
+  end: 1937-07-22
+  summary: Roosevelt's bill to add up to six Supreme Court justices; defeated in the Senate after the Court upheld the Wagner Act and Social Security and Justice Van Devanter retired.
+  kind: political
+- id: election-1938
+  name: 1938 midterm elections and the failed "purge"
+  start: 1938-06-24
+  end: 1938-11-08
+  summary: Roosevelt campaigned against conservative Democrats in primaries and lost; Republicans gained 81 House and 8 Senate seats, cementing the conservative coalition.
+  kind: political

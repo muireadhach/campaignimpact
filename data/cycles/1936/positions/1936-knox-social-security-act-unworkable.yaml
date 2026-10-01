@@ -1,0 +1,31 @@
+cycle: 1936
+candidate: frank-knox
+issue: social-security-financing
+categories:
+- relief
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: reported
+evidence_quality: B
+title: The Social Security Act is 'unworkable and unsound' -- 'lip service to security'; a Republican administration
+  would offer its own legislation
+solution: Replace the Act; warn workers the taxes will rise and that 'the people are going to retire Santa Claus.'
+rationale: '''Today no life insurance policy is secure; no savings account is safe.'''
+statements:
+- date: '1936-09-05'
+  venue: Lehigh County Fair Grounds, Allentown, Pa. (Associated Press, Evening Star)
+  phase: general
+  attribution: reported
+  doc: loc-sn83045462-1936-09-06-ed1-p4
+  quote: '"Lip service to security" was the nominee''s term for the social security measure, which provides for
+    unem ployment insurance and old-age pen sions. He called it "unworkable and unsound."'
+- date: '1936-09-05'
+  venue: Lehigh County Fair Grounds, Allentown, Pa. (Associated Press, Evening Star)
+  phase: general
+  attribution: reported
+  doc: loc-sn83045462-1936-09-06-ed1-p4
+  quote: Knox said a Republican adminis tration would offer legislation on so cial security
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

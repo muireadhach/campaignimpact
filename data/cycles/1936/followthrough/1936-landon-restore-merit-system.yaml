@@ -1,0 +1,17 @@
+position: 1936-landon-restore-merit-system
+verdict: not_applicable
+contested: false
+summary: The Hatch Act (1939) and Ramspeck Act (1940) extended civil-service rules and coverage under the winner.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Hatch Act
+  date: '1939-08-02'
+  doc: app-message-congress-the-hatch-act
+  note: Political-activity rules for all federal employees.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,44 @@
+cycle: 1936
+candidate: alf-landon
+issue: federal-budget-balance
+categories:
+- budget
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Balance the budget by cutting expenditures, not by raising taxes
+solution: Stop 'the folly of uncontrolled spending'; balance the budget 'drastically and immediately' by cutting
+  out foolish experiments (a billion dollars 'any time it wanted to') while protecting relief allotments.
+rationale: '''Mounting debts and increasing taxes constitute a threat'' to security; ''for every single dollar spent
+  we will pay back two dollars!'''
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: Stop the folly of uncontrolled spending. Balance the budget--not by increasing taxes but by cutting expenditures,
+    drastically and immediately.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: Our party holds nothing to be of more urgent importance than putting our financial house in order. For
+    the good of all of us, we must re-establish responsibility in the handling of Government finances. We must recognize
+    that a government does not have an unlimited supply of money to spend.
+- date: '1936-10-29'
+  venue: Madison Square Garden, New York (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: I pledge myself to put an end to extravagance and waste. I pledge myself to stop the policy that glori
+    fies spending. I pledge myself to balance the budget.
+- date: '1936-10-29'
+  venue: Madison Square Garden, New York (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: We can do this within the limits of a balanced budget. And don't forget I am going to balance the budget.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

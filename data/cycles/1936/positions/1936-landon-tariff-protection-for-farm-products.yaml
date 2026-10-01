@@ -1,0 +1,40 @@
+cycle: 1936
+candidate: alf-landon
+issue: tariff-level
+categories:
+- trade
+- agriculture
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Protect the farmer against imports of livestock, dairy and farm products; keep non-competing goods on the
+  free list
+solution: Maintain protection on all commodities competing with American farms and industries, including quarantine
+  against imports from countries with weaker sanitary rules; keep free-list items free.
+rationale: Forty percent of imports compete with American producers subsidized by foreign governments and 'low-wage
+  and depreciated-currency countries.'
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: To protect the American farmer against the importation of all live stock, dairy, and agricultural products,
+    substitutes thereof, and derivatives therefrom, which will depress American farm prices.
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: We would keep on the free list all products not grown or produced in the United States in commercial quantities.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: Our farmers are entitled to all of the home market they can supply without injustice to the consumer. We
+    propose a policy that protects them in this right.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

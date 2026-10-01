@@ -1,0 +1,18 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+position: 1936-fdr-forces-of-selfishness-meet-their-master
+source_type: editorial
+source_name: Chicago Tribune (Republican), quoted in the Evening Star
+date: '1936-11-05'
+perceived: Roosevelt owed his victory to a 'Popular Front' led by radicals and would turn further left; 'millions
+  who voted for Mr. Roosevelt are due for a sharp awakening.'
+fidelity: distorted
+salience: high
+doc: loc-sn83045462-1936-11-05-ed1-p8
+quote: It is to men of the stripe of Du binsky, Antoninl, Ia Guardia, Norris and Lundeen, if not at once to Brow
+  der, that Mr. Roosevelt will turn for counsel.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

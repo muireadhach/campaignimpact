@@ -1,0 +1,30 @@
+position: 1936-fdr-low-interest-rates-sounder-home-financing
+verdict: kept
+contested: true
+summary: Interest rates stayed at record lows; FHA insurance was expanded in 1938; but Roosevelt vetoed a two-year
+  extension of subsidized 3.5 percent Federal Land Bank rates in June 1938 as too costly -- a limit on 'low interest
+  rates' for farmers.
+mechanisms:
+- type: executive_order
+  name: FHA insurance authorization raised
+  date: '1938-12-13'
+  doc: app-letter-the-federal-housing-administration
+  effect: Mortgage insurance expanded.
+  consistent: 'yes'
+- type: veto
+  name: Veto of the farm-loan interest-rate extension
+  date: '1938-06-15'
+  doc: app-veto-farm-loan-interest-rates-bill
+  effect: Refused to extend emergency rate cuts; Congress overrode.
+  consistent: 'no'
+assessments:
+- doc: app-letter-the-federal-housing-administration
+  verdict: kept
+  reasoning: Home financing was cheaper and more available in 1940 than in 1936.
+- doc: app-veto-farm-loan-interest-rates-bill
+  verdict: partial
+  reasoning: The farm-rate veto shows the promise did not extend to subsidized rates at Treasury cost.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

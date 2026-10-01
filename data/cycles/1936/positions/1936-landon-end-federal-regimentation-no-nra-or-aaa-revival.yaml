@@ -1,0 +1,45 @@
+cycle: 1936
+candidate: alf-landon
+issue: economic-planning
+categories:
+- executive_power
+- industry
+- agriculture
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- schechter-1935
+title: 'End federal regimentation: no revival of NRA or AAA controls, no more emergency powers over production,
+  wages and hours'
+solution: Free enterprise 'from incessant governmental intimidation'; refuse national economic planning that tells
+  farmers what to plant and workers how many hours to work; make the President answer whether he will re-enact NRA
+  and AAA.
+rationale: '''No nation can continue half regimented and half free''; national economic planning ''starts on the
+  assumption that the people are not capable of looking after their own affairs.'''
+statements:
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: We must be freed from incessant governmental intimidation and hostility. We must be freed from excessive
+    expenditures and crippling taxation. We must be freed from the effects of an arbitrary and uncertain monetary
+    policy. And, through a vigorous enforcement of the anti-trust laws, we must be freed from private monopolistic
+    control.
+- date: '1936-10-13'
+  venue: Detroit (Washington Times text)
+  phase: general
+  doc: loc-sn84026749-1936-10-14-ed1-p4
+  quote: If we have an NRA we must have an AAA. If we have an AAA we must have an NRA. No nation can continue half
+    regimented and half free.
+- date: '1936-10-29'
+  venue: Madison Square Garden, New York (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: I intend to throw out all plana based on scarcity. I Intend to put an end to this administration's policy
+    of "try any thing once." The time has come for a steady hand at the wheel.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

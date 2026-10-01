@@ -1,0 +1,46 @@
+position: 1936-fdr-antitrust-enforcement
+verdict: kept
+contested: false
+summary: An FTC investigation of monopolistic price-raising (Nov. 1937), the monopoly message of April 1938 that
+  produced the Temporary National Economic Committee, and Thurman Arnold's Antitrust Division (1938-43), which filed
+  more cases than all predecessors combined. No new statute restored the laws' 'efficacy' as the platform promised.
+mechanisms:
+- type: message
+  name: Letter to the FTC on monopolistic practices raising living costs
+  date: '1937-11-16'
+  doc: app-letter-monopolistic-practices-raising-living-costs
+  quote: request the Federal Trade Commission to make an immediate investigation into such alleged practices and
+    methods
+  effect: Ordered an FTC inquiry.
+  consistent: 'yes'
+- type: message
+  name: Message on curbing monopolies
+  date: '1938-04-29'
+  doc: app-message-congress-curbing-monopolies
+  quote: Among us today a concentration of private power without equal in history is growing.
+  effect: Asked for a national inquiry into concentration of economic power.
+  consistent: 'yes'
+- type: statute
+  name: Temporary National Economic Committee created
+  date: '1938-06-16'
+  doc: wiki-temporary-national-economic-committee
+  effect: Congressional-executive study of economic concentration, 1938-41.
+  consistent: 'yes'
+- type: appointment
+  name: Thurman Arnold heads the Antitrust Division
+  date: '1938-03-11'
+  doc: wiki-thurman-arnold
+  quote: best known for his trust-busting campaign as Assistant Attorney General in charge of the Antitrust Division
+    in President Franklin D. Roosevelt 's Department of Justice from 1938 to 1943
+  effect: Aggressive prosecution campaign 1938-43.
+  consistent: 'yes'
+assessments:
+- doc: app-fireside-chat-14
+  verdict: kept
+  reasoning: Roosevelt counted the TNEC among the 75th Congress's achievements.
+  quote: The Congress has provided a fact-finding Commission to find a path through the jungle of contradictory
+    theories about wise business practices
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

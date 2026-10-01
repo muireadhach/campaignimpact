@@ -1,0 +1,31 @@
+position: 1936-fdr-useful-work-relief-not-dole
+verdict: kept
+contested: false
+summary: 'WPA work relief continued through the term: cut in 1937, expanded by $1.425 billion in June 1938 after
+  the recession, supplemented in 1939. The Hatch Act (1939) answered the charge that relief was politically exploited.'
+mechanisms:
+- type: statute
+  name: Emergency Relief Appropriation Act of 1938
+  date: '1938-06-21'
+  doc: app-message-congress-the-works-progress-administration
+  quote: the Congress appropriated to the Works Progress Administration the sum of $1,425,000,000
+  effect: $1.425 billion for WPA.
+  consistent: 'yes'
+  indicators:
+  - unemployment-rate-1929-42
+- type: message
+  name: Message on the WPA
+  date: '1939-01-05'
+  doc: app-message-congress-the-works-progress-administration
+  effect: Asked supplemental funds; proposed statutory penalties for political abuse.
+  consistent: 'yes'
+  indicators:
+  - unemployment-rate-1929-42
+assessments:
+- doc: app-message-congress-stimulating-recovery
+  verdict: kept
+  reasoning: Work relief remained the instrument; the dole was not restored.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

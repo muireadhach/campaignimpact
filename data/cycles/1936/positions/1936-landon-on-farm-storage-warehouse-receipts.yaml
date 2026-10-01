@@ -1,0 +1,25 @@
+cycle: 1936
+candidate: alf-landon
+issue: farm-storage-credit
+categories:
+- agriculture
+- banking
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Amend the warehousing act so grain stored on the farm earns a federal warehouse receipt and bank credit
+solution: Let the farmer who stores insurable grain on his farm borrow from any bank against a federal warehouse
+  receipt, so feed reserves are carried on the farm and surpluses evened out.
+rationale: '''We have learned from painful experience that the overfilled crib may quickly become the empty crib.'''
+statements:
+- date: '1936-09-22'
+  venue: Des Moines, Iowa (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-23-ed1-p9
+  quote: As part of the plan for removing the depression effect of surpluses I shall propose an amendment to the
+    Federal warehousing act so that reserves of feed, such as corn, can be carried on the farm.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

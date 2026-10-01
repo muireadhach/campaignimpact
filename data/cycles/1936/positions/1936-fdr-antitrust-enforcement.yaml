@@ -1,0 +1,41 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: antitrust
+categories:
+- industry
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Vigorously enforce the antitrust laws and restore their efficacy against new corporate devices
+solution: Enforce the criminal and civil provisions of the existing antitrust laws and, where corporate devices
+  or judicial construction have weakened them, legislate to restore their effectiveness against monopolistic practices.
+rationale: Half of industrial corporate wealth was under fewer than 200 corporations tied together by interlocking
+  directors; 'private enterprise, indeed, became too private.'
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We pledge vigorously and fearlessly to enforce the criminal and civil provisions of the existing anti-trust
+    laws, and to the extent that their effectiveness has been weakened by new corporate devices or judicial construction,
+    we propose by law to restore their efficacy in stamping out monopolistic practices and the concentration of
+    economic power.
+- date: '1936-10-14'
+  venue: Chicago
+  phase: general
+  doc: app-address-chicago-ill
+  quote: But above all, we have fought to break the deadly grip which monopoly has in the past been able to fasten
+    on the business of the Nation.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: Of course we will continue every effort to end monopoly in business, to support collective bargaining,
+    to stop unfair competition, to abolish dishonorable trade practices. For all these we have only just begun to
+    fight.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

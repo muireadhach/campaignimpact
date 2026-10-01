@@ -1,0 +1,58 @@
+position: 1936-fdr-clarifying-amendment-not-court-tampering
+verdict: broken
+contested: true
+summary: Two weeks after the inauguration Roosevelt asked Congress to let him appoint up to six additional Supreme
+  Court justices -- presented as a docket-relief measure, not the amendment route the platform had described. The
+  Senate killed the bill (July 22, 1937) after the Court upheld the Wagner and Social Security Acts and Van Devanter
+  retired; in 1939 the President claimed the objective 'was achieved' by other means.
+mechanisms:
+- type: message
+  name: Message on reorganization of the judicial branch (court bill)
+  date: '1937-02-05'
+  doc: app-message-congress-the-reorganization-the-judicial-branch-the-government
+  quote: The simple fact is that today a new need for legislative action arises because the personnel of the Federal
+    Judiciary is insufficient to meet the business before them.
+  effect: Proposed additional justices for every member over 70.
+  consistent: 'no'
+- type: message
+  name: Fireside chat on the judiciary
+  date: '1937-03-09'
+  doc: app-fireside-chat-17
+  effect: Defended the bill to the public as saving the Constitution from the Court.
+  consistent: 'no'
+- type: other
+  name: Senate recommits the court bill
+  date: '1937-07-22'
+  doc: wiki-judicial-procedures-reform-bill-of-1937
+  quote: was a failed legislative initiative proposed by U.S. President Franklin D. Roosevelt to add more justices
+    to the U.S. Supreme Court
+  effect: Bill defeated; only judicial-procedure reforms passed.
+  consistent: 'no'
+- type: message
+  name: Statement on court reorganization
+  date: '1939-08-07'
+  doc: app-statement-court-reorganization
+  quote: It is true that the precise method, which I recommended, was not adopted, but the objective, as every person
+    in the United States knows today, was achieved.
+  effect: Claimed the objectives had been reached without the bill.
+  consistent: 'no'
+assessments:
+- doc: wiki-judicial-procedures-reform-bill-of-1937
+  verdict: broken
+  reasoning: The platform's clarifying-amendment pledge was bypassed for a statutory change in the Court's size;
+    Landon's unanswered question was answered in the negative.
+- doc: app-statement-court-reorganization
+  verdict: kept
+  reasoning: 'Roosevelt''s own retrospective: the goal -- a Court that sustained reform -- was achieved, and the
+    retirement statute passed.'
+obstruction:
+  reasons:
+  - congress
+  - party
+  explanation: Democratic senators (Wheeler, Garner's allies) and the Judiciary Committee's adverse report killed
+    the bill.
+  doc: wiki-judicial-procedures-reform-bill-of-1937
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

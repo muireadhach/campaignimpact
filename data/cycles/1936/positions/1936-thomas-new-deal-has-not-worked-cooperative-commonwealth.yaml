@@ -1,0 +1,28 @@
+cycle: 1936
+candidate: norman-thomas
+issue: socialization-of-industry
+categories:
+- economy
+kind: pledge_forward
+commitment_strength: vague_gesture
+attribution: reported
+evidence_quality: C
+title: The New Deal 'has not worked'; build the cooperative commonwealth
+solution: Oppose both parties with 'a logical analysis of the diseases of our time and a sure philosophy for building
+  the co-operative commonwealth.'
+rationale: '''There is not a single economist or social analyst of repute who dares to affirm that there are now
+  in operation political and economic forces to make new war unlikely or the danger of fresh economic catastrophe
+  remote.'''
+statements:
+- date: '1936-05-25'
+  venue: Socialist convention banquet, Cleveland (Associated Press, Evening Star)
+  phase: convention
+  attribution: reported
+  doc: loc-sn83045462-1936-05-26-ed1-p12
+  quote: Claiming "the New Deal has not worked/* Thomas said "there is not a single economist or social analyst
+    of repute who dares to affirm that there are now in operation political and economic forces to make new wai
+    unlikely or the danger of fresh eco nomic catastrophe remote."
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

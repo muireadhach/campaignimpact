@@ -1,0 +1,18 @@
+position: 1936-lemke-townsend-old-age-pension-alliance
+verdict: not_applicable
+contested: false
+summary: The Townsend plan never passed; the 1939 amendments raised early Social Security benefits partly in response
+  to the movement.
+mechanisms: []
+assessments: []
+enacted_by_other:
+- by: franklin-d-roosevelt
+  type: statute
+  name: Social Security Act Amendments of 1939
+  date: '1939-08-10'
+  doc: wiki-townsend-plan
+  note: Townsend pressure credited with spurring the 1939 benefit increases.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

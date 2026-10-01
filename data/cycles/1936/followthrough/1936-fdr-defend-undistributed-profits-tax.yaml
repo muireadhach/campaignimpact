@@ -1,0 +1,32 @@
+position: 1936-fdr-defend-undistributed-profits-tax
+verdict: abandoned
+contested: false
+summary: The tax Roosevelt defended at Worcester was cut to a token in 1938 and repealed in 1939; he let the 1938
+  bill become law without his signature rather than veto it.
+mechanisms:
+- type: statute
+  name: Revenue Act of 1938 reduces the undistributed-profits surtax
+  date: '1938-05-28'
+  doc: wiki-undistributed-profits-tax
+  effect: Tax largely gutted; law without signature.
+  consistent: 'no'
+- type: statute
+  name: Revenue Act of 1939 repeals the tax
+  date: '1939-06-29'
+  doc: wiki-undistributed-profits-tax
+  effect: Repeal.
+  consistent: 'no'
+assessments:
+- doc: wiki-undistributed-profits-tax
+  verdict: abandoned
+  reasoning: The 'sound principle' of 1936 was surrendered to business and congressional opposition without a veto.
+obstruction:
+  reasons:
+  - congress
+  - economy
+  explanation: Blamed by business for the 1937 recession; Congress dismantled it.
+  doc: wiki-undistributed-profits-tax
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

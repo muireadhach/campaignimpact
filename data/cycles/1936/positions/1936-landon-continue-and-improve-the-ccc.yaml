@@ -1,0 +1,28 @@
+cycle: 1936
+candidate: alf-landon
+issue: youth-programs
+categories:
+- relief
+- education
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: Continue the Civilian Conservation Corps, add education fitting enrollees for private jobs, and take the
+  politicians out of its administration
+solution: Keep the CCC as a tide-over, not a permanent occupation; add educational programs and advancement on merit
+  for 'the C. C. C. boys themselves.'
+rationale: The administration 'has forgotten the original purpose of the C. C. C.' and 'is threatening to lead ...
+  the corps down a blind alley.'
+statements:
+- date: '1936-10-20'
+  venue: Barstow, California (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-10-20-ed1-p6
+  quote: Once I am elected President I will do everything within my power not only to continue the C. C. C„ but
+    to improve the organization. It shall be my purpose to make it far more ef fective than it yet has been, both
+    for the young men who compose it and for the public.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

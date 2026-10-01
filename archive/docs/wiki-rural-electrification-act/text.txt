@@ -1,0 +1,46 @@
+The Rural Electrification Act of 1936 ( REA ), enacted on May 20, 1936, provided federal loans for the installation of electrical distribution systems to serve isolated rural areas of the United States .
+The funding was channeled through cooperative electric power companies , hundreds of which still exist today. These member-owned cooperatives purchased power on a wholesale basis and distributed it using their own network of transmission and distribution lines. The Rural Electrification Act was one of many New Deal proposals by President Franklin D. Roosevelt to remedy high unemployment during the Great Depression .
+History
+On May 11, 1935, President Roosevelt issued Executive Order 7037 , which created the Rural Electrification Administration . In 1936, the Congress endorsed Roosevelt's action by passing the Rural Electrification Act. At the time the Rural Electrification Act was passed, electricity was commonplace in cities but largely unavailable in farms, ranches, and other rural places. Representative John E. Rankin and Senator George William Norris were supporters of the Rural Electrification Act, which was signed into law by Roosevelt on May 20, 1936.
+Speaker of the House Sam Rayburn was a major proponent of the REA, which he helped pass in 1936 as Chairman of the House Interstate and Foreign Commerce Committee . Rayburn stated in 1959 that ninety percent of farm homes in the U.S. were electrified, compared to three percent in the early 1930s.
+Criticism and Technical issues
+Historians Richard F. Hirsh and David T. Beito have criticized the REA for stifling the growth of more decentralized non-governmental sources of power. According to Beito, "the REA, and the TVA before it, reduced incentives for consumers to "stay off the grid." At the time those agencies came on the scene, more than half of all electrified farm homes had individual generators. Manufactured by commercial companies and sold directly to consumers, these so-called "individual lighting plants" used such diverse power sources as wind, water, gasoline, or kerosene."
+Supporters of the REA argued that the provision of power to remote areas was not economically feasible. A 2300- volt distribution system was then used in cities. This relatively low voltage could be carried only about 4 miles (6.4 km) before the voltage drop became unacceptable. REA cooperatives used a 6900-volt distribution network (soon changed to the present-day 12,470/7200V 4-wire Y system), which could support much longer runs (up to about 40 mi (64 km) ). Despite requiring more expensive transformers at each home, the overall system cost was manageable.
+In opposition to this view, Beito states that "Private companies had led a four-fold increase in electrification, some of which occurred during a so-called "agricultural depression" between 1924 (2.8% of rural homes) and 1932 (11.8% of rural homes). Had this original rate of increase continued (it slowed but did not decline during the early 1930s) nearly all farms would have been electrified by the 1940s."" However, an article by Tim Sablik notes that the rate of rural electrification had stalled at 11% between 1932 and 1938 -- when the Rural Electrification Act went into effect -- due to the economic infeasibility of extending electrification to rural regions and the inability for power utilities to leverage economies of scale over large, sparsely populated areas, and that the utility cooperatives created by the act helped bring the price of rural electrification down to a manageable level.
+Wiring homes and farms
+REA crews traveled through the American countryside, bringing teams of electricians along with them. The electricians added wiring to houses and barns to utilize the newly available power provided by the line crews. A standard REA installation in a house (post-World War II) consisted of:
+A 60- amp , 230-volt fuse panel , with:
+A 60-amp range circuit
+A 20-amp kitchen circuit
+Two or three 15-amp lighting circuits
+A ceiling-mounted light fixture was installed in each room, usually controlled by a single switch mounted near a door. At most, one outlet was installed per room, since plug-connected appliances were expensive and uncommon. Wiring was performed using type NM (nonmetallic sheathed cable), insulated with asbestos -reinforced rubber covered with jute and tar .
+Many of these original installations still exist today, though most have been augmented to support a greater number and variety of appliances.
+Later amendments
+Some amendments to the Rural Electrification Act include:
+1944: loan terms increased to 35 years; the act is made permanent
+1949: extended the act to allow loans to telephone companies wishing to extend their connections to unconnected rural areas
+1993: provisions to restructure the direct loan programs for rural electricity, telephone cooperatives, and energy conservation market
+December 8, 1993: North American Free Trade Agreement Implementation Act--The "Buy American" provision to now include Mexico and Canada .
+2008: provisions for access to rural broadband telecommunications network and rural internet
+2014: pilot program for rural gigabit broadband network
+See also
+Great Depression
+Rural Utilities Service
+References
+↑ Sablik, Tim (First Quarter 2020). "Electrifying Rural America". Econ Focus . Federal Reserve Bank of Richmond .
+↑ "Rural Electrification Act" . Ohio History Central . Archived from the original on December 27, 2023.
+↑ Peters, Gerhard; Woolley, John T. "Franklin D. Roosevelt: 'Executive Order 7037 Establishing the Rural Electrification Administration.,' May 11, 1935" . The American Presidency Project . University of California, Santa Barbara . Retrieved July 3, 2016 .
+↑ Zwiers, Maarten (July 11, 2017). "John Elliott Rankin" . Mississippi Encyclopedia . Center for Study of Southern Culture . Retrieved November 9, 2021 .
+↑ "Rural Electrification Act (1936)" . Living New Deal . University of California, Berkeley . Retrieved November 9, 2021 .
+↑ Anderson, Paul E. "Sam Rayburn and Rural Electrification" . East Texas History . Retrieved August 16, 2024 .
+↑ Beito, David T. (2025). FDR: A New Political Life (First ed.). Chicago: Carus Books. p. 62. ISBN 978-1637700693 .
+↑ McBride, Brandon (May 20, 2016). "Celebrating the 80th Anniversary of the Rural Electrification Administration" . USDA . Retrieved November 9, 2021 .
+↑ "The Rural Electrification Act" . Harrison Rural Electrification Association, Inc . Retrieved November 9, 2021 .
+↑ Beito, David T. (2025). FDR: A New Political Life (First ed.). Chicago: Carus Books. p. 63. ISBN 978-1637700693 .
+↑ Sablik, Tim. "Electrifying Rural America" . Federal Reserve Bank of Richmond . Archived from the original on February 13, 2021 . Retrieved July 31, 2026 .
+↑ Peters, Gerhard; Woolley, John T. "Franklin D. Roosevelt: "Statement on Signing a Rural Electrification Bill.," September 22, 1944" . The American Presidency Project . University of California, Santa Barbara . Retrieved July 3, 2016 .
+↑ Peters, Gerhard; Woolley, John T. "Harry S. Truman: 'Statement by the President Upon Signing Bill Providing for Improved Rural Telephone Facilities.,' October 28, 1949" . The American Presidency Project . University of California, Santa Barbara . Retrieved July 3, 2016 .
+↑ Peters, Gerhard; Woolley, John T. "William J. Clinton: 'Statement on Signing the Rural Electrification Loan Restructuring Act of 1993,' November 1, 1993" . The American Presidency Project . University of California, Santa Barbara . Retrieved July 4, 2016 .
+External links
+Full text of the original Rural Electrification Act of 1936
+Rural Electrification Act of 1936 With Amendments as Approved through December 31, 2000

@@ -1,0 +1,26 @@
+cycle: 1936
+candidate: alf-landon
+issue: war-debts
+categories:
+- diplomacy
+- budget
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: B
+title: Use every effort to collect the war debts due from foreign countries
+solution: Reopen negotiations on the roughly $12 billion of defaulted war debts.
+rationale: The debts equal 'one-third of our national debt'; 'no effort has been made by the present administration
+  even to reopen negotiations.'
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: We shall use every effort to collect the war debt due us from foreign countries, amounting to $12,000,000--one-third
+    of our national debt. No effort has been made by the present administration even to reopen negotiations.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

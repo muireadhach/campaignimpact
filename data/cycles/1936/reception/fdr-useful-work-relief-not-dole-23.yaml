@@ -1,0 +1,18 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+position: 1936-fdr-useful-work-relief-not-dole
+source_type: news_coverage
+source_name: David Lawrence, Evening Star, on the Baltimore Sun poll
+date: '1936-10-24'
+perceived: Relief recipients feared open postcard ballots could identify their votes; WPA foremen collected ballot
+  cards -- relief seen as a political machine.
+fidelity: distorted
+salience: medium
+doc: loc-sn83045462-1936-10-24-ed1-p7
+quote: it is reported that foremen on W. P. A. units asked the men to bring their ballot cards to a central place
+  to be sent in.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

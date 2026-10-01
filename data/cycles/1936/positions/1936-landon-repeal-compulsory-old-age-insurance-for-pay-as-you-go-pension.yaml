@@ -1,0 +1,70 @@
+cycle: 1936
+candidate: alf-landon
+issue: social-security-financing
+categories:
+- relief
+- taxation
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- second-new-deal-1935
+- townsend-movement
+title: Repeal the compulsory old-age insurance plan; pay every needy citizen over 65 a pension from a direct, widely
+  distributed tax
+solution: Repeal the payroll-tax insurance titles; amend the needy-aged title so every citizen over 65 gets the
+  supplementary payment needed for a minimum income, financed pay-as-you-go by 'a direct tax widely distributed'
+  and federal grants matching State contributions.
+rationale: The 1935 plan 'assumes that Americans are irresponsible'; it is 'the largest tax-bill in history', a
+  tax on employment shifted to workers and consumers, and its reserve is 'roll after roll of neatly executed I.O.U.'s'
+  -- 'a cruel hoax.'
+statements:
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: We approve a pay-as-you-go policy, which requires of each generation the support of the aged and the determination
+    of what is just and adequate.
+- date: '1936-06-11'
+  venue: Republican National Convention, Cleveland (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-republican-party-platform-1936
+  quote: Every American citizen over sixty-five should receive the supplementary payment necessary to provide a
+    minimum income sufficient to protect him or her from want.
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: In addition, we shall amend the Social Security Act to make it workable. We recognize that society, acting
+    through government, must afford as large a measure of protection as it can against involuntary unemployment
+    and dependency in old age. We pledge that the Federal Government will do its proper share in that task.
+- date: '1936-09-26'
+  venue: Milwaukee Auditorium (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-27-ed1-p14
+  quote: In my own Judgment--and I have examined It most carefully--this law is un just. unworkable, stupidly drafted
+    and wastefully financed.
+- date: '1936-09-26'
+  venue: Milwaukee Auditorium (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-27-ed1-p14
+  quote: To get a workable old-age pension plan we must repeal the present com pulsory insurance plan. The Repub
+    lican party is pledged to do this.
+- date: '1936-09-26'
+  venue: Milwaukee Auditorium (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-27-ed1-p14
+  quote: I am not exaggerating the folly of this legislation. The saving it forces on our workers is a cruel hoax.
+- date: '1936-10-29'
+  venue: Madison Square Garden, New York (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-10-30-ed1-p41
+  quote: We propose that the funds for security pay ments shall be provided as we go along. We propose that they
+    shall be obtained from a direct and spe cific tax widely distributed.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

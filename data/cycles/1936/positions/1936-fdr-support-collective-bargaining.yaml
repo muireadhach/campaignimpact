@@ -1,0 +1,35 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: collective-bargaining
+categories:
+- labor
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- second-new-deal-1935
+title: Guard the worker's right to organize and bargain collectively
+solution: Keep the Wagner Act's guarantee of self-organization free from employer interference and the federal machinery
+  for settling disputes; resist the 'labor spy' tactics of the pay-envelope campaign.
+rationale: The right to bargain was 'written into the law of the land'; a return to labor spies would disrupt 'the
+  hope for a new peace between worker and employer.'
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We will continue to protect the worker and we will guard his rights, both as wage-earner and consumer,
+    in the production and consumption of all commodities, including coal and water power and other natural resource
+    products.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: Only reckless men, heedless of consequences, would risk the disruption of the hope for a new peace between
+    worker and employer by returning to the tactics of the labor spy.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

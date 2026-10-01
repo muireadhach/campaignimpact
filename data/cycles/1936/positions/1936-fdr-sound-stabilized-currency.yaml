@@ -1,0 +1,35 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: currency-standard
+categories:
+- monetary
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: party_platform
+evidence_quality: A
+title: A permanently sound currency stabilized against wide fluctuations
+solution: Maintain the managed dollar of 1934 ('the soundest currency in the world') and stabilize it to prevent
+  the former swings that injured debtors and creditors in turn.
+rationale: Wide fluctuations 'injured in turn producers, debtors, and property owners on the one hand, and wage-earners
+  and creditors on the other.'
+supersedes: 1932-fdr-sound-currency
+statements:
+- date: '1936-06-25'
+  venue: Democratic National Convention, Philadelphia (platform)
+  phase: convention
+  attribution: party_platform
+  doc: app-1936-democratic-party-platform
+  quote: We approve the objective of a permanently sound currency so stabilized as to prevent the former wide fluctuations
+    in value which injured in turn producers, debtors, and property owners on the one hand, and wage-earners and
+    creditors on the other, a currency which will permit full utilization of the country's resources. We assert
+    that today we have the soundest currency in the world.
+- date: '1936-10-14'
+  venue: Chicago
+  phase: general
+  doc: app-address-chicago-ill
+  quote: By our monetary policy we have kept prices up and lightened the burden of debt. It is easier to get credit.
+    It is easier to repay.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,37 @@
+cycle: 1936
+candidate: alf-landon
+issue: conservation
+categories:
+- agriculture
+- environment
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+triggered_by:
+- dust-bowl
+title: Real soil conservation and a national land-use and flood-prevention program run with the States and 'out
+  of politics'
+solution: Cash payments for actual conservation performance where farmers cannot afford it, State participation
+  with local administration by farmers, linked to water conservation and flood control, without penalizing dairy
+  and livestock producers.
+rationale: '''The wealth of our soil must be preserved''; Kansas had already linked soil and water conservation
+  into one program.'
+statements:
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: We shall establish effective soil conservation and erosion control policies in connection with a national
+    land use and flood prevention program--and keep it all out of politics.
+- date: '1936-09-22'
+  venue: Des Moines, Iowa (Evening Star text)
+  phase: general
+  doc: loc-sn83045462-1936-09-23-ed1-p9
+  quote: Where the farmer is unable to afford proper conservation prac tices cash payments should be made for actual
+    performance. There should be State participa tion in the program, with the local administration In the hands
+    of farmers themselves.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

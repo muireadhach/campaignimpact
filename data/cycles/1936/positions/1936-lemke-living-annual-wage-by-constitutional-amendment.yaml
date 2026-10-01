@@ -1,0 +1,36 @@
+cycle: 1936
+candidate: william-lemke
+issue: minimum-wage
+categories:
+- labor
+- federalism
+kind: pledge_forward
+commitment_strength: specific_pledge
+attribution: surrogate
+evidence_quality: B
+title: A 'living annual wage' -- $1,800 for a family of five -- by federal law and a constitutional amendment if
+  necessary
+solution: 'Coughlin''s plank for the Union candidate: amend the Constitution so ''free unbridled competition must
+  submit to reasonable Federal laws'' guaranteeing a fair annual wage to every willing worker.'
+rationale: '''The hourly wage system of modem capitalistic industrialism must pass out of existence.'''
+statements:
+- date: '1936-09-12'
+  venue: Father Coughlin's radio broadcast (Associated Press, Evening Star)
+  phase: general
+  attribution: surrogate
+  doc: loc-sn83045462-1936-09-13-ed1-p4
+  quote: '"At the present cost of living, the gum of $1,800 per year is a minimum for a family of five. But which
+    of the presidential candidates will adopt this principle? Unfortunately only one--the impoverished leader of
+    the Impoverished Union Party."'
+- date: '1936-09-12'
+  venue: Father Coughlin's radio broadcast (Associated Press, Evening Star)
+  phase: general
+  attribution: surrogate
+  doc: loc-sn83045462-1936-09-13-ed1-p4
+  quote: '"Both capital and labor must not Only advocate, but seek with their full powers an amendment to our Con
+    stitution. If necessary, by which free unbridled competition must submit to reasonable Federal laws to the end
+    that a fair annual wage will be paid to every American capable of working and willing to work.'
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

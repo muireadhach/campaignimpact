@@ -1,0 +1,21 @@
+position: 1936-fdr-repudiate-communist-support
+verdict: kept
+contested: false
+summary: No alliance with the Communist Party followed; Browder was prosecuted for passport fraud in 1939-40 and
+  imprisoned, and the party's Popular Front line collapsed with the Nazi-Soviet pact.
+mechanisms:
+- type: litigation
+  name: Browder convicted of passport fraud
+  date: '1940-01-22'
+  doc: wiki-earl-browder
+  quote: He was convicted of two counts early in 1940 and sentenced to four years in prison
+  effect: Party leader imprisoned 1942-43.
+  consistent: 'yes'
+assessments:
+- doc: wiki-earl-browder
+  verdict: kept
+  reasoning: The 'red herring' remained an opposition charge, not a policy.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

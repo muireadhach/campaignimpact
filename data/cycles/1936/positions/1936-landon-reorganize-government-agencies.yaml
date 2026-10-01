@@ -1,0 +1,26 @@
+cycle: 1936
+candidate: alf-landon
+issue: government-reorganization
+categories:
+- civil_service
+- budget
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: candidate_direct
+evidence_quality: A
+title: Cooperate with Congress to reorganize agencies, abolish unnecessary ones and eliminate duplication
+solution: An 'effective reorganization of the numerous Government agencies' to save taxpayers' money; appoint 'those
+  men best qualified' and hold them responsible.
+rationale: Seventy-five new agencies and 250,000 added employees had been 'foisted on the taxpayers.'
+statements:
+- date: '1936-07-23'
+  venue: Acceptance address, Topeka
+  phase: convention
+  doc: app-address-accepting-the-republican-presidential-nomination-topeka-kansas
+  quote: I shall cooperate wholeheartedly with Congress in an effective reorganization of the numerous Government
+    agencies, to get rid of those that are not necessary, to eliminate duplication, to insure better administration,
+    and to save the taxpayers' money.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,34 @@
+cycle: 1936
+candidate: william-borah
+issue: antitrust
+categories:
+- industry
+kind: pledge_forward
+commitment_strength: directional_stance
+attribution: reported
+evidence_quality: B
+title: Drive monopoly and price fixing out of the system or face governmental regimentation
+solution: Break the 'monopoly ridden, price-fixing system' that gives 'a scanty meagre living for the vast majority
+  and almost Incalculable wealth for the few'; wrest the party from the utilities, the du Ponts and the eastern
+  organization that defend it.
+rationale: Under either 'the reign of monopoly or the reign of governmental regimentation, the free American citizens
+  ... will disappear as certainly as the free citizens disappeared in Germany and Italy.'
+statements:
+- date: '1936-05-09'
+  venue: Radio address, Cleveland (Associated Press, Evening Star)
+  phase: primary
+  attribution: reported
+  doc: loc-sn83045462-1936-05-10-ed1-p4
+  quote: '"We will either drive monopoly and price fixing out of our system and re store to the disinherited millions
+    their rightful opportunity in the economic world, or we will move to absolute governmental regimentation.'
+- date: '1936-05-09'
+  venue: Radio address, Cleveland (Associated Press, Evening Star)
+  phase: primary
+  attribution: reported
+  doc: loc-sn83045462-1936-05-10-ed1-p4
+  quote: If we are traveling bafek on the road of so-called prosperity ulti mately to arrive at the destination
+    of 1928-29, there will be no recovery for half the population of the United States.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

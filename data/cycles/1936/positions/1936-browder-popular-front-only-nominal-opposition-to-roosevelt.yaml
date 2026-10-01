@@ -1,0 +1,24 @@
+cycle: 1936
+candidate: earl-browder
+issue: radicalism-and-communism
+categories:
+- elections
+kind: pledge_forward
+commitment_strength: vague_gesture
+attribution: reported
+evidence_quality: C
+title: 'Popular Front: nominal opposition to Roosevelt, real opposition to Landon and ''fascism'''
+solution: Run a Communist ticket while treating the defeat of the Republican-Liberty League right as the objective.
+rationale: The Comintern's 1935 turn to the Popular Front against fascism.
+statements:
+- date: '1936-09-30'
+  venue: Campaign (Wikipedia summary)
+  phase: general
+  attribution: reported
+  doc: wiki-earl-browder
+  quote: After 1935 the Communist Party maintained only nominal opposition to the Roosevelt administration , with
+    Browder heading the party's 1936 ticket as its candidate for president in the election of 1936 .
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

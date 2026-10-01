@@ -1,0 +1,17 @@
+cycle: 1936
+candidate: alf-landon
+position: 1936-landon-unemployment-insurance-left-to-the-states
+source_type: editorial
+source_name: Springfield Weekly Republican (independent)
+date: '1936-10-08'
+perceived: Landon would keep a federal tie to old-age pensions but throw unemployment insurance back to the 48 States,
+  ignoring that States would not act alone.
+fidelity: accurate
+salience: medium
+doc: loc-sn83020847-1936-10-08-ed1-p1
+quote: His pro posal is to throw unemployment back to the 48 states absolutely.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,44 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+issue: social-security-financing
+categories:
+- relief
+- taxation
+kind: defense_of_record
+commitment_strength: specific_pledge
+attribution: candidate_direct
+evidence_quality: A
+title: 'Defense of the payroll-tax financing: the employer pays an equal share and the reserves are safe'
+solution: Keep the contributory old-age insurance and the employer-financed unemployment insurance as enacted; reject
+  the 'pay-envelope' claim that workers bear the whole cost or that reserves will be diverted.
+rationale: For every dollar the worker pays the employer pays another, and unemployment insurance premiums are paid
+  entirely by the employer; suggesting a future Congress would steal the reserves 'attack[s] the integrity and honor
+  of American Government itself.'
+notes: The 1939 amendments moved the system toward pay-as-you-go and the reserve was in fact held as Treasury obligations,
+  as Landon had said; see followthrough.
+statements:
+- date: '1936-10-21'
+  venue: Worcester, Massachusetts
+  phase: general
+  doc: app-address-worcester-mass
+  quote: The fund necessary to provide that security is not collected solely from workers. The employer, too, pays
+    an equal share. And both shares--yours and the employer's--are being held for the sole benefit of the worker
+    himself.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: They tell the worker his wage will be reduced by a contribution to some vague form of old-age insurance.
+    They carefully conceal from him the fact that for every dollar of premium he pays for that insurance, the employer
+    pays another dollar. That omission is deceit.
+- date: '1936-10-31'
+  venue: Madison Square Garden, New York
+  phase: general
+  doc: app-address-madison-square-garden-new-york-city-1
+  quote: But they are guilty of more than deceit. When they imply that the reserves thus created against both these
+    policies will be stolen by some future Congress, diverted to some wholly foreign purpose, they attack the integrity
+    and honor of American Government itself.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

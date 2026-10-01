@@ -1,0 +1,35 @@
+position: 1936-fdr-drought-and-flood-control
+verdict: kept
+contested: false
+summary: Drought relief continued through the 1936-37 winter; the Great Plains committee program (Feb. 1937), the
+  water-conservation report (May 1937) and the Flood Control Act of 1938 gave the Corps of Engineers a national
+  basin-by-basin program; Ohio-Mississippi flood relief followed the January 1937 flood.
+mechanisms:
+- type: message
+  name: Message on a program for the Great Plains
+  date: '1937-02-10'
+  doc: app-message-congress-program-for-the-great-plains-area
+  effect: Long-range drought-area program.
+  consistent: 'yes'
+- type: message
+  name: Message transmitting the water conservation and flood control report
+  date: '1937-05-12'
+  doc: app-message-congress-transmitting-report-water-conservation-and-flood-control
+  effect: National water plan.
+  consistent: 'yes'
+- type: statute
+  name: Flood Control Act of 1938
+  date: '1938-06-28'
+  doc: wiki-flood-control-act-of-1938
+  quote: authorized civil engineering projects such as dams , levees , dikes , and other flood control measures
+    through the United States Army Corps of Engineers
+  effect: Dams, levees and reservoirs nationwide.
+  consistent: 'yes'
+assessments:
+- doc: wiki-flood-control-act-of-1938
+  verdict: kept
+  reasoning: A permanent federal flood-control program was in place by 1938.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

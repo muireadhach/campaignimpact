@@ -1,0 +1,37 @@
+position: 1936-fdr-reduce-expenses-as-relief-declines
+verdict: broken
+contested: true
+summary: Expenses were cut in fiscal 1938 as relief fell, then rose sharply with the 1938 recovery program and rearmament;
+  federal outlays never returned to 1937 levels.
+mechanisms:
+- type: message
+  name: Message on eliminating unnecessary expenditures
+  date: '1937-04-13'
+  doc: app-message-all-departments-and-agencies-eliminating-unnecessary-expenditures
+  effect: 1937 economy drive.
+  consistent: 'yes'
+  indicators:
+  - federal-outlays-pct-gdp
+- type: message
+  name: Message on stimulating recovery
+  date: '1938-04-14'
+  doc: app-message-congress-stimulating-recovery
+  effect: Spending resumed.
+  consistent: 'no'
+  indicators:
+  - federal-outlays-pct-gdp
+  - federal-surplus-deficit
+assessments:
+- doc: app-message-congress-stimulating-recovery
+  verdict: broken
+  reasoning: The condition -- declining relief needs -- reversed in the recession, and the President chose spending.
+obstruction:
+  reasons:
+  - economy
+  - war
+  explanation: Recession of 1937-38; rearmament.
+  doc: app-message-congress-stimulating-recovery
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,15 @@
+position: 1936-fdr-sound-stabilized-currency
+verdict: kept
+contested: false
+summary: The dollar's gold value was not changed after 1934; the Tripartite Agreement with Britain and France (Sept.
+  1936) and the stabilization fund kept exchange rates orderly; the greenback and silver powers were not used to
+  inflate.
+mechanisms: []
+assessments:
+- doc: app-annual-message-congress-0
+  verdict: kept
+  reasoning: No devaluation and no inflationary issue occurred in the second term.
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

@@ -1,0 +1,13 @@
+id: app-annual-message-the-congress
+source: app
+kind: message_to_congress
+title: Annual Message to the Congress
+date: '1940-01-03'
+author: Franklin D. Roosevelt
+url: https://www.presidency.ucsb.edu/documents/annual-message-the-congress
+citation: Franklin D. Roosevelt, "Annual Message to the Congress," 1940-01-03. The
+  American Presidency Project, https://www.presidency.ucsb.edu/documents/annual-message-the-congress
+fetched_at: '2026-09-13T09:35:33+00:00'
+sha256: 4eda998e6b789d7dcb672072c913e4936565b2d424c69c588d2be61e28b37cd8
+notes: null
+extra: {}

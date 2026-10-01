@@ -1,0 +1,16 @@
+cycle: 1936
+candidate: william-lemke
+position: 1936-lemke-refinance-farm-mortgages-frazier-lemke
+source_type: news_coverage
+source_name: David Lawrence from Helena, Evening Star
+date: '1936-08-15'
+perceived: In the West the Lemke-Coughlin-Townsend tickets 'draw votes from Mr. Roosevelt rather than from Mr. Landon.'
+fidelity: accurate
+salience: low
+doc: loc-sn83045462-1936-08-15-ed1-p7
+quote: For these third party tickets draw votes from Mr. Roosevelt rather than from Mr. Landon.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed

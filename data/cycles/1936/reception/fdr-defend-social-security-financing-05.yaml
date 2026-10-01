@@ -1,0 +1,18 @@
+cycle: 1936
+candidate: franklin-d-roosevelt
+position: 1936-fdr-defend-social-security-financing
+source_type: opposition
+source_name: Landon at Madison Square Garden (Republican closing argument)
+date: '1936-10-29'
+perceived: Workers' pay will be docked to build 'a phantom reserve fund' any Congress can spend; the President will
+  not say whether workers get back what they put in.
+fidelity: distorted
+salience: high
+doc: loc-sn83045462-1936-10-30-ed1-p41
+quote: they will have their pay docked for the purpose of building up a phantom reserve fund--a fund that any future
+  Congress can spend any time it sees lit and lor any purpose It sees fit.
+evidence_quality: A
+provenance:
+  created_by: claude-fable-5-1
+  created_at: '2026-09-16'
+  review_status: unreviewed
